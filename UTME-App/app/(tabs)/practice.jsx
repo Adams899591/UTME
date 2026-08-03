@@ -14,14 +14,22 @@ export default function CourseSelectionScreen({ onStartPractice }) {
   const router = useRouter();
 
   const availableCourses = [
-    { id: 'bio', name: 'Biology', icon: 'leaf-outline', description: 'Cellular biology, genetics, and ecology' },
-    { id: 'chem', name: 'Chemistry', icon: 'flask-outline', description: 'Organic, inorganic, and physical chemistry' },
-    { id: 'phys', name: 'Physics', icon: 'magnet-outline', description: 'Mechanics, thermodynamics, and optics' },
-    { id: 'math', name: 'Mathematics', icon: 'calculator-outline', description: 'Algebra, calculus, and trigonometry' },
-    { id: 'eng', name: 'English Language', icon: 'book-outline', description: 'Grammar, comprehension, and vocabulary' },
-    { id: 'gov', name: 'Government', icon: 'people-outline', description: 'Political systems, democracy, and laws' },
-    { id: 'lit', name: 'Literature in English', icon: 'library-outline', description: 'Prose, poetry, and drama analysis' },
-    { id: 'econ', name: 'Economics', icon: 'trending-up-outline', description: 'Microeconomics, macroeconomics, and trade' },
+  { id: 'bio', name: 'Biology', icon: 'leaf-outline', description: 'Cellular biology, genetics, and ecology' },
+  { id: 'chem', name: 'Chemistry', icon: 'flask-outline', description: 'Organic, inorganic, and physical chemistry' },
+  { id: 'phys', name: 'Physics', icon: 'magnet-outline', description: 'Mechanics, thermodynamics, and optics' },
+  { id: 'math', name: 'Mathematics', icon: 'calculator-outline', description: 'Algebra, calculus, and trigonometry' },
+  { id: 'eng', name: 'English Language', icon: 'book-outline', description: 'Grammar, comprehension, and vocabulary' },
+  { id: 'gov', name: 'Government', icon: 'people-outline', description: 'Political systems, democracy, and laws' },
+  { id: 'lit', name: 'Literature in English', icon: 'library-outline', description: 'Prose, poetry, and drama analysis' },
+  { id: 'econ', name: 'Economics', icon: 'trending-up-outline', description: 'Microeconomics, macroeconomics, and trade' },
+  { id: 'acct', name: 'Accounting', icon: 'receipt-outline', description: 'Financial reporting, bookkeeping, and ledgers' },
+  { id: 'comm', name: 'Commerce', icon: 'briefcase-outline', description: 'Trade, business organizations, and marketing' },
+  { id: 'geog', name: 'Geography', icon: 'earth-outline', description: 'Physical, human, and regional geography' },
+  { id: 'insur', name: 'Insurance', icon: 'shield-checkmark-outline', description: 'Risk management, policies, and claims' },
+  { id: 'crk', name: 'Christian Religious Knowledge', icon: 'book-half-outline', description: 'Biblical history, teachings, and doctrines' },
+  { id: 'irk', name: 'Islamic Religious Knowledge', icon: 'moon-outline', description: 'Islamic history, Quranic teachings, and Hadith' },
+  { id: 'civic', name: 'Civic Education', icon: 'ribbon-outline', description: 'Citizenship, human rights, and national values' },
+  { id: 'curr', name: 'Current Affairs', icon: 'newspaper-outline', description: 'National and international news, politics, and events' }
   ];
   
   const [selectedCourses, setSelectedCourses] = useState([]); 

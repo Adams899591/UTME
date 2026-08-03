@@ -1,7 +1,3 @@
-
-
-
-
 import React from 'react';
 import { View, Text } from 'react-native';
 import { Tabs } from 'expo-router';
@@ -47,11 +43,11 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
-        name="subjects"
+        name="subscription"
         options={{
-          title: 'Subjects',
+          title: 'Upgrade',
           tabBarIcon: ({ color, size }) => (
-            <Ionicons name="book-outline" size={size} color={color} />
+            <Ionicons name="star-outline" size={size} color={color} />
           ),
         }}
       />

@@ -53,7 +53,8 @@ export default function WelcomeScreen() {
       >
         {/* Dark Linear Gradient Overlay */}
         <LinearGradient
-          colors={['rgba(0,0,0,0.75)', 'rgba(0,0,0,0.65)', 'rgba(0,0,0,0.85)']}
+          // colors={['rgba(0,0,0,0.75)', 'rgba(0,0,0,0.65)', 'rgba(0,0,0,0.85)']}
+          colors={['rgba(0,0,0,0.5)', 'rgba(0,0,0,0.4)', 'rgba(0,0,0,0.6)']}
           className="absolute inset-0"
         />
 

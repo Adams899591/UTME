@@ -41,7 +41,7 @@ export default function CBTResultScreen({ route }) {
         </View>
 
         <TouchableOpacity 
-          onPress={() => router.replace('/')}
+          onPress={() => router.replace('/(tabs)/home')}
           className="w-9 h-9 rounded-xl bg-gray-100 justify-center items-center"
         >
           <Ionicons name="close-outline" size={20} color="#374151" />

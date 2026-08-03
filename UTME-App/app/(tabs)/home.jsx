@@ -20,13 +20,13 @@ const SNAP_OFFSET = CARD_WIDTH + 16; // Card width + margin offset
 // Quick action items configuration
 const QUICK_ACTIONS = [
   { id: '1', title: 'Practice', icon: 'book-open-outline', library: Ionicons, route: '/practice' },
-  { id: '2', title: 'Mock Exam', icon: 'file-text-outline', library: Ionicons, route: '/mock' },
-  { id: '3', title: 'Subjects', icon: 'grid-outline', library: Ionicons, route: '/subjects' },
-  { id: '4', title: 'Analytics', icon: 'stats-chart-outline', library: Ionicons, route: '/analytics' },
-  { id: '5', title: 'Bookmarks', icon: 'bookmark-outline', library: Ionicons, route: '/bookmarks' },
-  { id: '6', title: 'Leaderboard', icon: 'trophy-outline', library: Ionicons, route: '/leaderboard' },
-  { id: '7', title: 'AI Tutor', icon: 'chatbubbles-outline', library: Ionicons, route: '/ai-tutor' },
-  { id: '8', title: 'Settings', icon: 'settings-outline', library: Ionicons, route: '/settings' },
+  { id: '2', title: 'Mock Exam', icon: 'file-text-outline', library: Ionicons, route: '/home' },
+  { id: '3', title: 'Subjects', icon: 'grid-outline', library: Ionicons, route: '/practice' },
+  { id: '4', title: 'Analytics', icon: 'stats-chart-outline', library: Ionicons, route: '/screen/analytics-screen' },
+  { id: '5', title: 'Bookmarks', icon: 'bookmark-outline', library: Ionicons, route: '/home' },
+  { id: '6', title: 'Leaderboard', icon: 'trophy-outline', library: Ionicons, route: '/home' },
+  { id: '7', title: 'AI Tutor', icon: 'chatbubbles-outline', library: Ionicons, route: '/home' },
+  { id: '8', title: 'Settings', icon: 'settings-outline', library: Ionicons, route: '/home' },
 ];
 
 // Horizontal bottom promo cards using local assets
@@ -100,7 +100,7 @@ export default function HomeScreen() {
           
           <TouchableOpacity 
             activeOpacity={0.7}
-            onPress={() => router.push('/notifications')}
+            onPress={() => router.push('/home')}
             className="w-12 h-12 rounded-2xl bg-gray-50 border border-gray-100 justify-center items-center shadow-sm"
           >
             <Ionicons name="notifications-outline" size={22} color="#16a34a" />
