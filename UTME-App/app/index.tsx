@@ -35,8 +35,8 @@ export default function WelcomeScreen() {
   useEffect(() => {
     if (countdown === 0) {
       const timeout = setTimeout(() => {
-        // router.replace('/login');
-        router.replace('/home');
+        router.replace('/login');
+        // router.replace('/home');
       }, 0);
       return () => clearTimeout(timeout);
     }
