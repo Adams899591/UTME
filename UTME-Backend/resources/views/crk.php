@@ -1,0 +1,15416 @@
+{
+  "status": "success",
+  "subject": "crk",
+  "type": "utme",
+  "total_years_fetched": 24,
+  "data": {
+    "2001": [
+      {
+        "id": 453,
+        "question": "On matters of parental responsibility, Samuel could not be commended because he",
+        "option": {
+          "a": "made his children judges instead of priests.",
+          "b": "wanted his children to succeed him.",
+          "c": "did nothing to stop his children’s immoral behaviours.",
+          "d": "did not care what happened to Israel after his death."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 8,
+        "question": "What did God create on the fifth day? ",
+        "option": {
+          "a": "the firmament  ",
+          "b": "the two great light ",
+          "c": "water under the heaven ",
+          "d": "living Creature"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 377,
+        "question": "The miracles of Jesus in St. John’s Gospel are referred to as signs’ of the",
+        "option": {
+          "a": "manifestations of Jesus as the Messiah",
+          "b": "consuming power of God’s glory",
+          "c": "judgment that will come upon unbelievers",
+          "d": "second coming of Jesus."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 849,
+        "question": "Beside being a true prophetess, Deborah could also be described as a woman of",
+        "option": {
+          "a": "love",
+          "b": "glory",
+          "c": "peace",
+          "d": "charity"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 1006,
+        "question": "“Your father made our yoke heavy. Now therefore, lighten the hard service of your father.” These were the words of ",
+        "option": {
+          "a": "Jeroboam                            ",
+          "b": "Solomon.  ",
+          "c": "David",
+          "d": " Ahijah."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 904,
+        "question": "According to Daniel the command of Nebuchadnezzar to worship the golden image amounted to ",
+        "option": {
+          "a": " profanity      ",
+          "b": "idolatry.     ",
+          "c": "sacrilege",
+          "d": "abomination"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 448,
+        "question": "In their dealings with God, Abraham and Sarah learnt the \tfollowing lessons except that God is",
+        "option": {
+          "a": "able to bless the righteous.",
+          "b": "faithful to His promise",
+          "c": "all powerful-nothing is too hard for Him.",
+          "d": "not in a hurry to carry out His promises."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 998,
+        "question": "The sons of Eli were regarded as worthless men for all the ",
+        "option": {
+          "a": "sleeping with the women at the tent of meeting. ",
+          "b": "failing to attend the places of worship regularly. ",
+          "c": "taking the meat for sacrifice before boiling. ",
+          "d": "showing no respect for God."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 144,
+        "question": "What did Ahab do to Prophet Micaiah for speaking the truth about the war between Israel and Syria? ",
+        "option": {
+          "a": "he promoted him ",
+          "b": "he gave him a gift ",
+          "c": "he denied him any fox ",
+          "d": "he imprisoned him."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 892,
+        "question": "In the first creation story, the major difference between man and all other living things was that ",
+        "option": {
+          "a": "every other thing was created after man. ",
+          "b": "only man was given the power to be fruitful. ",
+          "c": "all other things were not created male and female. ",
+          "d": "man was created in the image of the creator"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 653,
+        "question": "The sons of Eli were regarded as worthless men for all the following reasons except",
+        "option": {
+          "a": "sleeping with the women at the tent of meeting",
+          "b": "failing to attend the places of worship regularly.",
+          "c": "taking the meat for sacrifice before boiling.",
+          "d": "showing no respect for God."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 566,
+        "question": "From Luke’s account of the baptism of Jesus, which of the following happened before the voice was heard?",
+        "option": {
+          "a": "John was reluctant to baptize Him.",
+          "b": "John called Jesus the Lamb of God.",
+          "c": "Jesus arrived with Peter, James and John",
+          "d": "The Holy Spirit descended upon Jesus."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 1005,
+        "question": "In spite of Solomon’s apostasy, his empire remained intact until his death because ",
+        "option": {
+          "a": "God deferred, for David’s sake, the punishment due to him",
+          "b": " he won decisive victories over his enemies. ",
+          "c": "he always took wise decisions",
+          "d": "he made surrounding nations fight among themselves."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 899,
+        "question": "Solomon showed lack of wisdom in ",
+        "option": {
+          "a": "building the temple. ",
+          "b": "his bilateral agreement with other nations. ",
+          "c": "engaging in commercial ventures. ",
+          "d": "marrying foreign wives."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 98,
+        "question": "For which of these prophets of God did the Bible record explicitly to have abandoned an agribusiness for a call to serve God? ",
+        "option": {
+          "a": "Elisha ",
+          "b": "Ezekiel ",
+          "c": "Elijah ",
+          "d": "Obadiah."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 414,
+        "question": "When the three Hebrew men refused to worship the King’s image, he commanded that they be",
+        "option": {
+          "a": "thrown into a furnace",
+          "b": "stoned",
+          "c": "beheaded",
+          "d": "thrown into the lion’s den."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 818,
+        "question": "St. John refers to Jesus’ miracles as ‘signs’ because they ",
+        "option": {
+          "a": "acceptance of Jesus as son of Go ",
+          "b": "proofs of the kingdom of Go ",
+          "c": "faith in Jesus as the means to eternal life.    ",
+          "d": "demand for more wonders"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 197,
+        "question": "At the time of creation, the river that flowed out of Eden to water the garden divided into",
+        "option": {
+          "a": "Pishon, Hauijah, Gihon and Tigris",
+          "b": "Tigris, Cush, Assune and Hauijah",
+          "c": "Pishon, Tigris, Gihon and Euphrates",
+          "d": "Euphrates, Gihon, Assyna and Tigris"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 407,
+        "question": "Solomon’s wisdom surpassed the wisdom of all the people of the East and all wisdom of Egypt because he",
+        "option": {
+          "a": "prayed and fasted daily",
+          "b": "employed the service of seers",
+          "c": "judged difficult cases",
+          "d": "got his wisdom from God."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 928,
+        "question": "Luke described Cornelius as a devout man who feared God because he was a ",
+        "option": {
+          "a": "Hellenist of the Italian Cohort. ",
+          "b": "Proselyte of Jewish descent. ",
+          "c": "Greek who favoured Jewish religion. ",
+          "d": "Proselyte in sympathy with Jewish faith."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 12,
+        "question": "In order that Benjamin might be brought to Egypt, Joseph  ",
+        "option": {
+          "a": "Reuben ",
+          "b": "Judah ",
+          "c": "Simon ",
+          "d": "Zebulon"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 648,
+        "question": "“…who is the Lord that I should heed his voice and let Israel go”? After this statement, Pharaoh",
+        "option": {
+          "a": "engaged Israel into forced labour with task masters.",
+          "b": "ordered midwives to kill all males born to Israelites.",
+          "c": "asked Israelites to fetch their own straws to produce bricks.",
+          "d": "decreed that Israelites’ male babies be drowned in the Nile."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 253,
+        "question": "In Paul’s arrangement of the spiritual gifts in Corinthians, the last is",
+        "option": {
+          "a": "the utterance of wisdom",
+          "b": "interpretation of tongues",
+          "c": "gifts of healing",
+          "d": "various kinds of tongues."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 923,
+        "question": "On the day of Pentecost, the Apostles were filled with the Holy Spirit and they all",
+        "option": {
+          "a": "prophesied.",
+          "b": "          spoke in tongues.",
+          "c": "baptised the converts.      ",
+          "d": "preached to the multitudes"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 712,
+        "question": "Divine Love is a ___________love.",
+        "option": {
+          "a": "stronge",
+          "b": "steadfast",
+          "c": "strange",
+          "d": "shaking"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 569,
+        "question": "The \u003Cem\u003Elost sheep\u003C/em\u003E and the \u003Cem\u003Elost coin\u003C/em\u003E share the following except that",
+        "option": {
+          "a": "both of them are lost and need to be found",
+          "b": "it is their owners’ responsibility to look for them.",
+          "c": "the coin, may not know that it is lost.",
+          "d": "their owners rejoice when they are found."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 175,
+        "question": "A prophet mostly emphasized the holiness of God. This prophet was  ",
+        "option": {
+          "a": "Hosea  ",
+          "b": "Jeremiah  ",
+          "c": "Ezekiel   ",
+          "d": "Isaiah"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 1041,
+        "question": "On the fourth day, God created the sun, moon and stars for the following purposes except. ",
+        "option": {
+          "a": "to separate the day from the night. ",
+          "b": "for signs of seasons, days and years. ",
+          "c": "to give light upon the earth. ",
+          "d": "to dry up flood from the face of the earth"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 835,
+        "question": "What advice did Peter give to the elders of the church in their relationship with the younger members? ",
+        "option": {
+          "a": "Work as if being under external constraint ",
+          "b": "Work without a domineering spirit ",
+          "c": "Work with a desire for material gains ",
+          "d": "Control their flocks with firm hands "
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 395,
+        "question": "Peter enjoined humility because the humble shall",
+        "option": {
+          "a": "not be tempted",
+          "b": "be blessed",
+          "c": "receive God’s grace",
+          "d": "have long life."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 1017,
+        "question": "“How is it that you a Jew ask a drink of me...” This statement was made by the ",
+        "option": {
+          "a": "Gentile woman. ",
+          "b": "            woman of  Samari",
+          "c": "possessed woman. ",
+          "d": "            woman of  Galilee"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 84,
+        "question": "Which prophet cried thus “woe is me” for lost, I am a man of unclean lips ",
+        "option": {
+          "a": "Hosea ",
+          "b": "Jeremiah ",
+          "c": "Isaiah ",
+          "d": "Micah "
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 1086,
+        "question": "As they were sharing Christ’s sufferings, Peter advised Christians to",
+        "option": {
+          "a": "be prayerful       ",
+          "b": "rejoice       ",
+          "c": "be trustful ",
+          "d": "persevere"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 893,
+        "question": "How old was Abram when God appeared to him the second time? ",
+        "option": {
+          "a": "75 years         ",
+          "b": "85 years        ",
+          "c": "99 years      ",
+          "d": "105 years"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 947,
+        "question": "The purpose of Joshua’s add ",
+        "option": {
+          "a": "show his love for Go",
+          "b": "establish a new covenant with God",
+          "c": "remind Israel of their unfaithfulness",
+          "d": "make Israel trust God."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 313,
+        "question": "During Jehoiakim’s reign, Judah was destroyed as punishment for Manasseh’s sin of",
+        "option": {
+          "a": "keeping Temple prostitutes in the land",
+          "b": "defiling the vessels in the Temple",
+          "c": "offering unacceptable sacrifice",
+          "d": "shedding innocent blood."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 87,
+        "question": "Let his habitation be made desolate, and let there be no one to live in it’ who is being referred to here?  ",
+        "option": {
+          "a": "King soul ",
+          "b": "Judas Iscariot ",
+          "c": "Stephen ",
+          "d": "Barnabas "
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 911,
+        "question": "According to Matthew’s account of the baptism of Jesus, the voice from heaven said ",
+        "option": {
+          "a": "“here is my beloved son...” ",
+          "b": "“this is my beloved son...” ",
+          "c": "“thou art my beloved son...” ",
+          "d": "“see my beloved son...”"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 745,
+        "question": "St. Paul's teaching on forgiveness primarily shows that________",
+        "option": {
+          "a": "Subordinates must regard their superiors and vice-versa for forgiveness to thrive",
+          "b": "Genuine forgiveness only comes from God",
+          "c": "Christians must not institute a 'Master-Servant' relationship contract",
+          "d": "Philemon had unilaterally decided not to accept Onesimus back"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 570,
+        "question": "The parable of the rich man and Lazarus indicates that",
+        "option": {
+          "a": "poverty is a mark of righteousness.",
+          "b": "death is a leveler for rich and poor",
+          "c": "only poor people will die physically.",
+          "d": "all rich men are going to hell fire."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      }
+    ],
+    "2002": [
+      {
+        "id": 20,
+        "question": "Who was authorized by God to go and liberate the Israelites the Egyptian bondage? ",
+        "option": {
+          "a": "Joshua ",
+          "b": "Daniel ",
+          "c": "Solomon ",
+          "d": "Moses."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 1030,
+        "question": "In his comparison of the human body with the body of Christ, Paul did not mention the ",
+        "option": {
+          "a": "han",
+          "b": "foot. ",
+          "c": "eye. ",
+          "d": "nose."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 1074,
+        "question": "Life in the Early Church was characterized by",
+        "option": {
+          "a": "fasting and almsgiving      ",
+          "b": "         prophetic activities ",
+          "c": "communal spirit ",
+          "d": "        honesty and peace"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 581,
+        "question": "Before Barnabas and Saul were sent on missionary journey, the elders, laid hands on them. The laying on of  hands signifies",
+        "option": {
+          "a": "confirmation.",
+          "b": "selection.",
+          "c": "commissioning.",
+          "d": "protection"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 1063,
+        "question": "The indigenous official of King Darius were unhappy with Daniel because he ",
+        "option": {
+          "a": "often reported them to the King ",
+          "b": "was a Jewish exile         ",
+          "c": " had an excel lent spirit ",
+          "d": "refused to worship the golden image"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 104,
+        "question": "Each of these spies sent out by Moses on God’s command to report on the nature of the promised land was a ",
+        "option": {
+          "a": "great warrior ",
+          "b": "wise judge ",
+          "c": "priest ",
+          "d": "leaders in his own tribe"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 992,
+        "question": "Moses was bom at a period when the Hebrews were",
+        "option": {
+          "a": "suffering.   ",
+          "b": ".   increasing",
+          "c": "backsliding",
+          "d": "rejoicing."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 1001,
+        "question": "“...Behold, to obey is better than sacrifice and to hearken than the fat of rams”. This statement was Samuel’s reaction to ",
+        "option": {
+          "a": "David’s defence of his sin",
+          "b": "Saul’s defence of disobedience. ",
+          "c": "King Agag’s defence of his victory",
+          "d": "Eli’s defence of the sins of his sons."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 1044,
+        "question": "“You shall be my own possession among all peoples” God made this promise to the Israelites on condition that they ",
+        "option": {
+          "a": "drove the Canaanite out of the land ",
+          "b": "kept away from foreign women ",
+          "c": "obeyed God’s voice and kept His covenant ",
+          "d": "taught their children to obey God"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 533,
+        "question": "“Holy, holy, holy is the Lord of host ....” The statement above was made in reference to the call of",
+        "option": {
+          "a": "Ezekiel",
+          "b": "Jeremiah",
+          "c": "Amos",
+          "d": "Isaiah"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 162,
+        "question": "The three sons of Saul who lost their live on Mount Gilboa were  ",
+        "option": {
+          "a": "Jonathan, Ishbosheth and Abinadab  ",
+          "b": "Abinadab, Jonathan and Ishbosheth  ",
+          "c": "Jonathan, Abinadab and Malchisua  ",
+          "d": "Ishbosheth, Malchishau and Abinadab"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 765,
+        "question": "For how long did the Lord supply the children of Israel with manna in the wilderness?",
+        "option": {
+          "a": "Forty Years",
+          "b": "Thirty-eight years",
+          "c": "Eleven months",
+          "d": "Twenty two years"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 12,
+        "question": "In order that Benjamin might be brought to Egypt, Joseph  ",
+        "option": {
+          "a": "Reuben ",
+          "b": "Judah ",
+          "c": "Simon ",
+          "d": "Zebulon"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 169,
+        "question": "In the Sermon on the Mount, Jesus taught his disciples that whenever they faced persecution, they should  ",
+        "option": {
+          "a": "be more serious with their drive for souls ",
+          "b": "be rejoiced and be exceedingly glad  ",
+          "c": "withdraw and  be less active  ",
+          "d": "resist persecution and fight for their rights  "
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 365,
+        "question": "Jesus came to John at River Jordan to",
+        "option": {
+          "a": "proclaim himself as Messiah",
+          "b": "disclose himself to John",
+          "c": "call some of John’s disciples",
+          "d": "receive baptism like others."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 251,
+        "question": "In Romans, Paul condemned sin taking over mortal bodies in the new life as instruments of",
+        "option": {
+          "a": "greediness",
+          "b": "wickedness",
+          "c": "sadness",
+          "d": "foolishness."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 114,
+        "question": "If anyone would be first, he must be last of all and servant of all. What does this saying of Jesus teach? ",
+        "option": {
+          "a": "endurance ",
+          "b": "lack of ambition ",
+          "c": "humility ",
+          "d": "relaxation"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 1005,
+        "question": "In spite of Solomon’s apostasy, his empire remained intact until his death because ",
+        "option": {
+          "a": "God deferred, for David’s sake, the punishment due to him",
+          "b": " he won decisive victories over his enemies. ",
+          "c": "he always took wise decisions",
+          "d": "he made surrounding nations fight among themselves."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 316,
+        "question": "‘What is this that you have done!”  The people in the ship asked Jonah the question above because",
+        "option": {
+          "a": "he was fast asleep in the ship",
+          "b": "they knew he was fleeing from the LORD",
+          "c": "he lied to them about his presence in the ship",
+          "d": "they realized that he had made attempts to commit suicide."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 527,
+        "question": "How old was Abram when God appeared to him the second time?",
+        "option": {
+          "a": "105 years",
+          "b": "75 years",
+          "c": "99 years",
+          "d": "85 years"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 567,
+        "question": "Before their first encounter with Jesus, Peter and Andrew were",
+        "option": {
+          "a": "preachers.",
+          "b": "tax collectors.",
+          "c": "fishermen.",
+          "d": "tent makers."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 67,
+        "question": "Moses fled from pharaoh at the age of ",
+        "option": {
+          "a": "45",
+          "b": "40",
+          "c": "85",
+          "d": "120"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 242,
+        "question": "Paul compares the manifestations of spiritual gifts in individual members of the Church to the",
+        "option": {
+          "a": "unity of the human body",
+          "b": "rights of the individual members of the Church",
+          "c": "rights of the different parts of the body",
+          "d": "unity of the Church"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 1026,
+        "question": "The resurrection of Jesus is significant to Christians for it marked the ",
+        "option": {
+          "a": "end of the Jewish faith. ",
+          "b": "assurance of eternal life for Christians. ",
+          "c": "beginning of Christianity ",
+          "d": "end of Jesus’earthly ministry"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 232,
+        "question": "Paul argued that Jesus died for us while we were yet sinners in order to",
+        "option": {
+          "a": "prove that he was not an ordinary man",
+          "b": "show Gods’ love for sinful man",
+          "c": "warn us to desist from sin",
+          "d": "give us power to possess the earth"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 591,
+        "question": "In Philippians, Paul taught that Jesus ‘humility and death on the cross earned Him",
+        "option": {
+          "a": "salvation for Israel.",
+          "b": "adoption as son of God.",
+          "c": "exaltation as Lord.",
+          "d": "eternal life in the kingdom."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 88,
+        "question": "The proconsul when Paul arrived in commit was called",
+        "option": {
+          "a": "Festus ",
+          "b": "portions ",
+          "c": "Pilate ",
+          "d": "Gallio "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 754,
+        "question": "Josiah sent _____the priest to inquire of the Lord from Huldah",
+        "option": {
+          "a": "Shallim",
+          "b": "Huldah",
+          "c": "Hilkiah",
+          "d": "Shapham"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 1038,
+        "question": "The Galatians, were reminded by Paul that they were Abraham’s offspring and heirs according to ",
+        "option": {
+          "a": "promise. ",
+          "b": "   good works. ",
+          "c": "     law. ",
+          "d": "grace"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 995,
+        "question": "After the departure of the Israelites God made Pharaoh pursue them in order to ",
+        "option": {
+          "a": "force Israel to return to Egypt",
+          "b": "hasten Israel’s journey through the wilderness. ",
+          "c": "make Israel obey Moses. ",
+          "d": "get glory over Pharaoh and his host."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 191,
+        "question": "Who was the prophet who said “I will put my law within them, and will write it upon their heart….”?  ",
+        "option": {
+          "a": "Isaiah  ",
+          "b": "Jeremiah",
+          "c": "Hosea   ",
+          "d": "Amos"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 109,
+        "question": "That was the sin of David that involved Bathseba? ",
+        "option": {
+          "a": "Murder ",
+          "b": "adultery ",
+          "c": "dishonesty ",
+          "d": "arrogance"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 894,
+        "question": "Which of the following was the first directive given to man after He had created him? ",
+        "option": {
+          "a": "Be fruitful and multiply, fill the earth and subdue ",
+          "b": "Go ye into the world and exercise full authority over ",
+          "c": "Be you kind to all creatures of the earth ",
+          "d": "Behold I have given you every plant yielding seed"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 564,
+        "question": "According to Amos’ prophecy, the “Day of the Lord” to the Israelites would be a day of",
+        "option": {
+          "a": "victory over enemies",
+          "b": "happiness.",
+          "c": "doom.",
+          "d": "national triumph."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 641,
+        "question": "According to Paul in Corinthians, generosity produce",
+        "option": {
+          "a": "righteousness",
+          "b": "salvation",
+          "c": "the grace of God",
+          "d": "thanksgiving to God"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 213,
+        "question": "The message of Amos was mainly about",
+        "option": {
+          "a": "the love of God",
+          "b": "man’s response to God’s love.",
+          "c": "the holiness of God",
+          "d": "social justice"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 245,
+        "question": "James recommends the anointing oil of the elders because such anointing",
+        "option": {
+          "a": "prepares the sick for his last journey",
+          "b": "makes the sick holy and righteous",
+          "c": "promotes physical recovery",
+          "d": "ensures forgiveness to the sick"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 166,
+        "question": "Eli’s inability to discipline his sons led to all the following except  ",
+        "option": {
+          "a": "God’s curse on his family  ",
+          "b": "the extension of his life span  ",
+          "c": "the cancellation of priesthood from his lineage",
+          "d": "the death of his sons"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 606,
+        "question": "David’s behaviour after Prophet Nathan accused him of murder and adultery showed his",
+        "option": {
+          "a": "justification",
+          "b": "repentance",
+          "c": "greed",
+          "d": "righteousness"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 678,
+        "question": "Saul was converted on his journey to",
+        "option": {
+          "a": "Samaria",
+          "b": "Jerusalem.",
+          "c": "Salamis.",
+          "d": "Damascus."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      }
+    ],
+    "2003": [
+      {
+        "id": 64,
+        "question": "Israel went into Assyrain captivity in ",
+        "option": {
+          "a": "71AD ",
+          "b": "720BC ",
+          "c": "722BC ",
+          "d": "68AD"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 210,
+        "question": "As a reward for their faith, Shadrach, Meshack and Abednego were",
+        "option": {
+          "a": "asked to return to Jerusalem",
+          "b": "granted respectable positions",
+          "c": "offered money by the king",
+          "d": "made to praise Yahweh"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 317,
+        "question": "What shall I do with you, O Ephraim? What shall I do with you, O Judah? Your love is like a morning cloud...” In the statement above, the love of Israel is compared to a morning cloud because it",
+        "option": {
+          "a": "disappears fast",
+          "b": "withers",
+          "c": "is cloudy",
+          "d": "darkens the day"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 474,
+        "question": "“Foxes have holes and birds of the air have nets; but the son of man has nowhere to lay His head”. By this statement, Jesus meant that His disciples",
+        "option": {
+          "a": "would not grow rich.",
+          "b": "would not enjoy good houses.",
+          "c": "had a lot of task ahead.",
+          "d": "had a lot of enemies."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 46,
+        "question": "Which of the following prophets was described as weeping prophet? ",
+        "option": {
+          "a": "Amos ",
+          "b": "Ezekiel ",
+          "c": "Jeremiah ",
+          "d": "Zephaniah."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2007"
+      },
+      {
+        "id": 789,
+        "question": "St. Paul on 'Civic Responsibility' advised Christians not only to be law-abiding but also_________",
+        "option": {
+          "a": "to provide moral advice to those in authority",
+          "b": "do what is expected of them",
+          "c": "shun membership of unlawful societies",
+          "d": "resist any illegitimate government"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 591,
+        "question": "In Philippians, Paul taught that Jesus ‘humility and death on the cross earned Him",
+        "option": {
+          "a": "salvation for Israel.",
+          "b": "adoption as son of God.",
+          "c": "exaltation as Lord.",
+          "d": "eternal life in the kingdom."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 500,
+        "question": "Paul in Romans said that the righteousness of God has been manifested through faith in Jesus Christ for",
+        "option": {
+          "a": "the exaltation of the authority",
+          "b": "the cleansing of the sinners",
+          "c": "the dead in Christ",
+          "d": "all those who believe"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 606,
+        "question": "David’s behaviour after Prophet Nathan accused him of murder and adultery showed his",
+        "option": {
+          "a": "justification",
+          "b": "repentance",
+          "c": "greed",
+          "d": "righteousness"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 932,
+        "question": "The Philippians showed their solidarity with Paul while in prison by ",
+        "option": {
+          "a": "using Ephraphroditus to appeal for his release. ",
+          "b": "sending gifts to him through Ephaphroditus. ",
+          "c": "sending envoys from Corinth to defend him. ",
+          "d": "offering regular sacrifices on his behalf"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 502,
+        "question": "Before Moses brought the Israelites to meet God on Mount Sinai, he charged them to",
+        "option": {
+          "a": "touch the mountain at the sight of smoke",
+          "b": "ensure they eat very well",
+          "c": "wash the garments and be consecrated",
+          "d": "mate with their wives for three days"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 1023,
+        "question": "Saul was converted on his journey to  ",
+        "option": {
+          "a": "Samaria                  ",
+          "b": " Jerusalem.",
+          "c": "  Salamis.",
+          "d": " Damascus"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 76,
+        "question": "Before Moses died. God appointed ………. to succeed him ",
+        "option": {
+          "a": "Aaron ",
+          "b": "Balaam",
+          "c": "Joshua ",
+          "d": "Manasseh "
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 797,
+        "question": "The first king of Israel lost his throne because he ",
+        "option": {
+          "a": "was a weak king. ",
+          "b": "knew little about governance. ",
+          "c": "lost the support of Yaweh",
+          "d": "was irresponsible."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 1085,
+        "question": "James advised against looking down on the poor because they are",
+        "option": {
+          "a": "the rightful heirs of the kingdom ",
+          "b": "those who spent time on the Lord",
+          "c": "for peace and self sacrifice",
+          "d": "those who contribute little but do a lot"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 1057,
+        "question": "Gehazi became a leper because of his",
+        "option": {
+          "a": "deceitfulness   ",
+          "b": "greed    ",
+          "c": "wickedness         ",
+          "d": "lies"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 235,
+        "question": "Paul said he was not fit to be called an apostle because he",
+        "option": {
+          "a": "was not called like the others",
+          "b": "was not a Jew",
+          "c": "persecuted the Early Church",
+          "d": "was only a distributor of letters"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 336,
+        "question": "What effect did the decision of the Council of Jerusalem have on the early Church?",
+        "option": {
+          "a": "Members became more untied",
+          "b": "the Church experienced freedom from persecution",
+          "c": "The Jews became leaders of the community.",
+          "d": "Gentiles were free to be members of the Church"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 45,
+        "question": "Moses fled from pharaoh at the age of ",
+        "option": {
+          "a": "45",
+          "b": "40",
+          "c": "85",
+          "d": "120"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2007"
+      },
+      {
+        "id": 950,
+        "question": "What reasons were put forward by the Israelites in asking for a king? ",
+        "option": {
+          "a": "The age of Samuel and the conduct of his sons",
+          "b": "The conduct of Samuel and the strength of the Philistines",
+          "c": "The age of Samuel and the conduct of Eli",
+          "d": "The conduct of Samuel and the age of his sons"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 1086,
+        "question": "As they were sharing Christ’s sufferings, Peter advised Christians to",
+        "option": {
+          "a": "be prayerful       ",
+          "b": "rejoice       ",
+          "c": "be trustful ",
+          "d": "persevere"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 808,
+        "question": "The person who discovered the book of law in the sanctuary during the reign of Josiah was ",
+        "option": {
+          "a": "Zedekiah         ",
+          "b": "Huldah.         ",
+          "c": "Hilkiah         ",
+          "d": "Jeremiah."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 290,
+        "question": "Immediately after the contest on Mount Carmel, Elijah prayed and God answered him with",
+        "option": {
+          "a": "thunder",
+          "b": "rainfall",
+          "c": "a whirlwind",
+          "d": "a heavy storm."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 646,
+        "question": "According to Joseph’s interpretation to Pharaoh’s dreams; the seven empty ears blighted by the east wind represented seven years of",
+        "option": {
+          "a": "famine.",
+          "b": "abundance.",
+          "c": "farming.",
+          "d": "Harvest"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 391,
+        "question": "In Romans. Paul stressed that the righteousness of God is",
+        "option": {
+          "a": "faith in the law for all who believe",
+          "b": "works of the law for all who believe",
+          "c": "fervent prayers by all believers",
+          "d": "faith in Jesus Christ for all who believe"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 669,
+        "question": "“My son your sins are forgiven”. These were the words of Jesus to the",
+        "option": {
+          "a": "demoniac.",
+          "b": "paralytic.",
+          "c": "man born blind",
+          "d": "centurion’s servant."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 767,
+        "question": "The Egyptians encamped at ____ when they pursued the Israelites",
+        "option": {
+          "a": "Raphidim",
+          "b": "The sea",
+          "c": "Pi-ha-hi-roth",
+          "d": "The wilderness of Sin"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 519,
+        "question": "The most important aspect of the religious reforms of King Josiah was the",
+        "option": {
+          "a": "renewal of the covenant",
+          "b": "cleaning of the Temple",
+          "c": "discovery of the tomb of the man of God",
+          "d": "discovery of the book of the law"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 1077,
+        "question": "The charge of drunkenness was levelled against the apostles on Pentecost day because",
+        "option": {
+          "a": "they were drunk before nine o’clock ",
+          "b": "they spoke in other tongues",
+          "c": "a power descended on them ",
+          "d": "they made an unintelligible noise"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 1054,
+        "question": "The wife of Phinehas named her prematured child Ichabod because",
+        "option": {
+          "a": "Israel had lost the Ark and her husband ",
+          "b": "the Philistines suffered a lot of casualties ",
+          "c": "her husband treated the Lord’s sacrifice with contempt ",
+          "d": "Eli failed to restrain his children"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 130,
+        "question": "What was Cain’s immediate reaction to the acceptance of Abel’s offering?",
+        "option": {
+          "a": "He offered another sacrifice ",
+          "b": "He was angry and his countenance fell ",
+          "c": "He was angry with God",
+          "d": "He was angry with Abel "
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 555,
+        "question": "God said to Solomon in a dream, \u003Cem\u003E“Ask what I shall give you”\u003C/em\u003E. What did Solomon ask for?",
+        "option": {
+          "a": "Power and authority",
+          "b": "Great wealth and riches",
+          "c": "Stable and long term in office",
+          "d": "An understanding mind"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 443,
+        "question": "According to Thessalonians, the second coming of the Lord will be",
+        "option": {
+          "a": "with the blowing of a trumpet",
+          "b": "after scoffers have come",
+          "c": "when the elements are dissolved",
+          "d": "like a thief in the night."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 937,
+        "question": "According to Paul’s teaching in Galatians, Christian become sons of God by ",
+        "option": {
+          "a": "According to Paul’s teaching in Galatians, Christian become sons of God by ",
+          "b": "adoption of Judaism",
+          "c": "being Abraham’s descendants.",
+          "d": "works of faith."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 127,
+        "question": "According to Paul in Romans, the law and the prophets bore witness to the righteousness of God but man could not be justified until he  ",
+        "option": {
+          "a": "Had faith in Jesus ",
+          "b": "Saw the glory of God ",
+          "c": "Made a serious personal effort ",
+          "d": "submitted wholly to the law "
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 762,
+        "question": "\"For the men in the ship knew that he was fleeing from the presence of the Lord\". The person referred to in this statement is________",
+        "option": {
+          "a": "Jonah",
+          "b": "Hosea",
+          "c": "Amos",
+          "d": "Elijah"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 1073,
+        "question": "According to Matthew, when the women met the risen Jesus, they",
+        "option": {
+          "a": "annointed him with spices ",
+          "b": "took hold of his feet and worshipped him       ",
+          "c": "told him the whereabouts of the disciples ",
+          "d": "asked him to accompany them."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 188,
+        "question": "‘Those who honour me I will honour , and those who despise  me shall be lightly esteemed.’ Who was being addressed?  ",
+        "option": {
+          "a": "Eli   ",
+          "b": "Samuel",
+          "c": "Hophni   ",
+          "d": "Joshua"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 528,
+        "question": "“Leaves the dead to bury their own dead ....” Jesus’ statement above to the man He asked to follow Him was indicative of",
+        "option": {
+          "a": "His power over death",
+          "b": "His desire to save the man",
+          "c": "the futility of life",
+          "d": "the cost of discipleship"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 994,
+        "question": "The name Moses means ",
+        "option": {
+          "a": "baptized in water",
+          "b": "abandoned in water.   ",
+          "c": "drawn out of water",
+          "d": "  thrown into water."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      }
+    ],
+    "2004": [
+      {
+        "id": 423,
+        "question": "“Lord, if you will, you can make me clean.” The statement above was made by the",
+        "option": {
+          "a": "leper",
+          "b": "paralytic",
+          "c": "centurion servant",
+          "d": "epileptic boy."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 631,
+        "question": "According to the Gospel of John, Jesus is the true vine while the vinedresser is (John 15:1)",
+        "option": {
+          "a": "the Holy Spirit",
+          "b": "His father",
+          "c": "the gardener",
+          "d": "His mother"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 863,
+        "question": "The tribes which lead the Jews in rebuilding the temple were",
+        "option": {
+          "a": "Judah and Benjamin",
+          "b": " Levi and Gad",
+          "c": "Ephraim and Manasseh",
+          "d": "Reuben and Zebulum"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 705,
+        "question": "For our prayers to manifest, we must be ________.",
+        "option": {
+          "a": "caring",
+          "b": "careful",
+          "c": "cheerful",
+          "d": "carefree"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 1082,
+        "question": "Partially, according to James, is practised in the church by ",
+        "option": {
+          "a": "neglecting the poor        ",
+          "b": "misusing church funds ",
+          "c": "respecting the educated members ",
+          "d": "offering service to non - believers"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 545,
+        "question": "Amos is often referred to as a prophet of",
+        "option": {
+          "a": "doom",
+          "b": "love",
+          "c": "hope",
+          "d": "justice"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 467,
+        "question": "The first batch of Jewish exiles to rebuild the temple was under the leadership of",
+        "option": {
+          "a": "Joshua.",
+          "b": "Hanani.",
+          "c": "Sheshbazzar.",
+          "d": "Zerubabel."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 1011,
+        "question": "During the rebuilding of the temple, Zerubbabel rejected the offer of help from the    ",
+        "option": {
+          "a": "inhabitants of Ammon. ",
+          "b": "           people of Samari   ",
+          "c": "friends of Sanballat and Tobiah        ",
+          "d": "governors of the provinces beyond the rivers"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 632,
+        "question": "‘...Why has Satan filled your heart to lie to the Holy Spirit..’ Peter rebuked Ananias in the statement above for his sin of (Acts 5:3-4)",
+        "option": {
+          "a": "greed",
+          "b": "insincerity",
+          "c": "covetousness",
+          "d": "partiality."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 486,
+        "question": "Paul’s teaching in Colossians on love, respect and obedience concerns",
+        "option": {
+          "a": "Christian giving.",
+          "b": "family relationship.",
+          "c": "master servant relationship.",
+          "d": "Christian relations with their enemies."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 318,
+        "question": "According to Amos, God desires knowledge of Him rather than",
+        "option": {
+          "a": "fervent prayers",
+          "b": "dependency on the Law",
+          "c": "the multitude of prophecies",
+          "d": "burnt offerings"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 977,
+        "question": "The appointment of the Seven Deacons highlighted the need for ",
+        "option": {
+          "a": "sharing responsibility. ",
+          "b": "distributing gifts among the apostles",
+          "c": "living in peace with each other. ",
+          "d": "organizing social services"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 541,
+        "question": "The church that was commended for giving even when in extreme poverty was in",
+        "option": {
+          "a": "Galatia",
+          "b": "Corinth",
+          "c": "Macedonia",
+          "d": "Thessalonica"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 911,
+        "question": "According to Matthew’s account of the baptism of Jesus, the voice from heaven said ",
+        "option": {
+          "a": "“here is my beloved son...” ",
+          "b": "“this is my beloved son...” ",
+          "c": "“thou art my beloved son...” ",
+          "d": "“see my beloved son...”"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 379,
+        "question": "The miracles of Jesus recorded in John’s gospel are called",
+        "option": {
+          "a": "works",
+          "b": "signs",
+          "c": "powers",
+          "d": "wonders."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 441,
+        "question": "When Christians give freely, God will supply",
+        "option": {
+          "a": "only for those that give",
+          "b": "their needs according to His riches in glory",
+          "c": "their needs according to the measure they give",
+          "d": "their needs day by day."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 437,
+        "question": "According to Colossians, the Lord does not wish that any should perish, but that all should",
+        "option": {
+          "a": "rejoice",
+          "b": "be saved",
+          "c": "be humble",
+          "d": "repent"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 575,
+        "question": "At whose well did Jesus meet the Samaritan woman?",
+        "option": {
+          "a": "Abraham",
+          "b": "Isaac",
+          "c": "Jacob",
+          "d": "Joseph"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 959,
+        "question": "According to Ezekiel, the wicked person should ",
+        "option": {
+          "a": "be stoned to death. ",
+          "b": "redeem himself. ",
+          "c": " be reprimanded by the prophet. ",
+          "d": "pay for the sins committed."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 417,
+        "question": "Amos’ prophecies which were considered as a conspiracy against the northern kingdom were reported to the king by",
+        "option": {
+          "a": "Micaiah",
+          "b": "Amaziah",
+          "c": "Hilkiah",
+          "d": "Micah."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 44,
+        "question": "Who baptized the Ethiopian Eunuch? ",
+        "option": {
+          "a": "Paul ",
+          "b": "peter ",
+          "c": "Philip ",
+          "d": "Rufus"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2007"
+      },
+      {
+        "id": 331,
+        "question": "“Tell people, His disciples came by night and stole him away while we were asleep...” The intention of the speaker in the statement above was to",
+        "option": {
+          "a": "implicate the disciples",
+          "b": "absolve the soldiers from all blame",
+          "c": "deny the resurrection story",
+          "d": "convince the authority"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 133,
+        "question": "Who according to James blaspheme the honourable name by which Christians are called",
+        "option": {
+          "a": "Non believers",
+          "b": "Pagan rulers",
+          "c": "Antichrists",
+          "d": "Rich people"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 52,
+        "question": "Explain why Jesus was identified as the lamb by John (Jn:1:29 ) ",
+        "option": {
+          "a": "lamb of God is a figurative language which describes Christ sacrificial mission in the word ",
+          "b": "he is being compared to the Passover Lamb that would atone for the sins of all world ",
+          "c": "Because the lamb is attentive to his owner ",
+          "d": "it shows patience, meekness, gentleness and innocence"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 274,
+        "question": "“1 will not eat until I have told my errand” In the statement above, the errand of Abraham’s servant was to",
+        "option": {
+          "a": "find a wife for Isaac",
+          "b": "deliver the camels to Laban",
+          "c": "assess Isaac’s future wife",
+          "d": "deliver Isaac’s message to Laban"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 513,
+        "question": "Who was the king that granted Nehemiah permission to go and rebuild Jerusalem?",
+        "option": {
+          "a": "Darius",
+          "b": "Nebuchadnezzar",
+          "c": "Artaxerxes",
+          "d": "Cyrus"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 12,
+        "question": "In order that Benjamin might be brought to Egypt, Joseph  ",
+        "option": {
+          "a": "Reuben ",
+          "b": "Judah ",
+          "c": "Simon ",
+          "d": "Zebulon"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 122,
+        "question": "The expression ‘dry bones’ in Ezekiel refers to ",
+        "option": {
+          "a": "an Israelites proverb ",
+          "b": "the whole house of Israel ",
+          "c": "the slain in the valley ",
+          "d": "sinful Israelites and Judean"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 34,
+        "question": "The last things which Zedekiah saw before his eyes were removed was the ",
+        "option": {
+          "a": "Egyptian army ",
+          "b": "slaughter of all his sons ",
+          "c": "city of Jerusalem ",
+          "d": "feasting of the children of Israel "
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2007"
+      },
+      {
+        "id": 313,
+        "question": "During Jehoiakim’s reign, Judah was destroyed as punishment for Manasseh’s sin of",
+        "option": {
+          "a": "keeping Temple prostitutes in the land",
+          "b": "defiling the vessels in the Temple",
+          "c": "offering unacceptable sacrifice",
+          "d": "shedding innocent blood."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 651,
+        "question": "Who among the following kings was raised by God against the Israelites for going after the Canaanite gods?",
+        "option": {
+          "a": "Agap",
+          "b": "Jabin",
+          "c": "Zebah",
+          "d": "Zalmunnal"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 530,
+        "question": "“What is this conversation which you are holding with each other ...” Jesus made the statement above to",
+        "option": {
+          "a": "Cleopas and the other disciple when",
+          "b": "they were on their way to Emmaus",
+          "c": "He was about to be arrested",
+          "d": "they were gathered in a room after His resurrection"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 642,
+        "question": "Busy bodies and those living in idleness in the church at Thessalonica were admonished to",
+        "option": {
+          "a": "pray for those in authority for peace",
+          "b": "do their work in quietness and earn a living",
+          "c": "appeal to those in authority to create jobs",
+          "d": "endure persecution from their masters."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 1021,
+        "question": "On Ascension day two men in white robes inform the disciples that Jesus would ",
+        "option": {
+          "a": "send for them.   ",
+          "b": "be seen in heaven. ",
+          "c": "prepare a place for them.    ",
+          "d": "come again"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 700,
+        "question": "When David learnt that the child born to him by Bethsheba had died, he ____________,",
+        "option": {
+          "a": "fasted and prayed for the dead",
+          "b": "tore his robe and dismissed his court",
+          "c": "anointed himself and worshipped the Lord",
+          "d": "sought Nathan’s counsel on what to do next"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 1090,
+        "question": "Peter admonished church leaders to take care of the flock of Christ in order to",
+        "option": {
+          "a": "restrain men from degrading the church ",
+          "b": "obtain God’s crown of glory ",
+          "c": "build a vibrant church ",
+          "d": "ensure discipline in the church"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 119,
+        "question": "“It is not the sound of shouting for victory, or the sound of the cry of defeat, but the sound of singing that I hear” When was this statement made? ",
+        "option": {
+          "a": "at the consecration of the Israelites ",
+          "b": "at the crossing of the Red Sea ",
+          "c": "during the fall of Jericho ",
+          "d": "in a strange worship of a god"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 665,
+        "question": "God’s constant love for unfaithful Israel is demonstrated in the book of",
+        "option": {
+          "a": "Amos",
+          "b": "Isaiah",
+          "c": "Hosea",
+          "d": "Ezekiel"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 327,
+        "question": "Jesus encouraged His followers to rejoice when they were \tpersecuted because",
+        "option": {
+          "a": "great would be their reward in heaven",
+          "b": "angels would come to their aid",
+          "c": "they would not lack anything good",
+          "d": "all their sins would be forgiven."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 282,
+        "question": "What did Gideon call the altar which he built to the LORD?",
+        "option": {
+          "a": "The LORD is merciful",
+          "b": "The LORD is peace",
+          "c": "Jehovah Jireh",
+          "d": "The LORD is great"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      }
+    ],
+    "2005": [
+      {
+        "id": 789,
+        "question": "St. Paul on 'Civic Responsibility' advised Christians not only to be law-abiding but also_________",
+        "option": {
+          "a": "to provide moral advice to those in authority",
+          "b": "do what is expected of them",
+          "c": "shun membership of unlawful societies",
+          "d": "resist any illegitimate government"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 907,
+        "question": "Jeremiah viewed the relationship between God and Israel in her youth to be that of ",
+        "option": {
+          "a": "compassion, sincerity and hope",
+          "b": "",
+          "c": "obedience, tolerance and mercy. ",
+          "d": "righteousness, kindness and zeal. "
+        },
+        "section": "loyalty, love and faithfulness",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 906,
+        "question": "Yet what they are building if a fox goes up on it he will breakdown their stone wall”. This statement by Tobias was ",
+        "option": {
+          "a": "taunt and ridicule the Jews",
+          "b": "stop and disgrace the Jews",
+          "c": "tease and punish Nehemiah.",
+          "d": "alert and strengthen Nehemiah"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 670,
+        "question": "Peter called for the construction of three booths for Jesus, Moses and Elijah, respectively during",
+        "option": {
+          "a": "the transfiguration.",
+          "b": "the Ascension.",
+          "c": "Jesus’ arrest.",
+          "d": "the Passover feast."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 323,
+        "question": "‘Follow me and leave the dead to bury their own dead’ By this statement, Jesus means that",
+        "option": {
+          "a": "disciples shall not attend burials",
+          "b": "there is no life after death",
+          "c": "following Him comes before anything else",
+          "d": "shall leave their families in God’s care"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 908,
+        "question": "Darius became convinced of God’s power through Daniel’s ",
+        "option": {
+          "a": "constant praying and fasting. ",
+          "b": "interpretation of mysteries. ",
+          "c": "",
+          "d": "faithfulness and steadfastness.  "
+        },
+        "section": "fearlessness in the face of difficulties",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 227,
+        "question": "The experience which totally changed Paul’s focus in life was his",
+        "option": {
+          "a": "witnessing the martyrdom of Stephen",
+          "b": "determination to wipe out the church",
+          "c": "participation in the council of Jerusalem",
+          "d": "encounter with Jesus on the road to Damascus"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 1057,
+        "question": "Gehazi became a leper because of his",
+        "option": {
+          "a": "deceitfulness   ",
+          "b": "greed    ",
+          "c": "wickedness         ",
+          "d": "lies"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 1075,
+        "question": "The appointment of deacons in the Early Church was meant to check",
+        "option": {
+          "a": "discrimination and favouritism ",
+          "b": "dishonesty and stealing    ",
+          "c": "cheating and tribalism ",
+          "d": "greediness and lying"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 609,
+        "question": "Naaman’s leprosy was transferred to Gehazi be¬cause Gehazi was",
+        "option": {
+          "a": "ambitious",
+          "b": "anxious",
+          "c": "covetous",
+          "d": "contemptuous"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 159,
+        "question": "Who was one of the Seven Deacons who had four daughters who were prophetesses?  ",
+        "option": {
+          "a": "Nicolaus  ",
+          "b": "Stephen  ",
+          "c": "Prochorus  ",
+          "d": "Philip "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 498,
+        "question": "The ruler of the synagogue whose child Jesus raised to life was",
+        "option": {
+          "a": "Zebedee",
+          "b": "a widow",
+          "c": "Jairus",
+          "d": "a centurion"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 471,
+        "question": "Jesus ordered the seventy disciples not to salute any one because",
+        "option": {
+          "a": "their mission required urgency.",
+          "b": "it is not part of their mission to salute people.",
+          "c": "they may forget their mission.",
+          "d": "salutations to strangers defile the Jews."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 104,
+        "question": "Each of these spies sent out by Moses on God’s command to report on the nature of the promised land was a ",
+        "option": {
+          "a": "great warrior ",
+          "b": "wise judge ",
+          "c": "priest ",
+          "d": "leaders in his own tribe"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 388,
+        "question": "New life in Christ means",
+        "option": {
+          "a": "paying your tithe regularly",
+          "b": "helping the poor and the needy",
+          "c": "being dead to sin",
+          "d": "getting baptized."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 1036,
+        "question": "Paul, pleaded with Philemon to forgive  ",
+        "option": {
+          "a": "Barnabas.               ",
+          "b": "   Timothy.",
+          "c": " Onesimus. ",
+          "d": "   Silas"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 12,
+        "question": "In order that Benjamin might be brought to Egypt, Joseph  ",
+        "option": {
+          "a": "Reuben ",
+          "b": "Judah ",
+          "c": "Simon ",
+          "d": "Zebulon"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 1069,
+        "question": "Golgotha means the place of",
+        "option": {
+          "a": " the dead   ",
+          "b": "crucifixion         ",
+          "c": "sacrifice      ",
+          "d": "the skull"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 195,
+        "question": "“O dry bones, hear the word of the Lord… “The dry bones mentioned by Prophet Ezekiel  in the statement above refer to the",
+        "option": {
+          "a": "Amalakite king and soldiers  ",
+          "b": "Whole house of Israel  ",
+          "c": "Hittites and the Assyrians  ",
+          "d": "Babylonians troubling Israel"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 288,
+        "question": "The Kingdom of Israel was divided because the",
+        "option": {
+          "a": "kingdom was too large to be administered",
+          "b": "leadership wanted to create more nations",
+          "c": "followership wanted more nations",
+          "d": "last two kings made unwise policies."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 1031,
+        "question": "The New Life in Christ operates through   ",
+        "option": {
+          "a": "humility.    .        .",
+          "b": "the name of Jesus",
+          "c": "   one body.",
+          "d": "wisdom"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 312,
+        "question": "The workmen who repaired the house of the LORD during Josiah’s religious reforms were not made to account for the money given them because they",
+        "option": {
+          "a": "did not receive the money directly",
+          "b": "lacked accounting capabilities",
+          "c": "bribed the Temple officials",
+          "d": "were honest workmen."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 743,
+        "question": "St. Paul had already boasted to the ______and for this reason he sent a reminder letter to the ______ on Christian giving",
+        "option": {
+          "a": "Macedonians, Corinthians",
+          "b": "Thessalonians, Church in Achaia",
+          "c": "Romans, Church in Antioch",
+          "d": "Philippians, Corinthians"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 444,
+        "question": "According to James, when we meet various trails in life, we should",
+        "option": {
+          "a": "bless God’s name",
+          "b": "call upon the name of the Lord",
+          "c": "count it all joy",
+          "d": "rejoice because the Lord is good."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 909,
+        "question": "God addressed Ezekiel as the “Son of man “. This phrase ",
+        "option": {
+          "a": "humanity.      ",
+          "b": "character",
+          "c": "C.. humility",
+          "d": "elegance"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 619,
+        "question": "God told Ezekiel that the house of Israel would not listen to him because they",
+        "option": {
+          "a": "were a people of foreign speech",
+          "b": "had forsaken His laws",
+          "c": "were of a stubborn heart",
+          "d": "had not truly repented"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 206,
+        "question": "When God said to Solomon, “Ask what I shall give you”, he requested for",
+        "option": {
+          "a": "long life and prosperity",
+          "b": "power and assistance against his enemies",
+          "c": "peace and understanding to serve God",
+          "d": "wisdom and understanding to serve the people"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 424,
+        "question": "The disciples of Jesus could not heal the boy with epilepsy because they",
+        "option": {
+          "a": "did not fast",
+          "b": "had little faith",
+          "c": "were powerless",
+          "d": "did not pray."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 858,
+        "question": " Josiah sent the ashes of the burnt vessels of Baal to Bethel in order to",
+        "option": {
+          "a": "desecrate the golden calf being worshipped",
+          "b": "desecrate the place for child sacrifice",
+          "c": "despoil the high places of Asherah",
+          "d": "consecrate that place for Yahweh worship"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 1080,
+        "question": "Peter’s tour of Lydda led to the",
+        "option": {
+          "a": "development of the church in Caesarca ",
+          "b": "conversion of the residents of sharon ",
+          "c": "conversion of Cornelius and his household ",
+          "d": "healing of Dorcas and her family"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 359,
+        "question": "Gomer’s attitude towards her loving husband symbolizes",
+        "option": {
+          "a": "Hosea’s unfaithfulness to God",
+          "b": "Israel’s faithfulness to God",
+          "c": "God’s love for Israel",
+          "d": "God’s hatred for Israel’s iniquities."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 737,
+        "question": "To St Paul, Christians can prepare for the second coming of Christ by______",
+        "option": {
+          "a": "Righteous living",
+          "b": "Spreading the message of Christ's coming far and wide",
+          "c": "Being prayerful and watchful",
+          "d": "Relentlessly fasting and praying"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 88,
+        "question": "The proconsul when Paul arrived in commit was called",
+        "option": {
+          "a": "Festus ",
+          "b": "portions ",
+          "c": "Pilate ",
+          "d": "Gallio "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 360,
+        "question": "The universal nature of God was demonstrated in the salvation of the people of",
+        "option": {
+          "a": "Joppa",
+          "b": "Tarshish",
+          "c": "Tekoa",
+          "d": "Nineveh."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 199,
+        "question": "“Two nations are in your womb, and two peoples born of you shall be divided”. The two people are",
+        "option": {
+          "a": "Moses and Jacob",
+          "b": "Jacob and Benjamin",
+          "c": "Esau and Ishmael",
+          "d": "Esau and Jacob"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 163,
+        "question": "The original name of Shadrach was  ",
+        "option": {
+          "a": "Daniel  ",
+          "b": "Mishael  ",
+          "c": "Hananiah  ",
+          "d": "Azariah"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 997,
+        "question": "Deborah, a prophetess who was a judge in Israel was the wife of    ",
+        "option": {
+          "a": "Joshu ",
+          "b": "Abijah",
+          "c": "Lappidoth.  ",
+          "d": "Sisera."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 523,
+        "question": "“How is it that you have agreed together to tempt the spirit of the Lord ....” The statement above was made in reference to the greed of",
+        "option": {
+          "a": "Gehazi and Naaman",
+          "b": "Ahab and Jezebel",
+          "c": "Judas and scribes",
+          "d": "Ananias and Sapphira"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 318,
+        "question": "According to Amos, God desires knowledge of Him rather than",
+        "option": {
+          "a": "fervent prayers",
+          "b": "dependency on the Law",
+          "c": "the multitude of prophecies",
+          "d": "burnt offerings"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 881,
+        "question": "And we are witnesses to these  things, and so is the Holy Spirit whom God has given to those who obey him”\n “These things” in the disciples’ statement before the\n Sanhedrin refers to\n",
+        "option": {
+          "a": "the election of Matthias",
+          "b": "outpouring of the Holy Spirit",
+          "c": "cater for the poor and needy",
+          "d": "defend Christianity as a true religious "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      }
+    ],
+    "2006": [
+      {
+        "id": 412,
+        "question": "King Josiah was killed by Pharaoh Neco in a battle at",
+        "option": {
+          "a": "Syria",
+          "b": "Meggiddo",
+          "c": "Megiddo",
+          "d": "Egypt."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 225,
+        "question": "The final trial of Jesus was presided over by",
+        "option": {
+          "a": "Herod",
+          "b": "Caiaphas",
+          "c": "the High Priest",
+          "d": "Pilate"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 467,
+        "question": "The first batch of Jewish exiles to rebuild the temple was under the leadership of",
+        "option": {
+          "a": "Joshua.",
+          "b": "Hanani.",
+          "c": "Sheshbazzar.",
+          "d": "Zerubabel."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 393,
+        "question": "Paul said in Galatians that, before faith came, we were confined under",
+        "option": {
+          "a": "grace",
+          "b": "the law",
+          "c": "righteousness",
+          "d": "love"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 826,
+        "question": "Before Barnabas and Saul were sent on missionary journey, the elders, laid hands on them. The laying on of  hands signifies  ",
+        "option": {
+          "a": "confirmation",
+          "b": "selection",
+          "c": " commissioning",
+          "d": "protection "
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 505,
+        "question": "In his teaching on effective prayer, James said that the prayer of faith would",
+        "option": {
+          "a": "influence the authority",
+          "b": "heal and cleanse sins",
+          "c": "ensure salvation for the sick",
+          "d": "enhance commitment to church"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 761,
+        "question": "According to St Paul, God sent the spirit of his son into men's heart-----",
+        "option": {
+          "a": "So that become and act like a God",
+          "b": "For Purification",
+          "c": "For the Redemption of their Sins",
+          "d": "Crying,"
+        },
+        "section": "",
+        "image": "",
+        "answer": " d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 7,
+        "question": "Charismatic leaders in the Book of Judges arose in Israel to ",
+        "option": {
+          "a": "revive faith in Yahweh ",
+          "b": "rally the tribe together ",
+          "c": "lead the Israel to battles ",
+          "d": "settle dispute"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 91,
+        "question": "What did God create on the 6th day ",
+        "option": {
+          "a": "The firmament ",
+          "b": "light ",
+          "c": "Dry land and sea ",
+          "d": "man and living creatures "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 690,
+        "question": "With respect to the date of the Parosia, Paul advised Thessalonians to",
+        "option": {
+          "a": "be sober in maintaining their hope of salvation.",
+          "b": "disregard all speculations about it.",
+          "c": "know that the day would be announced later.",
+          "d": "enjoy peace and security in the face of danger."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 924,
+        "question": "The Jewish religious sect which did not believe in resurrection were the",
+        "option": {
+          "a": "Pharisees. .    ",
+          "b": "  Zealots",
+          "c": "  Sadducees. ",
+          "d": " Essenes"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 425,
+        "question": "The seeds that fell among the thorns in the parable of the sower refer to people that heard the word of God but",
+        "option": {
+          "a": "the evil one snatched it",
+          "b": "had no faith to nurture it",
+          "c": "the criticism of others quenched it",
+          "d": "the cares of the words choked it."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 202,
+        "question": "When Saul and his troops came after David in the wilderness of Ziph, David and Abishai went to Saul’s camp \t\tto",
+        "option": {
+          "a": "slay him",
+          "b": "surprise him",
+          "c": "capture him alive",
+          "d": "dialogue with him"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 950,
+        "question": "What reasons were put forward by the Israelites in asking for a king? ",
+        "option": {
+          "a": "The age of Samuel and the conduct of his sons",
+          "b": "The conduct of Samuel and the strength of the Philistines",
+          "c": "The age of Samuel and the conduct of Eli",
+          "d": "The conduct of Samuel and the age of his sons"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 925,
+        "question": "“...yet the most high does not dwell in houses made with hands..,” This defence of Stephen meant that God is",
+        "option": {
+          "a": "Omnipotent.",
+          "b": "Omnipresent.",
+          "c": "Alpha.",
+          "d": "Omega."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 1046,
+        "question": "The names of the sons of Jacob listed in the book of Exodus excluded Joseph because ",
+        "option": {
+          "a": "Joseph was represented by his two sons ",
+          "b": "the Israelites thought Joseph had died ",
+          "c": "the list covered only those who came to Egypt with Jaco",
+          "d": "it was an oversight on the part of the writers"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 441,
+        "question": "When Christians give freely, God will supply",
+        "option": {
+          "a": "only for those that give",
+          "b": "their needs according to His riches in glory",
+          "c": "their needs according to the measure they give",
+          "d": "their needs day by day."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 991,
+        "question": "According to Joseph’s interpretation to Pharaoh’s dreams; ",
+        "option": {
+          "a": "famine",
+          "b": "abundance",
+          "c": "farming. ",
+          "d": "harvest"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 273,
+        "question": "For worshipping the molten calf, God described the Israelites as",
+        "option": {
+          "a": "a stubborn nation",
+          "b": "an unholy nation",
+          "c": "a stiff-necked people",
+          "d": "an unrighteous people"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 969,
+        "question": " Before His ascension the apostles asked Jesus, “Lord will you at this time restore the kingdom to Israel?” This implies that",
+        "option": {
+          "a": "some apostles wanted posts in Jesus’ government. ",
+          "b": "the zealots were ready to attack the Romans",
+          "c": "Jesus was misunderstood as a political Messiah. ",
+          "d": "Jesus’ plans were not known to them."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 665,
+        "question": "God’s constant love for unfaithful Israel is demonstrated in the book of",
+        "option": {
+          "a": "Amos",
+          "b": "Isaiah",
+          "c": "Hosea",
+          "d": "Ezekiel"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 564,
+        "question": "According to Amos’ prophecy, the “Day of the Lord” to the Israelites would be a day of",
+        "option": {
+          "a": "victory over enemies",
+          "b": "happiness.",
+          "c": "doom.",
+          "d": "national triumph."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 193,
+        "question": "One of the following is not among the “I am” Sayings of Jesus  ",
+        "option": {
+          "a": "I am the bread of life",
+          "b": "I am the gate of life",
+          "c": "I am the good shepherd",
+          "d": "I am the way"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 112,
+        "question": "Jesus taught that one should make friends quickly with one’s ",
+        "option": {
+          "a": "enemy ",
+          "b": "neighbor ",
+          "c": "master ",
+          "d": "accuser"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 87,
+        "question": "Let his habitation be made desolate, and let there be no one to live in it’ who is being referred to here?  ",
+        "option": {
+          "a": "King soul ",
+          "b": "Judas Iscariot ",
+          "c": "Stephen ",
+          "d": "Barnabas "
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 1079,
+        "question": "The boldness of Peter and John before the Sanhedrin was attributed to",
+        "option": {
+          "a": "their having great influence ",
+          "b": "possession of great strength ",
+          "c": "their being with Jesus ",
+          "d": "their ability to defend themselves"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 1076,
+        "question": "One remarkable thing about the feast of Pentecost for Christians was that it ",
+        "option": {
+          "a": "attracted many foreigners into Israel ",
+          "b": "enabled people to speak in tongues ",
+          "c": "marked the celebration of grain harvest ",
+          "d": "brought home many Jewish nationals"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 792,
+        "question": "Which of the following rivers flowed out of Eden to water ",
+        "option": {
+          "a": "Abana            ",
+          "b": " Pharpar              ",
+          "c": "Pishon             ",
+          "d": "Nile"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 366,
+        "question": "“Blessed are the peace makers for",
+        "option": {
+          "a": "theirs is the kingdom of God”",
+          "b": "they shall be called sons of God”",
+          "c": "they shall inherit the earth”",
+          "d": "they shall be comforted”."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 775,
+        "question": "... updated Nehemiah about the state of Jerusalem while he was ...",
+        "option": {
+          "a": "Ezra, a captive in Babylon",
+          "b": "Ezekiah, an Emperor in Babylon",
+          "c": "Hanai, a captive in Babylon",
+          "d": "Zerubbabel, an Emperor in Babylon"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 1007,
+        "question": "Obadiah, Ahabs servant, made history for himself by ",
+        "option": {
+          "a": "arresting the prophets of Yahweh. ",
+          "b": "executing all the prophets. ",
+          "c": "hiding and feeding some of the prophets in a cave. ",
+          "d": "D inciting the prophets to rebel against king Ahab."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 929,
+        "question": "Prior to the day of Pentecost, members that constituted the early Church were",
+        "option": {
+          "a": "120",
+          "b": "1,200.00",
+          "c": "3,000.00",
+          "d": "4,000"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 912,
+        "question": "What virtue did the Centurion exhibit in the healing of his servant?",
+        "option": {
+          "a": "Forgiveness    ",
+          "b": "Love       ",
+          "c": "Compassion      ",
+          "d": "Faith"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 440,
+        "question": "In Corinthians, Paul said that one can only say Jesus is Lord by",
+        "option": {
+          "a": "denouncing the law",
+          "b": "faith",
+          "c": "grace",
+          "d": "the Holy Spirit."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 926,
+        "question": "Philip’s flight into Samaria was necesitated by ",
+        "option": {
+          "a": "the need to convert the Samarians. ",
+          "b": "directive from the Holy Spirit. ",
+          "c": "persecution of Christians by Saul.",
+          "d": "the stoning of Stephen"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 1000,
+        "question": "Joel and Abijah were the sons of     ",
+        "option": {
+          "a": " Eli",
+          "b": "  Saul                ",
+          "c": "Samuel  ",
+          "d": "David"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 592,
+        "question": "Why did Paul wish to retain Onesimus?",
+        "option": {
+          "a": "To protect him from persecution",
+          "b": "Christianity was opposed to slavery",
+          "c": "Philemon had earnestly requested that from Paul",
+          "d": "To serve him during his imprisonment"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 451,
+        "question": "When the people of Israel received the encouraging report \tgiven by two of the twelve spies, they decided to",
+        "option": {
+          "a": "stone Moses for taking them out of Egypt.",
+          "b": "choose Caleb as their leader and go back to Egypt.",
+          "c": "stone the two spies who gave the report.",
+          "d": "raise an army to fight the Canaanites."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 114,
+        "question": "If anyone would be first, he must be last of all and servant of all. What does this saying of Jesus teach? ",
+        "option": {
+          "a": "endurance ",
+          "b": "lack of ambition ",
+          "c": "humility ",
+          "d": "relaxation"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 617,
+        "question": "‘... But let justice roll down like waters, and righteousness like an overflowing stream.’ Amos’ statement above suggests that the society was terribly",
+        "option": {
+          "a": "vindictive",
+          "b": "abusive",
+          "c": "oppressive",
+          "d": "destructive"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      }
+    ],
+    "2007": [
+      {
+        "id": 519,
+        "question": "The most important aspect of the religious reforms of King Josiah was the",
+        "option": {
+          "a": "renewal of the covenant",
+          "b": "cleaning of the Temple",
+          "c": "discovery of the tomb of the man of God",
+          "d": "discovery of the book of the law"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 907,
+        "question": "Jeremiah viewed the relationship between God and Israel in her youth to be that of ",
+        "option": {
+          "a": "compassion, sincerity and hope",
+          "b": "",
+          "c": "obedience, tolerance and mercy. ",
+          "d": "righteousness, kindness and zeal. "
+        },
+        "section": "loyalty, love and faithfulness",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 384,
+        "question": "Paul says that only the heathen who are led astray by dumb idols could say",
+        "option": {
+          "a": "“Jesus is Lord!”",
+          "b": "“Praise ye the Lord!”",
+          "c": "“Hail the messiah!”",
+          "d": "“Jesus be cursed!”"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 72,
+        "question": "Who baptized the Ethiopian Eunuch? ",
+        "option": {
+          "a": "Paul ",
+          "b": "Peter ",
+          "c": "Philip ",
+          "d": "Rufus"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 201,
+        "question": "The name Ichabod means",
+        "option": {
+          "a": "Yahweh is God",
+          "b": "beloved of  Yahweh",
+          "c": "I have asked him from the Lord",
+          "d": "the glory has departed from Israel."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 691,
+        "question": "Paul, pleaded with Philemon to forgive",
+        "option": {
+          "a": "Barnabas.",
+          "b": "Timothy.",
+          "c": "Onesimus.",
+          "d": "Silas"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 860,
+        "question": "Daniel  disobeyed King Darius by",
+        "option": {
+          "a": " refusing to honour the Persian gods",
+          "b": "refusing to be made president of the Satraps",
+          "c": "celebrating Jewish festival in a foreign land",
+          "d": "praying three times daily for thirty days"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 129,
+        "question": "One of the following  is not correct about the order of creation in the Creation Stories ",
+        "option": {
+          "a": "the evening came before the morning ",
+          "b": "darkness came before light",
+          "c": "animals were created before man ",
+          "d": "the morning came before the evening"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 784,
+        "question": "One of the following is not a quality of good discipleship_________",
+        "option": {
+          "a": "self-denial",
+          "b": "total commitment",
+          "c": "exuberance",
+          "d": "prompt response"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 790,
+        "question": "Which of the following was Pilate's question to Jesus at his trial?",
+        "option": {
+          "a": "Are you Jesus, the prophet from Galilee?",
+          "b": "What evil have you done?",
+          "c": "Are you the king of the Jews?",
+          "d": "What is it that these men testify against you?"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 158,
+        "question": "“Thy glory, O Israel upon thy high places! How are the mighty fallen! Tell it not in the streets of Ashkelon… How  are the mighty fallen in the midst of the battle!” The above dirge was written by David when  ",
+        "option": {
+          "a": "He killed Goliath  ",
+          "b": "Uriah the Hittite died  ",
+          "c": "Saul and Jonathan died  ",
+          "d": "Abner was killed by Joab"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 482,
+        "question": "The meeting of the Christian Council of Jerusalem was chaired by",
+        "option": {
+          "a": "Peter.",
+          "b": "Paul.",
+          "c": "James.",
+          "d": "John."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 926,
+        "question": "Philip’s flight into Samaria was necesitated by ",
+        "option": {
+          "a": "the need to convert the Samarians. ",
+          "b": "directive from the Holy Spirit. ",
+          "c": "persecution of Christians by Saul.",
+          "d": "the stoning of Stephen"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 546,
+        "question": "On the fourth day, God created the sun, moon and stars for the following purposes except",
+        "option": {
+          "a": "to separate the day from the night.",
+          "b": "for signs of seasons, days and years.",
+          "c": "to give light upon the earth.",
+          "d": "to dry up flood from the face of the earth."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 1045,
+        "question": "Jacob’s special robe for Joseph portrayed him as a",
+        "option": {
+          "a": "Prince    ",
+          "b": "heir     ",
+          "c": "prophet     ",
+          "d": "Pries"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 987,
+        "question": "According to Paul, God gives us victory over death through ",
+        "option": {
+          "a": "Adam",
+          "b": "Jesus",
+          "c": " the Holy Spirit",
+          "d": "Angels"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 73,
+        "question": "Joshua’s first victory was over the people of ",
+        "option": {
+          "a": "Ai ",
+          "b": "Gideon ",
+          "c": "Gilgal ",
+          "d": "Jericho "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 683,
+        "question": "Paul in Romans declared “for as by one man’s disobedience many were made sinners, so by one man’s obedience many will be made...”",
+        "option": {
+          "a": "innocent.",
+          "b": "righteous.",
+          "c": "faithful.",
+          "d": "Christians."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 867,
+        "question": " “If you are the son of God, throw yourself down from here”This temptation implies that Jesus should",
+        "option": {
+          "a": "win followers through the use of spectacular miracles",
+          "b": "win coverts through the supply of basic needs",
+          "c": "allow angels to minister unto Him",
+          "d": "use scriptures to overcome the devil"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 887,
+        "question": "\n Which of the following, accordings to James is an important\n factor for effective prayer?\n",
+        "option": {
+          "a": "Love",
+          "b": "Faith",
+          "c": "Hope",
+          "d": "Mercy"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 459,
+        "question": "“The Lord forbid that I should give you the inheritance of my fathers”. The inheritance referred to here is",
+        "option": {
+          "a": "birth right.",
+          "b": "the world.",
+          "c": "the kingship.",
+          "d": "a vineyard."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 197,
+        "question": "At the time of creation, the river that flowed out of Eden to water the garden divided into",
+        "option": {
+          "a": "Pishon, Hauijah, Gihon and Tigris",
+          "b": "Tigris, Cush, Assune and Hauijah",
+          "c": "Pishon, Tigris, Gihon and Euphrates",
+          "d": "Euphrates, Gihon, Assyna and Tigris"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 992,
+        "question": "Moses was bom at a period when the Hebrews were",
+        "option": {
+          "a": "suffering.   ",
+          "b": ".   increasing",
+          "c": "backsliding",
+          "d": "rejoicing."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 684,
+        "question": "Which of the following is not true about spiritual gifts as taught by Paul?",
+        "option": {
+          "a": "Gifts should be used with all modesty",
+          "b": "No gift can be independent of others",
+          "c": "Gifts have nothing to do with the level of one’s faith",
+          "d": "Specific gifts perform specific functions"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 929,
+        "question": "Prior to the day of Pentecost, members that constituted the early Church were",
+        "option": {
+          "a": "120",
+          "b": "1,200.00",
+          "c": "3,000.00",
+          "d": "4,000"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 161,
+        "question": "“To obey is better than sacrifice” came from  ",
+        "option": {
+          "a": "Prophet Daniel  ",
+          "b": "Prophet Ezekiel  ",
+          "c": "Prophet Elijah  ",
+          "d": "Prophet Samuel "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 853,
+        "question": "“Has the Lord as great delight in burnt offerings and sacrifices as in obeying the voice of Lord? These words were directed to king",
+        "option": {
+          "a": "Ahab",
+          "b": "Saul",
+          "c": "Agag",
+          "d": "David"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 20,
+        "question": "Who was authorized by God to go and liberate the Israelites the Egyptian bondage? ",
+        "option": {
+          "a": "Joshua ",
+          "b": "Daniel ",
+          "c": "Solomon ",
+          "d": "Moses."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 77,
+        "question": "Those bitten by the serpent were treated by ",
+        "option": {
+          "a": "Drinking from the Red sea ",
+          "b": "fasting for seven day ",
+          "c": "looking at the bronze serpent ",
+          "d": "call upon the lord "
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 958,
+        "question": "What was Nehemiah’s immediate reaction to the news concerning Jerusalem? He ",
+        "option": {
+          "a": "wept.            ",
+          "b": "prayed           ",
+          "c": "fainted",
+          "d": "fasted."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 457,
+        "question": "Elijah was a prophet during the reign of",
+        "option": {
+          "a": "Gideon.",
+          "b": "David.",
+          "c": "Ahab.",
+          "d": "Rehoboam."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 616,
+        "question": "In Prophet Hosea’s analysis, harlotry is equivalent to Israel’s",
+        "option": {
+          "a": "prostitution",
+          "b": "idolatrous practices",
+          "c": "religious practices",
+          "d": "adultery."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 707,
+        "question": "Teacher, what shall I do to inherit eternal life?” Who among the following tested Jesus with this question?",
+        "option": {
+          "a": "A Pharisee",
+          "b": "A lawyer",
+          "c": "A zealot",
+          "d": "A Sadducee"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 810,
+        "question": "Isaiah said that when Israel spread forth their hands, God ",
+        "option": {
+          "a": "making many prayers     ",
+          "b": "offering vain sacrifices",
+          "c": "worshipping God with their hearts. ",
+          "d": "observing elaborate feasts"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 977,
+        "question": "The appointment of the Seven Deacons highlighted the need for ",
+        "option": {
+          "a": "sharing responsibility. ",
+          "b": "distributing gifts among the apostles",
+          "c": "living in peace with each other. ",
+          "d": "organizing social services"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 701,
+        "question": "________ was the man James used as example of how the effective prayer of the righteous man works",
+        "option": {
+          "a": "Jesus Christ",
+          "b": "Peter",
+          "c": "Paul",
+          "d": "Elijah"
+        },
+        "section": "",
+        "image": "",
+        "answer": " d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 4,
+        "question": "The thief as described by Jesus comes to ",
+        "option": {
+          "a": "destroy, kill and steal ",
+          "b": "destroy, steal and kill ",
+          "c": "kill, destroy and kill ",
+          "d": "steal, kill and destroy "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 7,
+        "question": "Charismatic leaders in the Book of Judges arose in Israel to ",
+        "option": {
+          "a": "revive faith in Yahweh ",
+          "b": "rally the tribe together ",
+          "c": "lead the Israel to battles ",
+          "d": "settle dispute"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 178,
+        "question": "Who was the secretary employed by Jeremiah to write his prophecy?",
+        "option": {
+          "a": "Amanuensis  ",
+          "b": "Amos  ",
+          "c": "Baruch  ",
+          "d": "Joshua"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 710,
+        "question": "Which of these is not in the list of the twelve apostles?",
+        "option": {
+          "a": "Thaddeus",
+          "b": "Matthew",
+          "c": "Mark",
+          "d": "Simon the Zealot"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      }
+    ],
+    "2008": [
+      {
+        "id": 40,
+        "question": "Where did Paul cure a slave girl who had a spirit of divination ",
+        "option": {
+          "a": "Philippi ",
+          "b": "Ephesus ",
+          "c": "Athens ",
+          "d": "Antioch"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2007"
+      },
+      {
+        "id": 613,
+        "question": "After the dedication of the Temple, Ezra studied the law of the LORD in order to",
+        "option": {
+          "a": "defend the Jews against the Babylonians",
+          "b": "become the first judge in Jerusalem",
+          "c": "enhance his prophetic status",
+          "d": "teach His statutes and ordinances in Israel."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 200,
+        "question": "Moses was nursed by",
+        "option": {
+          "a": "Pharaoh’s daughter",
+          "b": "Rachael",
+          "c": "his mother",
+          "d": "Rebecca"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 763,
+        "question": "St Paul's teaching on spiritual gifts was directed to _______",
+        "option": {
+          "a": "Corinthians",
+          "b": "Thessalonians",
+          "c": "Galatians",
+          "d": "Macedonians"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 1022,
+        "question": "“Go up and join this chariot”.   This statement was made to ",
+        "option": {
+          "a": "John.                              ",
+          "b": "  Paul.",
+          "c": "  James. ",
+          "d": "   Philip."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 935,
+        "question": "According to Paul in second Thessalonians, one of the signs of the second coming would be ",
+        "option": {
+          "a": "revelation of the man of lawlessness. ",
+          "b": "an explosion of world population. ",
+          "c": "increasing rate of fake disciples. ",
+          "d": "flagrant violation of God’s law"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 904,
+        "question": "According to Daniel the command of Nebuchadnezzar to worship the golden image amounted to ",
+        "option": {
+          "a": " profanity      ",
+          "b": "idolatry.     ",
+          "c": "sacrilege",
+          "d": "abomination"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 868,
+        "question": "The two Old Testament books that were used in the temptation stories were",
+        "option": {
+          "a": "Genesis and Proverbs",
+          "b": "Leviticus and Lamentation",
+          "c": " Numbers and Ecclesiates",
+          "d": "Deuteronomy and Psalms"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 80,
+        "question": "God told Samuel that he, would punish Eli because he  ",
+        "option": {
+          "a": "did not correct his son’s sinful behavior ",
+          "b": "did not offer sacrifice as the: Law ",
+          "c": "did not warn the people of Israel to stop surfing ",
+          "d": "Warned his sons against rape and drunkenness"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 959,
+        "question": "According to Ezekiel, the wicked person should ",
+        "option": {
+          "a": "be stoned to death. ",
+          "b": "redeem himself. ",
+          "c": " be reprimanded by the prophet. ",
+          "d": "pay for the sins committed."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 275,
+        "question": "Saul leant from Samuel’s spirit that the LORD would",
+        "option": {
+          "a": "give the Philistines into his hands",
+          "b": "afflict him with sickness",
+          "c": "because Isaac’s future wife",
+          "d": "pardon his iniquity"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 343,
+        "question": "‘Pay all of  them their dues, taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, honour to whom honour is due’. Paul made the statement above to the Church at",
+        "option": {
+          "a": "Thessalonica",
+          "b": "Rome",
+          "c": "Corinth",
+          "d": "Ephesus."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 683,
+        "question": "Paul in Romans declared “for as by one man’s disobedience many were made sinners, so by one man’s obedience many will be made...”",
+        "option": {
+          "a": "innocent.",
+          "b": "righteous.",
+          "c": "faithful.",
+          "d": "Christians."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 433,
+        "question": "According to Paul, before his conversion, he persecuted the church violently to",
+        "option": {
+          "a": "make it desirable to the Gentiles",
+          "b": "purge it",
+          "c": "destroy it",
+          "d": "have it conform to the Law."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 370,
+        "question": "Which of the following miracles shows Jesus’ power over nature?",
+        "option": {
+          "a": "Walking on the sea",
+          "b": "Healing of the leper",
+          "c": "Healing of the woman with issue of blood",
+          "d": "Raising of Lazarus from the dead"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 556,
+        "question": "Solomon showed lack of wisdom when he",
+        "option": {
+          "a": "put up temples for the gods of his wives",
+          "b": "married many wives with children",
+          "c": "invited the Queen of Sheba",
+          "d": "gave out judgment to two harlots."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 857,
+        "question": "Ahab revealed his disregard for the law when he",
+        "option": {
+          "a": "got married to Jezebel",
+          "b": "persecuted the prophets of lsrael",
+          "c": "appropriated the vineyard of Naboth",
+          "d": "refused to listen to Naboth"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 273,
+        "question": "For worshipping the molten calf, God described the Israelites as",
+        "option": {
+          "a": "a stubborn nation",
+          "b": "an unholy nation",
+          "c": "a stiff-necked people",
+          "d": "an unrighteous people"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 278,
+        "question": "When God called Moses to deliver the Israelites, he resisted because he could not speak and he was told to",
+        "option": {
+          "a": "perform some signs with his rod",
+          "b": "wait for a sign from God",
+          "c": "go with Joshua who would speak for him",
+          "d": "go with Aaron who would speak for him"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 28,
+        "question": "The lesson which Jesus teaches in the parable of the Good Samaritan is that your neighbor is",
+        "option": {
+          "a": "only your friend  ",
+          "b": "your next of kin  ",
+          "c": "a distant friend ",
+          "d": "anyone who needs your  help"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2007"
+      },
+      {
+        "id": 1054,
+        "question": "The wife of Phinehas named her prematured child Ichabod because",
+        "option": {
+          "a": "Israel had lost the Ark and her husband ",
+          "b": "the Philistines suffered a lot of casualties ",
+          "c": "her husband treated the Lord’s sacrifice with contempt ",
+          "d": "Eli failed to restrain his children"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 1077,
+        "question": "The charge of drunkenness was levelled against the apostles on Pentecost day because",
+        "option": {
+          "a": "they were drunk before nine o’clock ",
+          "b": "they spoke in other tongues",
+          "c": "a power descended on them ",
+          "d": "they made an unintelligible noise"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 481,
+        "question": "Jesus said to Martha, “...and whoever live and believes in me shall never die...” Jesus talks about",
+        "option": {
+          "a": "physical death.",
+          "b": "spiritual death.",
+          "c": "emotional death.",
+          "d": "natural death."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 60,
+        "question": "The two Hebrew midwives instructed by pharaoh to kill the Hebrew male babies at birth were:",
+        "option": {
+          "a": "Ziporah and Puah ",
+          "b": "Puah and Miriam ",
+          "c": "Shiphrah and Zipporah ",
+          "d": "Shiphrah and Puah"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 92,
+        "question": "Joshua’s first victory was in ",
+        "option": {
+          "a": "Ai ",
+          "b": "Gibeon ",
+          "c": "Jordan ",
+          "d": "Giligal "
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 906,
+        "question": "Yet what they are building if a fox goes up on it he will breakdown their stone wall”. This statement by Tobias was ",
+        "option": {
+          "a": "taunt and ridicule the Jews",
+          "b": "stop and disgrace the Jews",
+          "c": "tease and punish Nehemiah.",
+          "d": "alert and strengthen Nehemiah"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 713,
+        "question": "The main message of Hosea is that God desires ___________.",
+        "option": {
+          "a": "love and sacrifice",
+          "b": "sacrifice and thanksgiving",
+          "c": "steadfast love and not sacrifice",
+          "d": "sacrifice and worship"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 305,
+        "question": "God promised Abraham that nations of the earth shall be blessed through him because",
+        "option": {
+          "a": "he had obeyed Him",
+          "b": "his descendants had obeyed Him",
+          "c": "of his kindness to Hagar",
+          "d": "of  his exemplary leadership."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 534,
+        "question": "For obeying His word, God rewarded Shiphrah and Puah with",
+        "option": {
+          "a": "families",
+          "b": "positions",
+          "c": "servants",
+          "d": "wealth"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 937,
+        "question": "According to Paul’s teaching in Galatians, Christian become sons of God by ",
+        "option": {
+          "a": "According to Paul’s teaching in Galatians, Christian become sons of God by ",
+          "b": "adoption of Judaism",
+          "c": "being Abraham’s descendants.",
+          "d": "works of faith."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 947,
+        "question": "The purpose of Joshua’s add ",
+        "option": {
+          "a": "show his love for Go",
+          "b": "establish a new covenant with God",
+          "c": "remind Israel of their unfaithfulness",
+          "d": "make Israel trust God."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 400,
+        "question": "Moses ran away from Egypt after killing an Egyptian because he felt that he might be",
+        "option": {
+          "a": "endangering other Israelites by his actions",
+          "b": "killed by the Egyptian mob",
+          "c": "imprisoned by the Egyptian security officers",
+          "d": "killed by Pharaoh of Egypt."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 484,
+        "question": "Paul and his associates gave the Thessalonian believers an \timportant example to imitate. This example was to",
+        "option": {
+          "a": "be ready to help the poor always",
+          "b": "toil, labour and work to earn a living",
+          "c": "depend on foreign aids for sustenance.",
+          "d": "suffer imprisonment without complaint."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 608,
+        "question": "The prophet who made known the imminent divi¬sion of the kingdom of Israel during Solomon’s reign was",
+        "option": {
+          "a": "Jehu",
+          "b": "Ahijah",
+          "c": "Elisha",
+          "d": "Elijah"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 586,
+        "question": "Paul’s greatest writing about spiritual gift is found in his letter to the",
+        "option": {
+          "a": "Galatians.",
+          "b": "Ephesians.",
+          "c": "Romans.",
+          "d": "Corinthians"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 1088,
+        "question": "“Live as free men, yet without using your freedom as pretest for evil” Peter by this text was calling on Christians to",
+        "option": {
+          "a": "resist the devil always.",
+          "b": "do what is right      ",
+          "c": "fight for their freedom ",
+          "d": "endure pain while suffering"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 160,
+        "question": "According to the Letter to the Hebrews, why should Christians lay aside every weight and sin which clings so closely?  ",
+        "option": {
+          "a": "Sin is contagious  ",
+          "b": "Christian can easily be influenced by sinners  ",
+          "c": "Christians are surrounded by so great a cloud of witness  ",
+          "d": "No sinner will inherit the kingdom of God "
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 871,
+        "question": "In the garden of Gethsemane, Jesus",
+        "option": {
+          "a": "was arrested",
+          "b": "was crucified",
+          "c": "rebuked Judas Iscariot",
+          "d": "prayed for peace"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 401,
+        "question": "How did God guide Eleazar in choosing a wife for lsaac?",
+        "option": {
+          "a": "He caused Rebekah to give him free accommodation",
+          "b": "He made Rebekah’s parents willing to release her",
+          "c": "He caused His angel to go ahead of him",
+          "d": "He revealed to Rebekah before Eleazar’s arrival"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 1085,
+        "question": "James advised against looking down on the poor because they are",
+        "option": {
+          "a": "the rightful heirs of the kingdom ",
+          "b": "those who spent time on the Lord",
+          "c": "for peace and self sacrifice",
+          "d": "those who contribute little but do a lot"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      }
+    ],
+    "2009": [
+      {
+        "id": 277,
+        "question": "According to proverbs, a son that is attentive to a father’s instruction will",
+        "option": {
+          "a": "be rich",
+          "b": "have eternal life",
+          "c": "gain insight",
+          "d": "be forgiven his sins"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 284,
+        "question": "After Prophet Ezekiel had eaten what he was offered, he was sent to speak to",
+        "option": {
+          "a": "a people of hard language",
+          "b": "the house of Israel",
+          "c": "the house of Judah",
+          "d": "a people of foreign language"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 259,
+        "question": "Following the death of Stephen, the only group of believers not scattered by the great persecution was the",
+        "option": {
+          "a": "deacons",
+          "b": "apostles",
+          "c": "prophets",
+          "d": "disciples."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 278,
+        "question": "When God called Moses to deliver the Israelites, he resisted because he could not speak and he was told to",
+        "option": {
+          "a": "perform some signs with his rod",
+          "b": "wait for a sign from God",
+          "c": "go with Joshua who would speak for him",
+          "d": "go with Aaron who would speak for him"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 287,
+        "question": "God had pity on the people of Nineveh because",
+        "option": {
+          "a": "they listened to Jonah’s message",
+          "b": "the king punished all the violent people in the land",
+          "c": "they turned from their evil way.",
+          "d": "they made sacrifices of sin offering to God."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 294,
+        "question": "According to Prophet Jeremiah, one of the promises of God was that He would give the Israelites",
+        "option": {
+          "a": "new priests",
+          "b": "new commandments",
+          "c": "kings after His own heart",
+          "d": "shepherds after His own heart."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 253,
+        "question": "In Paul’s arrangement of the spiritual gifts in Corinthians, the last is",
+        "option": {
+          "a": "the utterance of wisdom",
+          "b": "interpretation of tongues",
+          "c": "gifts of healing",
+          "d": "various kinds of tongues."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 251,
+        "question": "In Romans, Paul condemned sin taking over mortal bodies in the new life as instruments of",
+        "option": {
+          "a": "greediness",
+          "b": "wickedness",
+          "c": "sadness",
+          "d": "foolishness."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 260,
+        "question": "According to Luke, when Moses and Elijah appeared during the Transfiguration, they spoke of Jesus’",
+        "option": {
+          "a": "departure",
+          "b": "second coming",
+          "c": "resurrection",
+          "d": "trials."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 290,
+        "question": "Immediately after the contest on Mount Carmel, Elijah prayed and God answered him with",
+        "option": {
+          "a": "thunder",
+          "b": "rainfall",
+          "c": "a whirlwind",
+          "d": "a heavy storm."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 274,
+        "question": "“1 will not eat until I have told my errand” In the statement above, the errand of Abraham’s servant was to",
+        "option": {
+          "a": "find a wife for Isaac",
+          "b": "deliver the camels to Laban",
+          "c": "assess Isaac’s future wife",
+          "d": "deliver Isaac’s message to Laban"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 281,
+        "question": "“Let the waters under the heavens be gathered together into one place, and let the dry land appear.” In the statement above  the dry land and the water refer to",
+        "option": {
+          "a": "earth and oceans",
+          "b": "firmament and seas",
+          "c": "firmament and oceans",
+          "d": "earth and seas"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 279,
+        "question": "David was anointed king over Judah at",
+        "option": {
+          "a": "Zuph",
+          "b": "Bethlehem",
+          "c": "Hebron",
+          "d": "Gibeon."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 272,
+        "question": "In order for the people of Israel to be ready to meet the LORD by the third day at Mount Sinai, they were",
+        "option": {
+          "a": "not to drink alcohol",
+          "b": "to wear white garments",
+          "c": "to wash their garments everyday",
+          "d": "not to go near a woman."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 268,
+        "question": "“Can any one forbid water for baptizing these people who have received the Holy Spirit just as we have?” The statement above was made by Peter at the conversion of",
+        "option": {
+          "a": "Herod",
+          "b": "Lydia",
+          "c": "Saul",
+          "d": "Cornelius."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 262,
+        "question": "Herod was delighted to see Jesus because he had heard of Him for so long and wanted to",
+        "option": {
+          "a": "send Him to Rome",
+          "b": "sentence Him to death",
+          "c": "see Him perform miracles",
+          "d": "make Him his friend."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 292,
+        "question": "In addition to the declaration of freedom to the exiles in Babylon, King Cyrus ordered for",
+        "option": {
+          "a": "free will offering for the house of God in Jerusalem",
+          "b": "the release of Jewish, slaves in the empire",
+          "c": "security check on the Jews before departure",
+          "d": "support from craftsmen in Babylon."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 276,
+        "question": "“My spirit shall not abide in man forever, for he is flesh...” When God made the statement above, He concluded that man’s days shall be",
+        "option": {
+          "a": "one hundred years",
+          "b": "one hundred and fifty years",
+          "c": "eighty years",
+          "d": "one hundred and twenty years."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 247,
+        "question": "In Timothy, Paul urges Christians to pray for kings and those in authority for the achievement of",
+        "option": {
+          "a": "a successful Christian life",
+          "b": "godly and acceptable life",
+          "c": "peace and exaltation in life",
+          "d": "quiet and peaceable life."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 291,
+        "question": "Prophet Amos told Israel to hate evil, love good and establish justice in the gate so that God would",
+        "option": {
+          "a": "heal their diseases",
+          "b": "give them good leaders",
+          "c": "be gracious to them",
+          "d": "multiply their descendants."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 296,
+        "question": "“Test your servants for ten days; let us be given vegetables to eat and water to drink...” In the statement above, Daniel was talking to",
+        "option": {
+          "a": "King Darius",
+          "b": "the chief of the eunuchs",
+          "c": "the steward of the chief eunuch.",
+          "d": "King Artaxerxes."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 258,
+        "question": "In the country of the Gerasenes, Jesus healed the",
+        "option": {
+          "a": "man possessed of demons",
+          "b": "paralytic at the pool",
+          "c": "leper",
+          "d": "blind man."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 273,
+        "question": "For worshipping the molten calf, God described the Israelites as",
+        "option": {
+          "a": "a stubborn nation",
+          "b": "an unholy nation",
+          "c": "a stiff-necked people",
+          "d": "an unrighteous people"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 254,
+        "question": "In His sermon on the Mount, Jesus said that the poor in spirit are blessed for they would",
+        "option": {
+          "a": "be satisfied",
+          "b": "be comforted on the last day",
+          "c": "inherit the kingdom of heaven",
+          "d": "inherit the earth."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 248,
+        "question": "According to Galatians, one of the benefits of being a joint heir with Christ is having His Spirit in",
+        "option": {
+          "a": "worship",
+          "b": "the heart",
+          "c": "the body",
+          "d": "prayers"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 283,
+        "question": "When King Nebuchadnezzar besieged Judah, he took away all classes of people but spared the",
+        "option": {
+          "a": "poorest people of the land",
+          "b": "palace guards",
+          "c": "children and the aged",
+          "d": "priests and prophets"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 256,
+        "question": "Angel Gabriel told Zachariah that he would become dumb until John was born because he",
+        "option": {
+          "a": "looked down on the Angel",
+          "b": "was advanced in age",
+          "c": "disagreed with Elizabeth, his wife",
+          "d": "did not believe God’s words."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 266,
+        "question": "The good shepherd according to Jesus is one who",
+        "option": {
+          "a": "lays down his life for his sheep",
+          "b": "goes about with his sheep",
+          "c": "keeps many healthy sheep",
+          "d": "feeds his sheep in green pastures."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 295,
+        "question": "Prophet Hosea named his second child Not Pitied because God would no more pity the",
+        "option": {
+          "a": "kings of Judah",
+          "b": "kings of Israel",
+          "c": "house of Judah",
+          "d": "house of Israel."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 267,
+        "question": "Jesus: stilling of the storm was to",
+        "option": {
+          "a": "escape from danger",
+          "b": "impress His disciples",
+          "c": "demonstrate His power",
+          "d": "help the fishermen."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 261,
+        "question": "The baptism of Jesus by John in River Jordan was to",
+        "option": {
+          "a": "convince others that John was His forerunner",
+          "b": "ensure that proper baptism must be in a river",
+          "c": "service as an example",
+          "d": "fulfil all righteousness."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 275,
+        "question": "Saul leant from Samuel’s spirit that the LORD would",
+        "option": {
+          "a": "give the Philistines into his hands",
+          "b": "afflict him with sickness",
+          "c": "because Isaac’s future wife",
+          "d": "pardon his iniquity"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 286,
+        "question": "“Son of man, stand upon your feet, and I will speak with you.” What happened to the Son of man after the instruction above?",
+        "option": {
+          "a": "The Spirit entered him.",
+          "b": "He became terrified.",
+          "c": "The angels gave him support.",
+          "d": "He began to prophesy."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 250,
+        "question": "According to Thessalonians, the day of the Lord will not come unless the",
+        "option": {
+          "a": "living die first",
+          "b": "scoffers come first",
+          "c": "dead rise first",
+          "d": "rebellion comes first."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 288,
+        "question": "The Kingdom of Israel was divided because the",
+        "option": {
+          "a": "kingdom was too large to be administered",
+          "b": "leadership wanted to create more nations",
+          "c": "followership wanted more nations",
+          "d": "last two kings made unwise policies."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 293,
+        "question": "“Am I God, to kill and to make alive, that this man sends words to me to cure a man of his leprosy...” Prophet Elisha responded to the king’s reaction in the statement above by",
+        "option": {
+          "a": "directing the nation of Israel to pray and fast",
+          "b": "requesting the leper to come to his house",
+          "c": "directing the leper to go to River Jordan",
+          "d": "asking the leper to offer a sacrifice."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 271,
+        "question": "The sin of the sons of Eli was that they treated the offering of the LORD with",
+        "option": {
+          "a": "suspicion",
+          "b": "contempt",
+          "c": "disgust",
+          "d": "jealousy."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 252,
+        "question": "In his teaching on partiality, James declares that mercy triumphs over",
+        "option": {
+          "a": "judgment",
+          "b": "righteousness",
+          "c": "grace",
+          "d": "faith."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 255,
+        "question": "According to Matthew, the stone on the tomb of Jesus was removed by",
+        "option": {
+          "a": "an angel",
+          "b": "a Roman soldier",
+          "c": "Mary Magdalene",
+          "d": "Peter and John."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 264,
+        "question": "“Unbind him, and let him go.” The statement was made by Jesus when",
+        "option": {
+          "a": "He raised to life the dead Lazarus",
+          "b": "He healed the son of the widow at Nain",
+          "c": "He healed the centurion’s servant",
+          "d": "a boy bound by Satan was brought to Him."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      }
+    ],
+    "2010": [
+      {
+        "id": 618,
+        "question": "Isaiah emphasized holiness above all things be¬cause God",
+        "option": {
+          "a": "knew their hearts were right with him",
+          "b": "was not interested in their sacrifices",
+          "c": "who called them is holy",
+          "d": "was searching their sinful   hearts."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 631,
+        "question": "According to the Gospel of John, Jesus is the true vine while the vinedresser is (John 15:1)",
+        "option": {
+          "a": "the Holy Spirit",
+          "b": "His father",
+          "c": "the gardener",
+          "d": "His mother"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 629,
+        "question": "‘Truly, I say to you, today you will be with me in paradise.....’ Jesus made the statement above to one of the \t\tcriminals because he (Luke 23:42-43)",
+        "option": {
+          "a": "respected Him",
+          "b": "praised Him",
+          "c": "rebuked his partner",
+          "d": "was repentant"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 641,
+        "question": "According to Paul in Corinthians, generosity produce",
+        "option": {
+          "a": "righteousness",
+          "b": "salvation",
+          "c": "the grace of God",
+          "d": "thanksgiving to God"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 645,
+        "question": "Peter in his epistle enjoined servants to be sub¬missive to their masters with all",
+        "option": {
+          "a": "gentleness",
+          "b": "seriousness",
+          "c": "respect",
+          "d": "humility."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 637,
+        "question": "According to Galatians, the death of Christ has eliminate all forms of",
+        "option": {
+          "a": "suffering",
+          "b": "differences",
+          "c": "condemnation",
+          "d": "poverty."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 638,
+        "question": "Peter in his teaching no humility, admonishes Christians to",
+        "option": {
+          "a": "safeguard their faith",
+          "b": "seek things that are above",
+          "c": "be gentle in spirit",
+          "d": "avoid life’s anxiety"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 643,
+        "question": "Paul in Thessalonians told believers that the coming of the Lord would be accompanied by",
+        "option": {
+          "a": "songs of praise",
+          "b": "the sound of the trumpet",
+          "c": "signs and wonders",
+          "d": "wailing and mourning"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 606,
+        "question": "David’s behaviour after Prophet Nathan accused him of murder and adultery showed his",
+        "option": {
+          "a": "justification",
+          "b": "repentance",
+          "c": "greed",
+          "d": "righteousness"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 620,
+        "question": "According to Isaiah, God sent him to",
+        "option": {
+          "a": "proclaim liberty to the captives",
+          "b": "proclaim victory over Israel’s enemies",
+          "c": "be a watchman over Israel",
+          "d": "destroy and overthrow nations."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 599,
+        "question": "‘Who am I that I should go to Pharoah......’ When Moses resisted God’s call with the state¬ment above, it portrayed his",
+        "option": {
+          "a": "stubbornness",
+          "b": "incompetence",
+          "c": "lack of strength",
+          "d": "lack of eloquence"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 627,
+        "question": "According to Mark, after the transfiguration, Jesus charged His disciples to",
+        "option": {
+          "a": "be prepared for persecution",
+          "b": "tell no one what they had seen",
+          "c": "have no hands in His betrayal",
+          "d": "go to the Gentiles immediately"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 604,
+        "question": "The Hebrew midwives who obeyed God rather than Pharaoh were blessed with",
+        "option": {
+          "a": "favour from all the Israelites",
+          "b": "long life in Canaan",
+          "c": "resources",
+          "d": "families"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 639,
+        "question": "Paul in Corinthians advised that Christians should re-affirm their love for those who",
+        "option": {
+          "a": "are kind to them",
+          "b": "wrong them",
+          "c": "humble themselves",
+          "d": "are in authority."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 613,
+        "question": "After the dedication of the Temple, Ezra studied the law of the LORD in order to",
+        "option": {
+          "a": "defend the Jews against the Babylonians",
+          "b": "become the first judge in Jerusalem",
+          "c": "enhance his prophetic status",
+          "d": "teach His statutes and ordinances in Israel."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 600,
+        "question": "What was Samson’s major achievement as Israel’s leader?",
+        "option": {
+          "a": "He suppressed the Philistines",
+          "b": "He captured the city of Jericho",
+          "c": "He saved the Israelites from the Amorites",
+          "d": "He secured permanent independence for Israel"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 644,
+        "question": "James stated in his epistle that when believers meet various trials, their faith produces",
+        "option": {
+          "a": "weakness",
+          "b": "strength",
+          "c": "steadfastness",
+          "d": "righteousness"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 632,
+        "question": "‘...Why has Satan filled your heart to lie to the Holy Spirit..’ Peter rebuked Ananias in the statement above for his sin of (Acts 5:3-4)",
+        "option": {
+          "a": "greed",
+          "b": "insincerity",
+          "c": "covetousness",
+          "d": "partiality."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 609,
+        "question": "Naaman’s leprosy was transferred to Gehazi be¬cause Gehazi was",
+        "option": {
+          "a": "ambitious",
+          "b": "anxious",
+          "c": "covetous",
+          "d": "contemptuous"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 605,
+        "question": "When Saul disobeyed God’s command, Samuel rebuked him by saying that",
+        "option": {
+          "a": "the sword would never depart from his house",
+          "b": "to obey was better than sacrifice",
+          "c": "he should fear the LORD and obey the people’s voice.",
+          "d": "though he was little, yet he was the head."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 619,
+        "question": "God told Ezekiel that the house of Israel would not listen to him because they",
+        "option": {
+          "a": "were a people of foreign speech",
+          "b": "had forsaken His laws",
+          "c": "were of a stubborn heart",
+          "d": "had not truly repented"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 635,
+        "question": "‘Unless you are circumcised according to the custom of Moses, you cannot be saved.’ The statement above by the men from Judea led to the",
+        "option": {
+          "a": "murmurs of the Hellenists",
+          "b": "convening of the Jerusalem Council",
+          "c": "persecution that scattered the disciples",
+          "d": "circumcision of the Gentiles."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 642,
+        "question": "Busy bodies and those living in idleness in the church at Thessalonica were admonished to",
+        "option": {
+          "a": "pray for those in authority for peace",
+          "b": "do their work in quietness and earn a living",
+          "c": "appeal to those in authority to create jobs",
+          "d": "endure persecution from their masters."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 636,
+        "question": "According to Galatians, the Law was added be¬cause of",
+        "option": {
+          "a": "righteousness",
+          "b": "transgressions",
+          "c": "grace",
+          "d": "persecution."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 614,
+        "question": "Daniel became distinguished above all other pre¬sidents and satraps because",
+        "option": {
+          "a": "an excellent spirit was in him",
+          "b": "the spirit of Darius was in him",
+          "c": "he was a good administrator",
+          "d": "he was highly educated."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 633,
+        "question": "Paul informed the Galatians that the gospel he preached came through (Gal. 3:23-29)",
+        "option": {
+          "a": "a revelation of Jesus Christ",
+          "b": "his desire to lead them",
+          "c": "inspiration from the angels",
+          "d": "the faith of men."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 602,
+        "question": "‘Deal gently for my sake with the young man Absalom.’ David’s statement above exhibited his",
+        "option": {
+          "a": "indulgent love for his son",
+          "b": "willingness to forgive his competitors",
+          "c": "desire to punish Absalom himself",
+          "d": "high level of parental control"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 624,
+        "question": "After the healing of the demoniac in the country of the Gerasenes, the people begged Jesus to (Mark 5:15-19)",
+        "option": {
+          "a": "stay with them",
+          "b": "visit them always",
+          "c": "go away from them",
+          "d": "heal their sick."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 628,
+        "question": "According to Luke, the multitude that followed Jesus during the triumphal entry rejoiced and praised God with a loud voice because (Luke 19:37-39)",
+        "option": {
+          "a": "they realized that Jesus was a prophet",
+          "b": "of the mighty works He had done",
+          "c": "He was riding on a colt in humility",
+          "d": "they believed He was their Messiah"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 611,
+        "question": "Although Josiah removed the vessels of Baal and Asherah from the Temple, God did not turn from the fierceness of His \twrath because”",
+        "option": {
+          "a": "the people did not remove them completely",
+          "b": "Jehoahaz, Josiah’s son, had provoked Him",
+          "c": "Manasseh had provoked Him",
+          "d": "the people had opposed Josiah."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 617,
+        "question": "‘... But let justice roll down like waters, and righteousness like an overflowing stream.’ Amos’ statement above suggests that the society was terribly",
+        "option": {
+          "a": "vindictive",
+          "b": "abusive",
+          "c": "oppressive",
+          "d": "destructive"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 634,
+        "question": "‘You son of the devil, you enemy of all righteous¬ness, full of all deceit and villainy .....’ This statement of Paul was addressed to (Acts 13:6-11)",
+        "option": {
+          "a": "Elymas, the magician",
+          "b": "Paulus, the proconsul",
+          "c": "Simon, the Magician",
+          "d": "Demetrius, the silversmith"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 607,
+        "question": "How did King Solomon demonstrate his wisdom in settling the dispute over the ownership of a baby by the two \nProstitutes?",
+        "option": {
+          "a": "He interrogated them for seven days until the truth was discovered.",
+          "b": "He interrogated them for only three days and the truth was revealed",
+          "c": "He asked them to divide the child into two and the mother was known.",
+          "d": "He threatened to give the child to a neutral woman and the mother was known."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 630,
+        "question": "The message of the risen Christ to the women who came early to the tomb was to be relayed to the disciples and (Mark 16:7)",
+        "option": {
+          "a": "the Jews",
+          "b": "the Sadducees",
+          "c": "Thomas",
+          "d": "Peter"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 608,
+        "question": "The prophet who made known the imminent divi¬sion of the kingdom of Israel during Solomon’s reign was",
+        "option": {
+          "a": "Jehu",
+          "b": "Ahijah",
+          "c": "Elisha",
+          "d": "Elijah"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 621,
+        "question": "Jesus was tempted by the devil so as to",
+        "option": {
+          "a": "fulfil all righteousness",
+          "b": "show His power over forces of nature",
+          "c": "show that no one is above temptation",
+          "d": "test the devil’s power"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 625,
+        "question": "Jesus told the parable of the lost sheep in order to illustrate that",
+        "option": {
+          "a": "every believer ought to rejoice with those who rejoice.",
+          "b": "no person can hide from God",
+          "c": "God’s love is unlimited",
+          "d": "there is joy in heaven over a sinner who repents"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 615,
+        "question": "How did the Ninevites react to Jonah’s message?",
+        "option": {
+          "a": "They did not believe it",
+          "b": "They believed it for a while",
+          "c": "They repented of their sins",
+          "d": "They ordered him out of their city"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 596,
+        "question": "What was God’s purpose in creating man?",
+        "option": {
+          "a": "To be master of all creation",
+          "b": "To help Him look after the garden",
+          "c": "To name the things He created",
+          "d": "To multiply and fill the earth"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 597,
+        "question": "Isaac’s prayer to God for his barren wife showed that he",
+        "option": {
+          "a": "truly loved her",
+          "b": "sincerely loved his God",
+          "c": "had faith in God",
+          "d": "was tired of being childless"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      }
+    ],
+    "2011": [
+      {
+        "id": 311,
+        "question": "Baal did not answer his worshippers at the contest on Mount Carmel because he",
+        "option": {
+          "a": "was annoyed with their sacrifice",
+          "b": "did not hear",
+          "c": "wanted to disgrace his worshippers",
+          "d": "was asleep."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 306,
+        "question": "The punishment for Adam and Eve’s sin was that they",
+        "option": {
+          "a": "were driven out of the garden",
+          "b": "would be naked forever",
+          "c": "would never fellowship with God",
+          "d": "would be enemies of crawling animals."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 323,
+        "question": "‘Follow me and leave the dead to bury their own dead’ By this statement, Jesus means that",
+        "option": {
+          "a": "disciples shall not attend burials",
+          "b": "there is no life after death",
+          "c": "following Him comes before anything else",
+          "d": "shall leave their families in God’s care"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 320,
+        "question": "The prophet who was ordained from the womb for God’s service was",
+        "option": {
+          "a": "Jeremiah",
+          "b": "Isaiah",
+          "c": "Ezekiel",
+          "d": "Hosea."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 298,
+        "question": "Noah’s ark was sustained during the flood by its",
+        "option": {
+          "a": "resting on the highest mountains",
+          "b": "being rowed on the waters",
+          "c": "floating on the water",
+          "d": "being anchored safely"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 346,
+        "question": "Peter in his epistle, charged his fellow elders to",
+        "option": {
+          "a": "take care of their families",
+          "b": "be strong in their faith",
+          "c": "have compassion on the weak",
+          "d": "tend the flock of God."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 339,
+        "question": "According to Paul in Philippians, humility means giving consideration to other people’s",
+        "option": {
+          "a": "wealth",
+          "b": "weakness",
+          "c": "interests",
+          "d": "needs."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 301,
+        "question": "When Joshua fell upon his face during Israel’s defeat at Ai, God told him to rise and",
+        "option": {
+          "a": "send more courageous soldiers to Ai",
+          "b": "encourage the people",
+          "c": "pray fervently against their enemies",
+          "d": "sanctify the people"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 327,
+        "question": "Jesus encouraged His followers to rejoice when they were \tpersecuted because",
+        "option": {
+          "a": "great would be their reward in heaven",
+          "b": "angels would come to their aid",
+          "c": "they would not lack anything good",
+          "d": "all their sins would be forgiven."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 309,
+        "question": "Solomon made the most unwise decision by engaging in",
+        "option": {
+          "a": "marriages to foreign women",
+          "b": "alliances with his brothers",
+          "c": "so many wars of conquest",
+          "d": "developmental works."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 331,
+        "question": "“Tell people, His disciples came by night and stole him away while we were asleep...” The intention of the speaker in the statement above was to",
+        "option": {
+          "a": "implicate the disciples",
+          "b": "absolve the soldiers from all blame",
+          "c": "deny the resurrection story",
+          "d": "convince the authority"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 319,
+        "question": "In his vision, Isaiah’s guilt was taken away and his sin forgiven after",
+        "option": {
+          "a": "the angel of the LORD appeared to him",
+          "b": "his mouth was touched with a burning coal",
+          "c": "the seraphim had spoken to him",
+          "d": "he had agreed to serve God."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 315,
+        "question": "Nebuchadnezzar ordered his subjects to worship the image he set up whenever they",
+        "option": {
+          "a": "heard his voice",
+          "b": "saw him stand before the image",
+          "c": "heard the sound of the horn",
+          "d": "were told to do so."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 337,
+        "question": "Paul in Romans stated that the righteousness of God has been manifested through",
+        "option": {
+          "a": "the Law",
+          "b": "the priests",
+          "c": "faith in Jesus",
+          "d": "Temple sacrifices."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 316,
+        "question": "‘What is this that you have done!”  The people in the ship asked Jonah the question above because",
+        "option": {
+          "a": "he was fast asleep in the ship",
+          "b": "they knew he was fleeing from the LORD",
+          "c": "he lied to them about his presence in the ship",
+          "d": "they realized that he had made attempts to commit suicide."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 325,
+        "question": "The Jews sought to kill Jesus after He healed the man at the pool of Bethzatha because they thought that He",
+        "option": {
+          "a": "claimed to have authority to forgive sins",
+          "b": "made Himself equal with God",
+          "c": "did not agree with the law of Moses",
+          "d": "said that He was born before Abraham."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 312,
+        "question": "The workmen who repaired the house of the LORD during Josiah’s religious reforms were not made to account for the money given them because they",
+        "option": {
+          "a": "did not receive the money directly",
+          "b": "lacked accounting capabilities",
+          "c": "bribed the Temple officials",
+          "d": "were honest workmen."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 333,
+        "question": "In the early Church, believer devoted themselves to the",
+        "option": {
+          "a": "daily distribution of food",
+          "b": "apostles’ teaching and fellowship",
+          "c": "breaking of bread in the Temple",
+          "d": "performance of miracles"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 314,
+        "question": "Nehemiah responded to the opposition of the enemies of Israel by",
+        "option": {
+          "a": "telling the people not to say a word",
+          "b": "reporting the issue to King Artaxerxes",
+          "c": "inviting them to dialogue in the King’s court",
+          "d": "asking God to return their taunt back to them."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 304,
+        "question": "Laxity in disciplining children is dangerous to both the family and society as exemplified by",
+        "option": {
+          "a": "Jonathan",
+          "b": "Tamar",
+          "c": "Absalom",
+          "d": "Ahikam."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 330,
+        "question": "The tearing of the curtain of the Temple into two at the death of Jesus signifies",
+        "option": {
+          "a": "the passing away of the prophets",
+          "b": "direct access to God through Christ",
+          "c": "that Jesus was a powerful person",
+          "d": "that God was truly with Jesus."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 300,
+        "question": "When asked to interpret Pharaoh’s dream, Joseph’s first response was",
+        "option": {
+          "a": "...God has revealed to Pharaoh what he is about to do.",
+          "b": "...It is not in me; God will give Pharaoh a favourable answer.",
+          "c": "...God will shortly bring it to pass.",
+          "d": "…let Pharaoh select a man discrete and wise"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 328,
+        "question": "‘Blessed are you, Simon Bar-Jona ! For flesh and blood has not revealed this to you...’ As exemplified by the statement above, for believers to be able to identify with Jesus, they must",
+        "option": {
+          "a": "offer their lives",
+          "b": "be led by the Spirit",
+          "c": "keep all the commandments",
+          "d": "vow not to deny Him."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 313,
+        "question": "During Jehoiakim’s reign, Judah was destroyed as punishment for Manasseh’s sin of",
+        "option": {
+          "a": "keeping Temple prostitutes in the land",
+          "b": "defiling the vessels in the Temple",
+          "c": "offering unacceptable sacrifice",
+          "d": "shedding innocent blood."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 322,
+        "question": "When Zechariah saw the angel of the Lord standing on the right side of the altar of incense, he",
+        "option": {
+          "a": "cried out to him",
+          "b": "was troubled and afraid",
+          "c": "rejoiced in the Lord",
+          "d": "left the Temple immediately."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 302,
+        "question": "God guided Abraham’s steward in choosing a wife for Isaac by",
+        "option": {
+          "a": "teaching him how to select a good woman",
+          "b": "leading a lady to fulfil his prayer request",
+          "c": "taking him to Abraham’s fatherland",
+          "d": "giving him an exemplary woman."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 297,
+        "question": "God blessed and hallowed the seventh day because",
+        "option": {
+          "a": "it was the day He rested from creation",
+          "b": "it was the day He created man",
+          "c": "He wanted it to be a day of worship",
+          "d": "He saw that all He had created was good."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 341,
+        "question": "In Corinthians, Paul stated that by one Spirit we were",
+        "option": {
+          "a": "free from bondage of sin",
+          "b": "united into one church",
+          "c": "committee to Christian service",
+          "d": "baptized into one body"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 329,
+        "question": "Jesus drove the money changers and sellers of doves out of the Temple because",
+        "option": {
+          "a": "the people defiled it with dubious business",
+          "b": "there was no need for animal sacrifice anymore",
+          "c": "the people were disobedient to the Law",
+          "d": "animals and birds were not allowed in it."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 334,
+        "question": "The disciple that went to preach in Samaria after the great persecution in Jerusalem was",
+        "option": {
+          "a": "Philip",
+          "b": "Andrew",
+          "c": "Peter",
+          "d": "James."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 340,
+        "question": "In Corinthians, believers are taught to forgive one another in order to",
+        "option": {
+          "a": "keep Satan from gaining advantage",
+          "b": "prevent the wrongdoer from losing his salvation",
+          "c": "remove the curse from the offender",
+          "d": "discourage the offender from committing more sin."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 343,
+        "question": "‘Pay all of  them their dues, taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, honour to whom honour is due’. Paul made the statement above to the Church at",
+        "option": {
+          "a": "Thessalonica",
+          "b": "Rome",
+          "c": "Corinth",
+          "d": "Ephesus."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 318,
+        "question": "According to Amos, God desires knowledge of Him rather than",
+        "option": {
+          "a": "fervent prayers",
+          "b": "dependency on the Law",
+          "c": "the multitude of prophecies",
+          "d": "burnt offerings"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 308,
+        "question": "Saul’s decision to consult a medium displayed his lack of",
+        "option": {
+          "a": "faith in his army",
+          "b": "faith in God",
+          "c": "leadership qualities",
+          "d": "respect for the dead."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 317,
+        "question": "What shall I do with you, O Ephraim? What shall I do with you, O Judah? Your love is like a morning cloud...” In the statement above, the love of Israel is compared to a morning cloud because it",
+        "option": {
+          "a": "disappears fast",
+          "b": "withers",
+          "c": "is cloudy",
+          "d": "darkens the day"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 321,
+        "question": "According to Jeremiah, the anger of God towards Israel would only be reduced by",
+        "option": {
+          "a": "His mercy",
+          "b": "the prophet’s repentance",
+          "c": "the prophet’s prayers",
+          "d": "His glory."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 307,
+        "question": "‘Do not destroy him; for who can stretch out his hand on the LORD’S anointed, and be guiltless?’ In the statement above, David was acknowledging God’s role in",
+        "option": {
+          "a": "Abishai’s command",
+          "b": "Saul’s leadership",
+          "c": "Samuel’s priesthood",
+          "d": "Elijah’s prophet hood."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 344,
+        "question": "At the second coming of Christ, those who are alive shall be",
+        "option": {
+          "a": "bound for life",
+          "b": "caught up together with the Lord",
+          "c": "separated from the dead",
+          "d": "taken to the new Jerusalem"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 336,
+        "question": "What effect did the decision of the Council of Jerusalem have on the early Church?",
+        "option": {
+          "a": "Members became more untied",
+          "b": "the Church experienced freedom from persecution",
+          "c": "The Jews became leaders of the community.",
+          "d": "Gentiles were free to be members of the Church"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 305,
+        "question": "God promised Abraham that nations of the earth shall be blessed through him because",
+        "option": {
+          "a": "he had obeyed Him",
+          "b": "his descendants had obeyed Him",
+          "c": "of his kindness to Hagar",
+          "d": "of  his exemplary leadership."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      }
+    ],
+    "2012": [
+      {
+        "id": 775,
+        "question": "... updated Nehemiah about the state of Jerusalem while he was ...",
+        "option": {
+          "a": "Ezra, a captive in Babylon",
+          "b": "Ezekiah, an Emperor in Babylon",
+          "c": "Hanai, a captive in Babylon",
+          "d": "Zerubbabel, an Emperor in Babylon"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 245,
+        "question": "James recommends the anointing oil of the elders because such anointing",
+        "option": {
+          "a": "prepares the sick for his last journey",
+          "b": "makes the sick holy and righteous",
+          "c": "promotes physical recovery",
+          "d": "ensures forgiveness to the sick"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 444,
+        "question": "According to James, when we meet various trails in life, we should",
+        "option": {
+          "a": "bless God’s name",
+          "b": "call upon the name of the Lord",
+          "c": "count it all joy",
+          "d": "rejoice because the Lord is good."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 694,
+        "question": "According to Paul in Galatians, law ceased to be our custodian as soon as",
+        "option": {
+          "a": "it was made available to us.",
+          "b": "Christ adopted us as his children.",
+          "c": "we adopted the faith of Abraham.",
+          "d": "we stopped worshipping the elemental spirits."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 317,
+        "question": "What shall I do with you, O Ephraim? What shall I do with you, O Judah? Your love is like a morning cloud...” In the statement above, the love of Israel is compared to a morning cloud because it",
+        "option": {
+          "a": "disappears fast",
+          "b": "withers",
+          "c": "is cloudy",
+          "d": "darkens the day"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 121,
+        "question": "The shema emphasizes the ",
+        "option": {
+          "a": "unity of God ",
+          "b": "richness of the spirit of God ",
+          "c": "omnipotence of God ",
+          "d": "crucial role o’ Israel in the world."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 282,
+        "question": "What did Gideon call the altar which he built to the LORD?",
+        "option": {
+          "a": "The LORD is merciful",
+          "b": "The LORD is peace",
+          "c": "Jehovah Jireh",
+          "d": "The LORD is great"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 699,
+        "question": "After Abner’s death, David showed that he had sincerely forgiven him by ____________.",
+        "option": {
+          "a": "ordering the arrest of Joab who slew Abner",
+          "b": "directing all Israel to bury Abner with honour",
+          "c": "weeping and fasting for Abner for a whole day",
+          "d": "Giving Abner’s son a place of honour in Israel"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 488,
+        "question": "In Paul’s epistle to the Thessalonians, any Christian living \tin idleness should be",
+        "option": {
+          "a": "thrown out of the Church.",
+          "b": "looked at as an enemy.",
+          "c": "sympathized with",
+          "d": "avoided by the others."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 100,
+        "question": "Deborah was a judge when Israel was under the yoke of ",
+        "option": {
+          "a": "Moab ",
+          "b": "Midian ",
+          "c": "Canaan ",
+          "d": "Philistine"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 1048,
+        "question": "The sons of Samuel misused their privileged positions by        ",
+        "option": {
+          "a": "not allowing the fats of animals to burn first to God ",
+          "b": "sleeping with women who came to sacrifice ",
+          "c": "bribery and false judgement ",
+          "d": "stealing from the offering"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 269,
+        "question": "The disciple who replaced Judas Iscariot was",
+        "option": {
+          "a": "Justus",
+          "b": "Stephen",
+          "c": "Mathias",
+          "d": "Luke."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 584,
+        "question": "In the Epistle to the Romans, justification is received through",
+        "option": {
+          "a": "faith in Jesus.",
+          "b": "moral uprightness",
+          "c": "observance of the law.",
+          "d": "giving of alms"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 679,
+        "question": "Which of the following places was not visited by Paul during his first missionary journey?",
+        "option": {
+          "a": "Salamis",
+          "b": "Athens",
+          "c": "Antioch of Syria",
+          "d": "Antioch of Pisidia"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 194,
+        "question": "In what way was Moses a prototype of Jesus Christ?",
+        "option": {
+          "a": "Moses was a great prophet who led Israel out of Egypt",
+          "b": "Moses did not die naturally",
+          "c": "Moses appeared to Jesus on Mount of Transfiguration",
+          "d": "Moses was persecuted by his people"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 88,
+        "question": "The proconsul when Paul arrived in commit was called",
+        "option": {
+          "a": "Festus ",
+          "b": "portions ",
+          "c": "Pilate ",
+          "d": "Gallio "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 448,
+        "question": "In their dealings with God, Abraham and Sarah learnt the \tfollowing lessons except that God is",
+        "option": {
+          "a": "able to bless the righteous.",
+          "b": "faithful to His promise",
+          "c": "all powerful-nothing is too hard for Him.",
+          "d": "not in a hurry to carry out His promises."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 18,
+        "question": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29)  When did he say this? ",
+        "option": {
+          "a": "When he was about to die ",
+          "b": "When he was seriously sick ",
+          "c": "When he offended God ",
+          "d": "When his brother cheated him"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 367,
+        "question": "According to the Mosaic law, the only authority to declare a leper healed was",
+        "option": {
+          "a": "Jesus Christ",
+          "b": "the Emperor",
+          "c": "the priest",
+          "d": "the elders."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 52,
+        "question": "Explain why Jesus was identified as the lamb by John (Jn:1:29 ) ",
+        "option": {
+          "a": "lamb of God is a figurative language which describes Christ sacrificial mission in the word ",
+          "b": "he is being compared to the Passover Lamb that would atone for the sins of all world ",
+          "c": "Because the lamb is attentive to his owner ",
+          "d": "it shows patience, meekness, gentleness and innocence"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 466,
+        "question": "God spoke through Amos that He would punish Israel for the following sins except that they",
+        "option": {
+          "a": "sold the righteous for silver.",
+          "b": "sold the needy for a pair of shoes.",
+          "c": "trampled the head of the poor into the dust.",
+          "d": "pursued their brothers with the swords."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 461,
+        "question": "The punishment of Israel according to the vision of Jeremiah includes all the following except",
+        "option": {
+          "a": "occupation of the land by foreigners.",
+          "b": "restoration of their kings and priests.",
+          "c": "destruction of their flocks and herds.",
+          "d": "consumption of their harvest by their enemies."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 342,
+        "question": "Paul commended the churches in Macedonia for giving out of their freewill to the",
+        "option": {
+          "a": "saints",
+          "b": "poor",
+          "c": "priests",
+          "d": "sick."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 997,
+        "question": "Deborah, a prophetess who was a judge in Israel was the wife of    ",
+        "option": {
+          "a": "Joshu ",
+          "b": "Abijah",
+          "c": "Lappidoth.  ",
+          "d": "Sisera."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 90,
+        "question": "The seven deacons were appointed by ",
+        "option": {
+          "a": "conduct a mission to the Gentiles",
+          "b": "Replace the twelve ",
+          "c": "Lead the church in Jerusalem ",
+          "d": "Help in the distribution of food "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 107,
+        "question": "When was this statement made? ‘I repent that I Made Saul king '",
+        "option": {
+          "a": "at the anointing of Saul ",
+          "b": "When Saul failed to ray ",
+          "c": "When Saul disobeyed God over Amalek ",
+          "d": "When Saul finished the morning offering"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 704,
+        "question": " Which one of the following is the man associated with prayers?",
+        "option": {
+          "a": "Elisha",
+          "b": "Elijah",
+          "c": "Eli",
+          "d": "Ezekiah"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 1074,
+        "question": "Life in the Early Church was characterized by",
+        "option": {
+          "a": "fasting and almsgiving      ",
+          "b": "         prophetic activities ",
+          "c": "communal spirit ",
+          "d": "        honesty and peace"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 160,
+        "question": "According to the Letter to the Hebrews, why should Christians lay aside every weight and sin which clings so closely?  ",
+        "option": {
+          "a": "Sin is contagious  ",
+          "b": "Christian can easily be influenced by sinners  ",
+          "c": "Christians are surrounded by so great a cloud of witness  ",
+          "d": "No sinner will inherit the kingdom of God "
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 480,
+        "question": "According to John’s Gospel, Lazarus was from",
+        "option": {
+          "a": "Bethany",
+          "b": "Galilee.",
+          "c": "Jerusalem.",
+          "d": "Bethsaida."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 762,
+        "question": "\"For the men in the ship knew that he was fleeing from the presence of the Lord\". The person referred to in this statement is________",
+        "option": {
+          "a": "Jonah",
+          "b": "Hosea",
+          "c": "Amos",
+          "d": "Elijah"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 847,
+        "question": "Moses asked God for a new leader for Israel so that lsrael might",
+        "option": {
+          "a": "have a shepherd",
+          "b": "conquer the Cannanites",
+          "c": "own the Promised land",
+          "d": "become a greater nation"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 427,
+        "question": "According to Peter during the great confession, people believed that Jesus was",
+        "option": {
+          "a": "the Messiah",
+          "b": "a priest",
+          "c": "the Son of God",
+          "d": "one of the prophets."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 240,
+        "question": "Paul taught the Colossians that the relationship between wives and their husbands should be as",
+        "option": {
+          "a": "is fitting in the Lord",
+          "b": "the culture demands",
+          "c": "is written in the law",
+          "d": "the husband commands"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 777,
+        "question": "\"For I desire steadfast love and not sacrifice...\" this statement relates to the_______",
+        "option": {
+          "a": "response of God's love to the children of Israel",
+          "b": "response of Israel to the genuineness of God's love",
+          "c": "message of God's love to man",
+          "d": "message of Hosea on faithfulness and social progress"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 623,
+        "question": "The impact of Jesus’ miracle of turning water into wine was that the",
+        "option": {
+          "a": "servants were astonished",
+          "b": "master of ceremony believed",
+          "c": "disciples believed more in Him",
+          "d": "people glorified God."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 654,
+        "question": "Who was the first king of Israel?",
+        "option": {
+          "a": "Kish",
+          "b": "David",
+          "c": "Solomon",
+          "d": "Saul"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 649,
+        "question": "The name Moses means",
+        "option": {
+          "a": "baptized in water",
+          "b": "abandoned in water.",
+          "c": "drawn out of water.",
+          "d": "thrown into water."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 109,
+        "question": "That was the sin of David that involved Bathseba? ",
+        "option": {
+          "a": "Murder ",
+          "b": "adultery ",
+          "c": "dishonesty ",
+          "d": "arrogance"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 914,
+        "question": "Which of the following parables alludes to the existence of a mixture of good and bad people in the church? The",
+        "option": {
+          "a": "Wicked Tenants.",
+          "b": "Seed Growing Secretly.",
+          "c": "Wheat and Tares.",
+          "d": "Prodigal Son"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      }
+    ],
+    "2013": [
+      {
+        "id": 421,
+        "question": "‘‘... and many will rejoice at his birth; for he will be great before the Lord...” In the statement above, the angel made this pronouncement because of",
+        "option": {
+          "a": "Elizabeth’s disbelief because of her bareness",
+          "b": "Mary’s holy nature",
+          "c": "Zachariah’s fervent prayers",
+          "d": "Joseph’s hesitation to marry Mary."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 400,
+        "question": "Moses ran away from Egypt after killing an Egyptian because he felt that he might be",
+        "option": {
+          "a": "endangering other Israelites by his actions",
+          "b": "killed by the Egyptian mob",
+          "c": "imprisoned by the Egyptian security officers",
+          "d": "killed by Pharaoh of Egypt."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 408,
+        "question": "Saul relied on a medium because God did not answer him through",
+        "option": {
+          "a": "dreams, visions and prophets",
+          "b": "inspiration, tambourines and prophets",
+          "c": "dreams, urim and prophets",
+          "d": "lyre, urim and prophets."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 436,
+        "question": "According to Galatians, judgment is without mercy to one who has shown no mercy, yet mercy triumphs over",
+        "option": {
+          "a": "tribulation",
+          "b": "the law",
+          "c": "judgment",
+          "d": "punishment."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 430,
+        "question": "According to Mark, the young man that the women saw in Jesus’ tomb told them to go with the disciples and wait for Him in",
+        "option": {
+          "a": "Bethlehem",
+          "b": "Jerusalem",
+          "c": "Bethany",
+          "d": "Galilee"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 416,
+        "question": "Before his call, Amos was a",
+        "option": {
+          "a": "herdsman",
+          "b": "seer",
+          "c": "farmer",
+          "d": "prophet."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 404,
+        "question": "The young man of Egypt took David to the band of the Amalekites because",
+        "option": {
+          "a": "he was afraid for his life",
+          "b": "he sought revenge against his former master",
+          "c": "David was kind to him",
+          "d": "the spirit of God was working through him."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 424,
+        "question": "The disciples of Jesus could not heal the boy with epilepsy because they",
+        "option": {
+          "a": "did not fast",
+          "b": "had little faith",
+          "c": "were powerless",
+          "d": "did not pray."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 431,
+        "question": "“He was not the light but was sent to bear witness to the light.” The statement above refers to",
+        "option": {
+          "a": "Simeon",
+          "b": "Jesus",
+          "c": "John the Baptist",
+          "d": "Peter Barjona"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 437,
+        "question": "According to Colossians, the Lord does not wish that any should perish, but that all should",
+        "option": {
+          "a": "rejoice",
+          "b": "be saved",
+          "c": "be humble",
+          "d": "repent"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 398,
+        "question": "The ark that God commanded Noah to build was made of",
+        "option": {
+          "a": "acacia wood",
+          "b": "gopher wood",
+          "c": "cedar wood",
+          "d": "cypress wood"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 434,
+        "question": "“Lord, I have heard from many about this man, how much evil he has done to thy saints at Jerusalem...” Ananias’ response above to God’s request for him to meet Saul shows that he",
+        "option": {
+          "a": "felt that Saul should not be forgiven",
+          "b": "felt that Saul should be punished",
+          "c": "was not interested in meeting Saul",
+          "d": "was afraid to meet Saul."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 443,
+        "question": "According to Thessalonians, the second coming of the Lord will be",
+        "option": {
+          "a": "with the blowing of a trumpet",
+          "b": "after scoffers have come",
+          "c": "when the elements are dissolved",
+          "d": "like a thief in the night."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 435,
+        "question": "“It is necessary to circumcise them, and to charge them to keep the law of Moses.” In response to the Pharisees’ statement above, Peter rebuked them, by saying that God has",
+        "option": {
+          "a": "made circumcision for only those in leadership",
+          "b": "chosen the Israelites among other people",
+          "c": "cleansed the Gentiles’ heart by faith",
+          "d": "put the yoke upon the Gentiles’ necks."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 444,
+        "question": "According to James, when we meet various trails in life, we should",
+        "option": {
+          "a": "bless God’s name",
+          "b": "call upon the name of the Lord",
+          "c": "count it all joy",
+          "d": "rejoice because the Lord is good."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 415,
+        "question": "Jonah’s explanation to the LORD for resisting His first call teaches us that God is",
+        "option": {
+          "a": "repentant of evil",
+          "b": "not ready to act fast",
+          "c": "quick to anger",
+          "d": "not sincere in His call."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 419,
+        "question": "Prophet Ezekiel was set upon his feet to hear the LORD speak when",
+        "option": {
+          "a": "an angel of the LORD lifted him",
+          "b": "a voice from heaven commanded him to do so",
+          "c": "the Spirit entered into him",
+          "d": "He was made to touch the ephod"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 403,
+        "question": "David’s inaction at Ammon’s incest with Tamar showed his",
+        "option": {
+          "a": "lack of control over his children",
+          "b": "excessive love for Ammon",
+          "c": "ability to forgive as a leader",
+          "d": "wisdom and strength of character"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 406,
+        "question": "‘...why then have you not kept watch over your lord the king?...” The question above by David was addressed to",
+        "option": {
+          "a": "Amasa",
+          "b": "Joab",
+          "c": "Abishai",
+          "d": "Abner."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 397,
+        "question": "The new covenant between God and the Israelites is centered on",
+        "option": {
+          "a": "religious doctrines",
+          "b": "intensive teaching",
+          "c": "collective responsibility",
+          "d": "individual responsibility."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 420,
+        "question": "According to Jeremiah, the people of Israel were in exile because of their",
+        "option": {
+          "a": "impatience and immorality",
+          "b": "rebellion against Nebuchadnezzar",
+          "c": "maltreatment of the poor",
+          "d": "unfaithfulness and faithlessness."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 442,
+        "question": "Paul in Timothy urged believers to make supplications, prayers, intercession and thanksgivings for all those who",
+        "option": {
+          "a": "are in authority",
+          "b": "have accepted Christ",
+          "c": "have wronged them",
+          "d": "are the need"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 407,
+        "question": "Solomon’s wisdom surpassed the wisdom of all the people of the East and all wisdom of Egypt because he",
+        "option": {
+          "a": "prayed and fasted daily",
+          "b": "employed the service of seers",
+          "c": "judged difficult cases",
+          "d": "got his wisdom from God."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 413,
+        "question": "The major reason God allowed the Babylonian attack on the city of Jerusalem was to",
+        "option": {
+          "a": "demonstrate the ability of God to deliver His people from captivity",
+          "b": "set a trap for the Babylonians and destroy them",
+          "c": "restore the people of Judah and their leaders to the true worship of God",
+          "d": "punish the people of Judah and their leaders for their sins."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 440,
+        "question": "In Corinthians, Paul said that one can only say Jesus is Lord by",
+        "option": {
+          "a": "denouncing the law",
+          "b": "faith",
+          "c": "grace",
+          "d": "the Holy Spirit."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 428,
+        "question": "‘‘... Behold, your king is coming to you, humble, and mounted on an ass...,” The prophecy in the statement above was fulfilled during Jesus",
+        "option": {
+          "a": "birth in a manger",
+          "b": "transfiguration",
+          "c": "triumphal entry",
+          "d": "baptism by John"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 414,
+        "question": "When the three Hebrew men refused to worship the King’s image, he commanded that they be",
+        "option": {
+          "a": "thrown into a furnace",
+          "b": "stoned",
+          "c": "beheaded",
+          "d": "thrown into the lion’s den."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 405,
+        "question": "Because David sought God’s will to pursue the Amalekites \twho had invaded Ziklag, he was rewarded with victory and",
+        "option": {
+          "a": "many new territories",
+          "b": "spoils",
+          "c": "many prisoners of war",
+          "d": "favour"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 410,
+        "question": "The sins of Israel during the reign of Ahab consisted of",
+        "option": {
+          "a": "worship of the king",
+          "b": "trampling upon the poor",
+          "c": "worship of idols",
+          "d": "desecrating the Temple"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 433,
+        "question": "According to Paul, before his conversion, he persecuted the church violently to",
+        "option": {
+          "a": "make it desirable to the Gentiles",
+          "b": "purge it",
+          "c": "destroy it",
+          "d": "have it conform to the Law."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 432,
+        "question": "The appointment of deacons became necessary because of the complaint by the",
+        "option": {
+          "a": "Gentile converts",
+          "b": "Hellenists",
+          "c": "Pharisees",
+          "d": "Sadducees"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 426,
+        "question": "The promise to those who are persecuted for righteousness sake is that they will",
+        "option": {
+          "a": "inherit the earth",
+          "b": "inherit the kingdom of heaven",
+          "c": "see God",
+          "d": "be called sons of God."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 412,
+        "question": "King Josiah was killed by Pharaoh Neco in a battle at",
+        "option": {
+          "a": "Syria",
+          "b": "Meggiddo",
+          "c": "Megiddo",
+          "d": "Egypt."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 402,
+        "question": "David’s immediate reaction to the news that the hearts of the Israelites have gone after Absalom was to",
+        "option": {
+          "a": "Weep for Judah",
+          "b": "flee to the wilderness",
+          "c": "mobilize his army",
+          "d": "plead with Absalom"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 417,
+        "question": "Amos’ prophecies which were considered as a conspiracy against the northern kingdom were reported to the king by",
+        "option": {
+          "a": "Micaiah",
+          "b": "Amaziah",
+          "c": "Hilkiah",
+          "d": "Micah."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 423,
+        "question": "“Lord, if you will, you can make me clean.” The statement above was made by the",
+        "option": {
+          "a": "leper",
+          "b": "paralytic",
+          "c": "centurion servant",
+          "d": "epileptic boy."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 427,
+        "question": "According to Peter during the great confession, people believed that Jesus was",
+        "option": {
+          "a": "the Messiah",
+          "b": "a priest",
+          "c": "the Son of God",
+          "d": "one of the prophets."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 399,
+        "question": "During Moses leadership in Israel, he exhibited most importantly, the talent of a",
+        "option": {
+          "a": "mediator",
+          "b": "warrior",
+          "c": "seer",
+          "d": "preacher."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 409,
+        "question": "When Naboth refused to exchange his vineyard with King Ahab, Ahab reacted by",
+        "option": {
+          "a": "taking to prayers and fasting",
+          "b": "going to his house vexed and sullen",
+          "c": "ordering the killing of Naboth",
+          "d": "forcefully taking it from him."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 422,
+        "question": "One quality of a good disciple that was exhibited by the first followers of Jesus was",
+        "option": {
+          "a": "faith",
+          "b": "piousness",
+          "c": "diligence",
+          "d": "resourcefulness."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      }
+    ],
+    "2014": [
+      {
+        "id": 381,
+        "question": "Which of the following is the result of Christian baptism?",
+        "option": {
+          "a": "Fulfilment of all righteousness",
+          "b": "Walking in the newness of life",
+          "c": "Ability to fast always",
+          "d": "Yielding of one’s life to prayer."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 825,
+        "question": "After his conversion, Paul was introduced to the disciples in Jerusalem by ",
+        "option": {
+          "a": " Peter           ",
+          "b": "  Ananias",
+          "c": "Barnabas",
+          "d": "Philip"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 856,
+        "question": "The Hebrew kingdom broke up beacuse of ",
+        "option": {
+          "a": "prophet Ahijah’s curse against solomon",
+          "b": "Solomon’s marriage to foreign women",
+          "c": "Rehoboam’s efforts to rule Shechem",
+          "d": "Rehoboam’s refusal to grant the Northerners’ petition"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 1090,
+        "question": "Peter admonished church leaders to take care of the flock of Christ in order to",
+        "option": {
+          "a": "restrain men from degrading the church ",
+          "b": "obtain God’s crown of glory ",
+          "c": "build a vibrant church ",
+          "d": "ensure discipline in the church"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 737,
+        "question": "To St Paul, Christians can prepare for the second coming of Christ by______",
+        "option": {
+          "a": "Righteous living",
+          "b": "Spreading the message of Christ's coming far and wide",
+          "c": "Being prayerful and watchful",
+          "d": "Relentlessly fasting and praying"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 312,
+        "question": "The workmen who repaired the house of the LORD during Josiah’s religious reforms were not made to account for the money given them because they",
+        "option": {
+          "a": "did not receive the money directly",
+          "b": "lacked accounting capabilities",
+          "c": "bribed the Temple officials",
+          "d": "were honest workmen."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 274,
+        "question": "“1 will not eat until I have told my errand” In the statement above, the errand of Abraham’s servant was to",
+        "option": {
+          "a": "find a wife for Isaac",
+          "b": "deliver the camels to Laban",
+          "c": "assess Isaac’s future wife",
+          "d": "deliver Isaac’s message to Laban"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 399,
+        "question": "During Moses leadership in Israel, he exhibited most importantly, the talent of a",
+        "option": {
+          "a": "mediator",
+          "b": "warrior",
+          "c": "seer",
+          "d": "preacher."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 543,
+        "question": "Believers today are partakers of the New Covenant through",
+        "option": {
+          "a": "partaking in baptism by immersion",
+          "b": "the gift of the spirit",
+          "c": "adherence to all the sacraments",
+          "d": "obedience to church leadership"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 871,
+        "question": "In the garden of Gethsemane, Jesus",
+        "option": {
+          "a": "was arrested",
+          "b": "was crucified",
+          "c": "rebuked Judas Iscariot",
+          "d": "prayed for peace"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 1062,
+        "question": "Which of the following distinctly demonstrates the episode of Shadrack, Meshack and Abednego ",
+        "option": {
+          "a": "Complete trust in God ",
+          "b": "God’s ability to save his servants ",
+          "c": "Weakness of an earthly king ",
+          "d": "Failure of a king’s dictatorship"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 452,
+        "question": "Which of the following tribes accompanied Deborah and Barak to the war against Jabin and Sisera?",
+        "option": {
+          "a": "Naphtali and Zebulum",
+          "b": "Issachar and Reuben",
+          "c": "Ephraim and Dan",
+          "d": "Judah and Benjamin"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 721,
+        "question": "St Paul's condition for the attainment of justification is by ______?",
+        "option": {
+          "a": "Total obedience to the law",
+          "b": "Holiness in Christ Jesus",
+          "c": "Faith in the Resurrected Jesus",
+          "d": "Loving our Christian brethren"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 295,
+        "question": "Prophet Hosea named his second child Not Pitied because God would no more pity the",
+        "option": {
+          "a": "kings of Judah",
+          "b": "kings of Israel",
+          "c": "house of Judah",
+          "d": "house of Israel."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 725,
+        "question": "Jesus charged Christians to express love just as________",
+        "option": {
+          "a": "He taught them the new commandment",
+          "b": "They would do with their neighbours",
+          "c": "He laid his life for the sake of mankind",
+          "d": "They Love God"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 1005,
+        "question": "In spite of Solomon’s apostasy, his empire remained intact until his death because ",
+        "option": {
+          "a": "God deferred, for David’s sake, the punishment due to him",
+          "b": " he won decisive victories over his enemies. ",
+          "c": "he always took wise decisions",
+          "d": "he made surrounding nations fight among themselves."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 741,
+        "question": "\"I gave you cleanness of teeth in all your cities\". By this statement, God gave them ______",
+        "option": {
+          "a": "New set of teeth",
+          "b": "No food to eat",
+          "c": "No water to drink",
+          "d": "No teeth at all"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 122,
+        "question": "The expression ‘dry bones’ in Ezekiel refers to ",
+        "option": {
+          "a": "an Israelites proverb ",
+          "b": "the whole house of Israel ",
+          "c": "the slain in the valley ",
+          "d": "sinful Israelites and Judean"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 1072,
+        "question": " Cleopas’ heart burnt within him on the road to Emmaus when Jesus",
+        "option": {
+          "a": "appeared to them      ",
+          "b": "taught them the scriptures ",
+          "c": "broke bread with them    ",
+          "d": "walked with them"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 125,
+        "question": "True religion, according to Amos’ submission, is the one in which  ",
+        "option": {
+          "a": "God is always appeased with sacrifices and tithes ",
+          "b": "Foods and drinks are served as a mark of love ",
+          "c": "Justice and righteousness flows like an endless stream  ",
+          "d": "Feast and solemn assemblies play important roles "
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 645,
+        "question": "Peter in his epistle enjoined servants to be sub¬missive to their masters with all",
+        "option": {
+          "a": "gentleness",
+          "b": "seriousness",
+          "c": "respect",
+          "d": "humility."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 478,
+        "question": "Jesus said “I am the bread of life; he who comes to me shall not hunger...” ‘Bread of life’ in this context means the",
+        "option": {
+          "a": "body of Jesus Christ.",
+          "b": "manna given to the Israelites.",
+          "c": "holy bread of life.",
+          "d": "spiritual food through Jesus."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 366,
+        "question": "“Blessed are the peace makers for",
+        "option": {
+          "a": "theirs is the kingdom of God”",
+          "b": "they shall be called sons of God”",
+          "c": "they shall inherit the earth”",
+          "d": "they shall be comforted”."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 952,
+        "question": "The contest on Mount Carmel was organized to ",
+        "option": {
+          "a": "popularize Baal worship",
+          "b": "prove the power of Go",
+          "c": "show that God answers by fire. ",
+          "d": "prove the immortality of Elijah."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 586,
+        "question": "Paul’s greatest writing about spiritual gift is found in his letter to the",
+        "option": {
+          "a": "Galatians.",
+          "b": "Ephesians.",
+          "c": "Romans.",
+          "d": "Corinthians"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 203,
+        "question": "Saul’s death on Mount Gilboa was in consequence of his",
+        "option": {
+          "a": "sin of disobedience",
+          "b": "resorting to the witch of Endor",
+          "c": "loss of confidence in David",
+          "d": "armour bearer’s obedience"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 232,
+        "question": "Paul argued that Jesus died for us while we were yet sinners in order to",
+        "option": {
+          "a": "prove that he was not an ordinary man",
+          "b": "show Gods’ love for sinful man",
+          "c": "warn us to desist from sin",
+          "d": "give us power to possess the earth"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 887,
+        "question": "\n Which of the following, accordings to James is an important\n factor for effective prayer?\n",
+        "option": {
+          "a": "Love",
+          "b": "Faith",
+          "c": "Hope",
+          "d": "Mercy"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 37,
+        "question": "The meaning of Emmanuel is ",
+        "option": {
+          "a": "laughter ",
+          "b": "“for I draw him from water ",
+          "c": "God with us ",
+          "d": "the fear of God"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2007"
+      },
+      {
+        "id": 996,
+        "question": "Who among the following kings was raised by God against the Israelites for going after the Canaanite gods? ",
+        "option": {
+          "a": "Agap   ",
+          "b": "Jabin     ",
+          "c": "         Zebah             ",
+          "d": "Zalmunnal"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 27,
+        "question": "In Peter’s teaching,” God…………..the proud and gives grace to the humble",
+        "option": {
+          "a": "receives ",
+          "b": "relegates ",
+          "c": "resists ",
+          "d": "restores."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2007"
+      },
+      {
+        "id": 1078,
+        "question": "Which prophet did Peter quote when he preached on Pentecost day about the spirit falling upon all men? ",
+        "option": {
+          "a": " Amos        ",
+          "b": "  Hosea            ",
+          "c": "Joel           ",
+          "d": " Jonah"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 519,
+        "question": "The most important aspect of the religious reforms of King Josiah was the",
+        "option": {
+          "a": "renewal of the covenant",
+          "b": "cleaning of the Temple",
+          "c": "discovery of the tomb of the man of God",
+          "d": "discovery of the book of the law"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 906,
+        "question": "Yet what they are building if a fox goes up on it he will breakdown their stone wall”. This statement by Tobias was ",
+        "option": {
+          "a": "taunt and ridicule the Jews",
+          "b": "stop and disgrace the Jews",
+          "c": "tease and punish Nehemiah.",
+          "d": "alert and strengthen Nehemiah"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 51,
+        "question": "Name three places Christian religious people look up to find the truth about the nature of God",
+        "option": {
+          "a": "In the sacred scripture ",
+          "b": "In the religious leader ",
+          "c": "In the church ",
+          "d": "In their conscience."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 1003,
+        "question": "David bitterly mourned when Abner was slain by  ",
+        "option": {
+          "a": "Ishbosheth",
+          "b": ".       Absalom",
+          "c": "Asahel",
+          "d": "Joab."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 1063,
+        "question": "The indigenous official of King Darius were unhappy with Daniel because he ",
+        "option": {
+          "a": "often reported them to the King ",
+          "b": "was a Jewish exile         ",
+          "c": " had an excel lent spirit ",
+          "d": "refused to worship the golden image"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 420,
+        "question": "According to Jeremiah, the people of Israel were in exile because of their",
+        "option": {
+          "a": "impatience and immorality",
+          "b": "rebellion against Nebuchadnezzar",
+          "c": "maltreatment of the poor",
+          "d": "unfaithfulness and faithlessness."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 369,
+        "question": "According to Matthew, the disciples were sent out with the charge to go nowhere among the Gentiles nor enter any town of the",
+        "option": {
+          "a": "Jews",
+          "b": "Samaritans",
+          "c": "Israelites",
+          "d": "Unbelievers."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 241,
+        "question": "At the coming of the Lord, unbelievers will",
+        "option": {
+          "a": "be condemned",
+          "b": "have a desolate land",
+          "c": "be hit by famine",
+          "d": "die in divine war"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      }
+    ],
+    "2015": [
+      {
+        "id": 540,
+        "question": "One of the prophets that prophesied hope for Israel in spite of God’s promise of punishment was",
+        "option": {
+          "a": "Amos",
+          "b": "Jeremiah",
+          "c": "Obadiah",
+          "d": "Hosea"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 514,
+        "question": "“Shall l pursue after this band? Shall l overtake them?” David’s dependence on God for direction is depicted in the statement above when",
+        "option": {
+          "a": "Absalom had revolted against him",
+          "b": "Saul was within his grasp",
+          "c": "the Amalekites had raided Ziklag",
+          "d": "he was to go against Goliath"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 523,
+        "question": "“How is it that you have agreed together to tempt the spirit of the Lord ....” The statement above was made in reference to the greed of",
+        "option": {
+          "a": "Gehazi and Naaman",
+          "b": "Ahab and Jezebel",
+          "c": "Judas and scribes",
+          "d": "Ananias and Sapphira"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 500,
+        "question": "Paul in Romans said that the righteousness of God has been manifested through faith in Jesus Christ for",
+        "option": {
+          "a": "the exaltation of the authority",
+          "b": "the cleansing of the sinners",
+          "c": "the dead in Christ",
+          "d": "all those who believe"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 544,
+        "question": "God’s message through Jonah’s was to the people of",
+        "option": {
+          "a": "Joppa",
+          "b": "Tarshish",
+          "c": "Samaira",
+          "d": "Nineveh"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 509,
+        "question": "God fed the Israelites with Manna at the wilderness of",
+        "option": {
+          "a": "Zin",
+          "b": "Elim",
+          "c": "Sinai",
+          "d": "Sin"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 535,
+        "question": "In his teaching on Spiritual gifts in Corinthians, Paul said that all gifts are inspired by",
+        "option": {
+          "a": "the same Spirit",
+          "b": "prayer",
+          "c": "the individual’s ability",
+          "d": "grace"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 522,
+        "question": "The action that portrayed Moses as a leader of the Israelites was his",
+        "option": {
+          "a": "request to Pharaoh to spare Israelite’s sons",
+          "b": "disobedience to Pharaoh and escape",
+          "c": "killing of an Egyptian who fought with a Hebrew",
+          "d": "protection of the daughter of Jethro"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 511,
+        "question": "A good example of parental responsibility was demonstrated by",
+        "option": {
+          "a": "Samuel",
+          "b": "Eli",
+          "c": "Asa",
+          "d": "David"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 508,
+        "question": "“ ..... I will surely tear the kingdom from you and will give it to your servant .....” An unwise decision of Solomon that resulted in God making the pronouncement above was his",
+        "option": {
+          "a": "dependence on other nations for supplies",
+          "b": "policy of forced labour",
+          "c": "neglect of God for other gods",
+          "d": "heavy taxation on the people"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 528,
+        "question": "“Leaves the dead to bury their own dead ....” Jesus’ statement above to the man He asked to follow Him was indicative of",
+        "option": {
+          "a": "His power over death",
+          "b": "His desire to save the man",
+          "c": "the futility of life",
+          "d": "the cost of discipleship"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 503,
+        "question": "In His teaching about Himself, Jesus said the hireling is not a good shepherd because he",
+        "option": {
+          "a": "leaves the sheep and flees at the sight of danger",
+          "b": "owns the sheep but does not care for them",
+          "c": "cares for the sheep but does not discipline them",
+          "d": "is the gate-keeper who shuts the sheep out"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 527,
+        "question": "How old was Abram when God appeared to him the second time?",
+        "option": {
+          "a": "105 years",
+          "b": "75 years",
+          "c": "99 years",
+          "d": "85 years"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 498,
+        "question": "The ruler of the synagogue whose child Jesus raised to life was",
+        "option": {
+          "a": "Zebedee",
+          "b": "a widow",
+          "c": "Jairus",
+          "d": "a centurion"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 538,
+        "question": "In His sermon on the Mount, Jesus discouraged His listeners from laying up treasures on earth because",
+        "option": {
+          "a": "it would create enmity",
+          "b": "they would not be respected",
+          "c": "thieves would steal them",
+          "d": "the earth would pass away"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 497,
+        "question": "“....... Behold, I will bring evil upon you; I will utterly sweep you away .....” Elijah pronounced destruction on Ahab with the statement above for his sin of",
+        "option": {
+          "a": "the killing of God’s prophets",
+          "b": "worship of other gods",
+          "c": "going to war against Ramoth-gilead",
+          "d": "greed, covetousness and murder"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 516,
+        "question": "Paul admonished the Romans to live a new life in Christ by yielding themselves to God as men who",
+        "option": {
+          "a": "have been brought from death to life",
+          "b": "will meet Christ in God’s Kingdom",
+          "c": "will receive judgment on the last day",
+          "d": "have suffered for the sake of the gospel"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 543,
+        "question": "Believers today are partakers of the New Covenant through",
+        "option": {
+          "a": "partaking in baptism by immersion",
+          "b": "the gift of the spirit",
+          "c": "adherence to all the sacraments",
+          "d": "obedience to church leadership"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 499,
+        "question": "According to Amos, true religion entails",
+        "option": {
+          "a": "engaging in sacrifices and burnt offerings",
+          "b": "being just and righteous",
+          "c": "fasting and praying always",
+          "d": "engaging in holy feasts and assemblies"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 501,
+        "question": "“I tell you, if these were silent, the very stones would cry out.” Jesus’ statement above was made when",
+        "option": {
+          "a": "He was rebuked by the Pharisees for eating with sinners",
+          "b": "the scribes and the chief priest came to arrest Him",
+          "c": "He consoled a woman on His way to the cross",
+          "d": "the Pharisees asked Him to rebuke His disciples"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 518,
+        "question": "According to Corinthians, Paul while defending himself advised believers to boast only of the things that",
+        "option": {
+          "a": "exhibit their authority",
+          "b": "show their weakness",
+          "c": "display their exaltation",
+          "d": "depict their righteousness"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 539,
+        "question": "Paul returned Philemon’s slave back to him, to ensure that",
+        "option": {
+          "a": "Philemon forgave and accepted the slave",
+          "b": "the slave can complete his service time",
+          "c": "he would be welcome when he left prison",
+          "d": "he could boast of Philemon’s obedience"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 507,
+        "question": "When Ezekiel ate the scroll that was given to him his call. it signified that",
+        "option": {
+          "a": "God would always go before him",
+          "b": "his sins were forgiven",
+          "c": "he would never be hungry",
+          "d": "he was filled with God’s word"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 545,
+        "question": "Amos is often referred to as a prophet of",
+        "option": {
+          "a": "doom",
+          "b": "love",
+          "c": "hope",
+          "d": "justice"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 520,
+        "question": "Cornelius who was converted and baptized by Peter was a",
+        "option": {
+          "a": "member of the Sanhedrin",
+          "b": "centurion",
+          "c": "Gentile who persecuted the church",
+          "d": "scribe"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 505,
+        "question": "In his teaching on effective prayer, James said that the prayer of faith would",
+        "option": {
+          "a": "influence the authority",
+          "b": "heal and cleanse sins",
+          "c": "ensure salvation for the sick",
+          "d": "enhance commitment to church"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 504,
+        "question": "God displayed His supremacy when Ahab was king during \tthe",
+        "option": {
+          "a": "incidence of Naboth’s vineyard",
+          "b": "war with Ramoth-gilead",
+          "c": "inciting of Jehoshaphat against him",
+          "d": "contest of Mount Carmel"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 515,
+        "question": "A parable that teaches a lesson on the demands of the kingdom is that of the",
+        "option": {
+          "a": "lost coin",
+          "b": "Weeds",
+          "c": "Samaritan",
+          "d": "prodigal son"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 517,
+        "question": "An action that demonstrated Solomon’s wisdom was his",
+        "option": {
+          "a": "judgment of the prostitute’s child",
+          "b": "reliance on a medium",
+          "c": "alliance with other nations",
+          "d": "taxation policy for his building works"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 532,
+        "question": "According to Paul in Philippians, Jesus demonstrated humility when He",
+        "option": {
+          "a": "had pity on the possessed man",
+          "b": "likened Himself to God",
+          "c": "forgave those who crucified Him",
+          "d": "took the form of man"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 519,
+        "question": "The most important aspect of the religious reforms of King Josiah was the",
+        "option": {
+          "a": "renewal of the covenant",
+          "b": "cleaning of the Temple",
+          "c": "discovery of the tomb of the man of God",
+          "d": "discovery of the book of the law"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 529,
+        "question": "Paul in Romans advised believers to respect those in authority to avoid God’s wrath and also for the sake of",
+        "option": {
+          "a": "conscience",
+          "b": "Christ",
+          "c": "faith",
+          "d": "others"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 512,
+        "question": "Why did Pilate send Jesus to Herod during the trial?",
+        "option": {
+          "a": "Jesus, as a Galilean was under Herod’s jurisdiction",
+          "b": "Pilate had no power to pass the death sentence",
+          "c": "Herod’s court was the last point before crucifixion",
+          "d": "Herod had longed to see Jesus perform miracles"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 496,
+        "question": "What was Herod’s reaction when he heard the news about Jesus’ birth?",
+        "option": {
+          "a": "He sent gifts",
+          "b": "He was excited",
+          "c": "He was troubled",
+          "d": "He became calm"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 531,
+        "question": "A key requirement for healing as exemplified by the disciple’s inability to heal the epileptic boy is",
+        "option": {
+          "a": "righteousness",
+          "b": "power",
+          "c": "humility",
+          "d": "Faith"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 542,
+        "question": "“........ I am the Lord, and there is no other, besides me \tthere is no God....” God’s statement above through Isaiah depicts",
+        "option": {
+          "a": "assurance to Isaiah of His existence",
+          "b": "Israel’s acceptance of His Supremacy",
+          "c": "His divine nature",
+          "d": "His sovereignty"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 502,
+        "question": "Before Moses brought the Israelites to meet God on Mount Sinai, he charged them to",
+        "option": {
+          "a": "touch the mountain at the sight of smoke",
+          "b": "ensure they eat very well",
+          "c": "wash the garments and be consecrated",
+          "d": "mate with their wives for three days"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 521,
+        "question": "David was successful as a leader in Israel because",
+        "option": {
+          "a": "he submitted to God’s guidance",
+          "b": "of his training as a solider",
+          "c": "of the love of his people",
+          "d": "of his life as a shepherd"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 534,
+        "question": "For obeying His word, God rewarded Shiphrah and Puah with",
+        "option": {
+          "a": "families",
+          "b": "positions",
+          "c": "servants",
+          "d": "wealth"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 526,
+        "question": "“The Son of man must suffer many things, and be rejected by the elders .....” Jesus made the statement above after He",
+        "option": {
+          "a": "cleansed the Temple",
+          "b": "demanded to know who people thought He was",
+          "c": "taught on the Mount",
+          "d": "was asked by Pilate if He was the King of the Jews"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      }
+    ],
+    "2016": [
+      {
+        "id": 64,
+        "question": "Israel went into Assyrain captivity in ",
+        "option": {
+          "a": "71AD ",
+          "b": "720BC ",
+          "c": "722BC ",
+          "d": "68AD"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 969,
+        "question": " Before His ascension the apostles asked Jesus, “Lord will you at this time restore the kingdom to Israel?” This implies that",
+        "option": {
+          "a": "some apostles wanted posts in Jesus’ government. ",
+          "b": "the zealots were ready to attack the Romans",
+          "c": "Jesus was misunderstood as a political Messiah. ",
+          "d": "Jesus’ plans were not known to them."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 663,
+        "question": "The contest between Elijah and the prophets of Baal took place at mount",
+        "option": {
+          "a": "Olive.",
+          "b": "Tabor.",
+          "c": "Sinai",
+          "d": "Camel."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 323,
+        "question": "‘Follow me and leave the dead to bury their own dead’ By this statement, Jesus means that",
+        "option": {
+          "a": "disciples shall not attend burials",
+          "b": "there is no life after death",
+          "c": "following Him comes before anything else",
+          "d": "shall leave their families in God’s care"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 745,
+        "question": "St. Paul's teaching on forgiveness primarily shows that________",
+        "option": {
+          "a": "Subordinates must regard their superiors and vice-versa for forgiveness to thrive",
+          "b": "Genuine forgiveness only comes from God",
+          "c": "Christians must not institute a 'Master-Servant' relationship contract",
+          "d": "Philemon had unilaterally decided not to accept Onesimus back"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 679,
+        "question": "Which of the following places was not visited by Paul during his first missionary journey?",
+        "option": {
+          "a": "Salamis",
+          "b": "Athens",
+          "c": "Antioch of Syria",
+          "d": "Antioch of Pisidia"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 742,
+        "question": "God instructed Saul to utterly destroy Amalek because_____",
+        "option": {
+          "a": "Its people encouraged Israel to disobey God",
+          "b": "He abhors Idolatory and all forms of unrighteousness",
+          "c": "Samuel had prayed for its destruction",
+          "d": "Its people opposed the Israelites on the way, after departing Egypt"
+        },
+        "section": "",
+        "image": "",
+        "answer": " d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 592,
+        "question": "Why did Paul wish to retain Onesimus?",
+        "option": {
+          "a": "To protect him from persecution",
+          "b": "Christianity was opposed to slavery",
+          "c": "Philemon had earnestly requested that from Paul",
+          "d": "To serve him during his imprisonment"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 468,
+        "question": "Which two tribes in Israel led in the rebuilding of the temple after the exile?",
+        "option": {
+          "a": "Judah and Benjamin",
+          "b": "Naphtali and Joseph",
+          "c": "Manasseh and Reuben",
+          "d": "Judah and Ephraim"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 352,
+        "question": "When Moses stayed away for too long on the mountain, the people of Israel",
+        "option": {
+          "a": "prayed and fasted",
+          "b": "embarked on farming",
+          "c": "returned to Egypt",
+          "d": "made and worshipped idol."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 629,
+        "question": "‘Truly, I say to you, today you will be with me in paradise.....’ Jesus made the statement above to one of the \t\tcriminals because he (Luke 23:42-43)",
+        "option": {
+          "a": "respected Him",
+          "b": "praised Him",
+          "c": "rebuked his partner",
+          "d": "was repentant"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 12,
+        "question": "In order that Benjamin might be brought to Egypt, Joseph  ",
+        "option": {
+          "a": "Reuben ",
+          "b": "Judah ",
+          "c": "Simon ",
+          "d": "Zebulon"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 984,
+        "question": "Paul believes that the resurrection of the dead would only occur on the",
+        "option": {
+          "a": "last day.",
+          "b": "triumphant day.",
+          "c": "ascension day",
+          "d": "pentecost day."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 365,
+        "question": "Jesus came to John at River Jordan to",
+        "option": {
+          "a": "proclaim himself as Messiah",
+          "b": "disclose himself to John",
+          "c": "call some of John’s disciples",
+          "d": "receive baptism like others."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 875,
+        "question": "“This is the King of the Jews”This inscription on the cross was meant to show Jesus",
+        "option": {
+          "a": "charge ",
+          "b": "punishment ",
+          "c": "victory       ",
+          "d": "messiaship"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 476,
+        "question": "“No one can serve two masters...” This means that one should not",
+        "option": {
+          "a": "be idolatrous.",
+          "b": "belong to two religions.",
+          "c": "worship money.",
+          "d": "bean unbeliever."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 431,
+        "question": "“He was not the light but was sent to bear witness to the light.” The statement above refers to",
+        "option": {
+          "a": "Simeon",
+          "b": "Jesus",
+          "c": "John the Baptist",
+          "d": "Peter Barjona"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 803,
+        "question": "Elijah destroyed the prophets of Baal ",
+        "option": {
+          "a": "to oppose Baal worship ",
+          "b": "as an act of revenge",
+          "c": "as an act of sacrifice.    ",
+          "d": "to shame Jezebel"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 435,
+        "question": "“It is necessary to circumcise them, and to charge them to keep the law of Moses.” In response to the Pharisees’ statement above, Peter rebuked them, by saying that God has",
+        "option": {
+          "a": "made circumcision for only those in leadership",
+          "b": "chosen the Israelites among other people",
+          "c": "cleansed the Gentiles’ heart by faith",
+          "d": "put the yoke upon the Gentiles’ necks."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 471,
+        "question": "Jesus ordered the seventy disciples not to salute any one because",
+        "option": {
+          "a": "their mission required urgency.",
+          "b": "it is not part of their mission to salute people.",
+          "c": "they may forget their mission.",
+          "d": "salutations to strangers defile the Jews."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 1027,
+        "question": "According to Paul, ‘As sin reigned in death, grace also might reign through righteousness to ",
+        "option": {
+          "a": "faith in God’. ",
+          "b": "the knowledge of God’.    ",
+          "c": "eternal life   ",
+          "d": "the glory of the father"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 991,
+        "question": "According to Joseph’s interpretation to Pharaoh’s dreams; ",
+        "option": {
+          "a": "famine",
+          "b": "abundance",
+          "c": "farming. ",
+          "d": "harvest"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 200,
+        "question": "Moses was nursed by",
+        "option": {
+          "a": "Pharaoh’s daughter",
+          "b": "Rachael",
+          "c": "his mother",
+          "d": "Rebecca"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 310,
+        "question": "The man of God whose word was ignored by Kings Ahab and Jehoshaphat was",
+        "option": {
+          "a": "Elijah",
+          "b": "Zedekiah",
+          "c": "Malakiah",
+          "d": "Micaiah"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 517,
+        "question": "An action that demonstrated Solomon’s wisdom was his",
+        "option": {
+          "a": "judgment of the prostitute’s child",
+          "b": "reliance on a medium",
+          "c": "alliance with other nations",
+          "d": "taxation policy for his building works"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 42,
+        "question": "Josiah’s reign was popular because of his ",
+        "option": {
+          "a": "allies ",
+          "b": "victory ",
+          "c": "violence ",
+          "d": "reforms"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2007"
+      },
+      {
+        "id": 808,
+        "question": "The person who discovered the book of law in the sanctuary during the reign of Josiah was ",
+        "option": {
+          "a": "Zedekiah         ",
+          "b": "Huldah.         ",
+          "c": "Hilkiah         ",
+          "d": "Jeremiah."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 784,
+        "question": "One of the following is not a quality of good discipleship_________",
+        "option": {
+          "a": "self-denial",
+          "b": "total commitment",
+          "c": "exuberance",
+          "d": "prompt response"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 434,
+        "question": "“Lord, I have heard from many about this man, how much evil he has done to thy saints at Jerusalem...” Ananias’ response above to God’s request for him to meet Saul shows that he",
+        "option": {
+          "a": "felt that Saul should not be forgiven",
+          "b": "felt that Saul should be punished",
+          "c": "was not interested in meeting Saul",
+          "d": "was afraid to meet Saul."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 568,
+        "question": "By the action of the Good Samaritan, Christians are encouraged to",
+        "option": {
+          "a": "go out to the streets and look for someone to help.",
+          "b": "always travel with enough money in case the need arises to help.",
+          "c": "show compassion and render help to the needy.",
+          "d": "avoid travelling on lonely roads where armed robbers could attack."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 769,
+        "question": "\"Do not be afraid; for I know what you seek, Jesus who was crucified...\" This statement was made__________",
+        "option": {
+          "a": "by Joseph of Arimathea",
+          "b": "to Mary Magdalene and Mary the mother of James",
+          "c": "to Mary Salome, Mary Magdalene and Mary the mother of James",
+          "d": "by Peter, James and John"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 153,
+        "question": "One of the lessons one can derive from the story of Deborah the Prophetess is that  ",
+        "option": {
+          "a": "Women are not good warriors  ",
+          "b": "Women should not be allowed to take leadership roles  ",
+          "c": "Women’s rights should be fought for by all ",
+          "d": "God can use anyone regardless of their gender and tribes."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 498,
+        "question": "The ruler of the synagogue whose child Jesus raised to life was",
+        "option": {
+          "a": "Zebedee",
+          "b": "a widow",
+          "c": "Jairus",
+          "d": "a centurion"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 798,
+        "question": "During the Ammonite war Uriah disobeyed king David by refusing to go to his house to sleep because ",
+        "option": {
+          "a": "it was wrong to go home drunk. ",
+          "b": "his wife would regard him as a cowar",
+          "c": "it would be unpatroitic to break military vow. ",
+          "d": "he suspected that the king had lost interest in the battle"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 810,
+        "question": "Isaiah said that when Israel spread forth their hands, God ",
+        "option": {
+          "a": "making many prayers     ",
+          "b": "offering vain sacrifices",
+          "c": "worshipping God with their hearts. ",
+          "d": "observing elaborate feasts"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 227,
+        "question": "The experience which totally changed Paul’s focus in life was his",
+        "option": {
+          "a": "witnessing the martyrdom of Stephen",
+          "b": "determination to wipe out the church",
+          "c": "participation in the council of Jerusalem",
+          "d": "encounter with Jesus on the road to Damascus"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 741,
+        "question": "\"I gave you cleanness of teeth in all your cities\". By this statement, God gave them ______",
+        "option": {
+          "a": "New set of teeth",
+          "b": "No food to eat",
+          "c": "No water to drink",
+          "d": "No teeth at all"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 1066,
+        "question": "Hosea name his first son Jezreel as a sign of ",
+        "option": {
+          "a": "victory upon the enemies of Israel ",
+          "b": "punishment to come unto the royal house ",
+          "c": "God losing his patience for Israel ",
+          "d": "breaking the covenant relationship with Israel"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 455,
+        "question": "David’s first Contact with Saul was because he was",
+        "option": {
+          "a": "skillful in playing.",
+          "b": "victorious over Goliath.",
+          "c": "a man of valour.",
+          "d": "a shepherd boy."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 11,
+        "question": "The death of Adonibezek in Bezek was a typical proof of ",
+        "option": {
+          "a": "cowardice ",
+          "b": "nemesis ",
+          "c": "insanity ",
+          "d": "absurdity"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      }
+    ],
+    "2017": [
+      {
+        "id": 193,
+        "question": "One of the following is not among the “I am” Sayings of Jesus  ",
+        "option": {
+          "a": "I am the bread of life",
+          "b": "I am the gate of life",
+          "c": "I am the good shepherd",
+          "d": "I am the way"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 302,
+        "question": "God guided Abraham’s steward in choosing a wife for Isaac by",
+        "option": {
+          "a": "teaching him how to select a good woman",
+          "b": "leading a lady to fulfil his prayer request",
+          "c": "taking him to Abraham’s fatherland",
+          "d": "giving him an exemplary woman."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 984,
+        "question": "Paul believes that the resurrection of the dead would only occur on the",
+        "option": {
+          "a": "last day.",
+          "b": "triumphant day.",
+          "c": "ascension day",
+          "d": "pentecost day."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 363,
+        "question": "At Ezekiel’s call he beheld",
+        "option": {
+          "a": "the love of God",
+          "b": "God’s glory",
+          "c": "power of God",
+          "d": "God’s mercy."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 97,
+        "question": "A would –be apostle who puts his hand to the plaughjsa and looks back lacks ",
+        "option": {
+          "a": "faith ",
+          "b": "Kindness ",
+          "c": "Repentance ",
+          "d": "Total commitment "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 1047,
+        "question": "The boy Moses was hidden for three months because ",
+        "option": {
+          "a": "he was destined to become a great leader ",
+          "b": "he was attacked by an abominable disease ",
+          "c": "Pharaoh feared the growth of the Hebrew population ",
+          "d": "Pharaoh had decreed the murder of Hebrew male borns"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 1054,
+        "question": "The wife of Phinehas named her prematured child Ichabod because",
+        "option": {
+          "a": "Israel had lost the Ark and her husband ",
+          "b": "the Philistines suffered a lot of casualties ",
+          "c": "her husband treated the Lord’s sacrifice with contempt ",
+          "d": "Eli failed to restrain his children"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 242,
+        "question": "Paul compares the manifestations of spiritual gifts in individual members of the Church to the",
+        "option": {
+          "a": "unity of the human body",
+          "b": "rights of the individual members of the Church",
+          "c": "rights of the different parts of the body",
+          "d": "unity of the Church"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 690,
+        "question": "With respect to the date of the Parosia, Paul advised Thessalonians to",
+        "option": {
+          "a": "be sober in maintaining their hope of salvation.",
+          "b": "disregard all speculations about it.",
+          "c": "know that the day would be announced later.",
+          "d": "enjoy peace and security in the face of danger."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 669,
+        "question": "“My son your sins are forgiven”. These were the words of Jesus to the",
+        "option": {
+          "a": "demoniac.",
+          "b": "paralytic.",
+          "c": "man born blind",
+          "d": "centurion’s servant."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 373,
+        "question": "The first five disciples that Jesus called as recorded in the Synoptic gospels were",
+        "option": {
+          "a": "Peter, Andrew, James, John and Levi",
+          "b": "Peter, Andrew, James, John and Thomas",
+          "c": "Peter, Andrew, James. John and Zebedee",
+          "d": "Peter, Andrew, James, John and Judas Iscariot."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 88,
+        "question": "The proconsul when Paul arrived in commit was called",
+        "option": {
+          "a": "Festus ",
+          "b": "portions ",
+          "c": "Pilate ",
+          "d": "Gallio "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 414,
+        "question": "When the three Hebrew men refused to worship the King’s image, he commanded that they be",
+        "option": {
+          "a": "thrown into a furnace",
+          "b": "stoned",
+          "c": "beheaded",
+          "d": "thrown into the lion’s den."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 989,
+        "question": "Which of Paul’s epistle was written to an individual?",
+        "option": {
+          "a": "Romans ",
+          "b": "Corinthians   ",
+          "c": "Colossians    ",
+          "d": "Philemon"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 1050,
+        "question": "Saul lied to Samuel when the (Saul)",
+        "option": {
+          "a": "allowed the soldiers to bring booties of the war home ",
+          "b": "said that he had utterly destroyed the Amalekites. ",
+          "c": "failed to kill the King of the Amalekites ",
+          "d": "spared the Kenites in the war against the Amalekites"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 240,
+        "question": "Paul taught the Colossians that the relationship between wives and their husbands should be as",
+        "option": {
+          "a": "is fitting in the Lord",
+          "b": "the culture demands",
+          "c": "is written in the law",
+          "d": "the husband commands"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 436,
+        "question": "According to Galatians, judgment is without mercy to one who has shown no mercy, yet mercy triumphs over",
+        "option": {
+          "a": "tribulation",
+          "b": "the law",
+          "c": "judgment",
+          "d": "punishment."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 244,
+        "question": "Paul appealed to Philemon to forgive Onesimus on the basis of",
+        "option": {
+          "a": "equality",
+          "b": "righteousness",
+          "c": "love",
+          "d": "faith"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 531,
+        "question": "A key requirement for healing as exemplified by the disciple’s inability to heal the epileptic boy is",
+        "option": {
+          "a": "righteousness",
+          "b": "power",
+          "c": "humility",
+          "d": "Faith"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 255,
+        "question": "According to Matthew, the stone on the tomb of Jesus was removed by",
+        "option": {
+          "a": "an angel",
+          "b": "a Roman soldier",
+          "c": "Mary Magdalene",
+          "d": "Peter and John."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 671,
+        "question": "The incidents that took place following Jesus’ death on the cross did not include the",
+        "option": {
+          "a": "tearing into two of the temple’s veil.",
+          "b": "quaking of the earth that broke the rocks.",
+          "c": "the opening of the tombs.",
+          "d": "trembling of the chief priest and his conversion."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 1018,
+        "question": "The Jews showed their hatred for Paul and Barnabas in Pisidia by ",
+        "option": {
+          "a": "dragging out the apostles for stoning. ",
+          "b": "insisting and driving them out of the Synagogue. ",
+          "c": "influencing leading men in the city to drive them out. ",
+          "d": "beating and stoning them in the Synagogue"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 636,
+        "question": "According to Galatians, the Law was added be¬cause of",
+        "option": {
+          "a": "righteousness",
+          "b": "transgressions",
+          "c": "grace",
+          "d": "persecution."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 358,
+        "question": "A good example of parental responsibility was demonstrated by",
+        "option": {
+          "a": "Asa",
+          "b": "Jeroboam",
+          "c": "Joel",
+          "d": "Rehoboam."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 206,
+        "question": "When God said to Solomon, “Ask what I shall give you”, he requested for",
+        "option": {
+          "a": "long life and prosperity",
+          "b": "power and assistance against his enemies",
+          "c": "peace and understanding to serve God",
+          "d": "wisdom and understanding to serve the people"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 366,
+        "question": "“Blessed are the peace makers for",
+        "option": {
+          "a": "theirs is the kingdom of God”",
+          "b": "they shall be called sons of God”",
+          "c": "they shall inherit the earth”",
+          "d": "they shall be comforted”."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 624,
+        "question": "After the healing of the demoniac in the country of the Gerasenes, the people begged Jesus to (Mark 5:15-19)",
+        "option": {
+          "a": "stay with them",
+          "b": "visit them always",
+          "c": "go away from them",
+          "d": "heal their sick."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 380,
+        "question": "The result of justification by faith is",
+        "option": {
+          "a": "divine protection",
+          "b": "peace with God",
+          "c": "forgiveness of sins",
+          "d": "answered prayers."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 715,
+        "question": "The word of the Lord came to Hosea the son of ___________.",
+        "option": {
+          "a": "Eliezer",
+          "b": "Juhu",
+          "c": "Abiathar",
+          "d": "Beeri"
+        },
+        "section": "",
+        "image": "",
+        "answer": " d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 721,
+        "question": "St Paul's condition for the attainment of justification is by ______?",
+        "option": {
+          "a": "Total obedience to the law",
+          "b": "Holiness in Christ Jesus",
+          "c": "Faith in the Resurrected Jesus",
+          "d": "Loving our Christian brethren"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 42,
+        "question": "Josiah’s reign was popular because of his ",
+        "option": {
+          "a": "allies ",
+          "b": "victory ",
+          "c": "violence ",
+          "d": "reforms"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2007"
+      },
+      {
+        "id": 870,
+        "question": "Jesus taught that Christians should forgive their neighbours’ sin",
+        "option": {
+          "a": "three time only",
+          "b": "seventy times seven times",
+          "c": "seventy-seven times seven times",
+          "d": "as many times as possible"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 176,
+        "question": "One of the following was not among the religious sects in the New Testament  ",
+        "option": {
+          "a": "The Pharisees   ",
+          "b": "The Nazarenes",
+          "c": "The Essenes",
+          "d": "The Sadducees"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 575,
+        "question": "At whose well did Jesus meet the Samaritan woman?",
+        "option": {
+          "a": "Abraham",
+          "b": "Isaac",
+          "c": "Jacob",
+          "d": "Joseph"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 873,
+        "question": "Which of the following incidents occurred during Jesus’ trial before Caiaphas?",
+        "option": {
+          "a": "The preference of Barabbas to Jesus",
+          "b": " The question of payment of tribute",
+          "c": "Accusation of Jesus as a rioter",
+          "d": "The seeking of false witness against Jesus"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 467,
+        "question": "The first batch of Jewish exiles to rebuild the temple was under the leadership of",
+        "option": {
+          "a": "Joshua.",
+          "b": "Hanani.",
+          "c": "Sheshbazzar.",
+          "d": "Zerubabel."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 274,
+        "question": "“1 will not eat until I have told my errand” In the statement above, the errand of Abraham’s servant was to",
+        "option": {
+          "a": "find a wife for Isaac",
+          "b": "deliver the camels to Laban",
+          "c": "assess Isaac’s future wife",
+          "d": "deliver Isaac’s message to Laban"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 543,
+        "question": "Believers today are partakers of the New Covenant through",
+        "option": {
+          "a": "partaking in baptism by immersion",
+          "b": "the gift of the spirit",
+          "c": "adherence to all the sacraments",
+          "d": "obedience to church leadership"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 51,
+        "question": "Name three places Christian religious people look up to find the truth about the nature of God",
+        "option": {
+          "a": "In the sacred scripture ",
+          "b": "In the religious leader ",
+          "c": "In the church ",
+          "d": "In their conscience."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 292,
+        "question": "In addition to the declaration of freedom to the exiles in Babylon, King Cyrus ordered for",
+        "option": {
+          "a": "free will offering for the house of God in Jerusalem",
+          "b": "the release of Jewish, slaves in the empire",
+          "c": "security check on the Jews before departure",
+          "d": "support from craftsmen in Babylon."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      }
+    ],
+    "2018": [
+      {
+        "id": 506,
+        "question": "Paul in Thessalonians declared that at the second coming \tof the Lord, those who are alive will not precede those that are",
+        "option": {
+          "a": "ignorant",
+          "b": "condemned",
+          "c": "asleep",
+          "d": "faithful"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 1006,
+        "question": "“Your father made our yoke heavy. Now therefore, lighten the hard service of your father.” These were the words of ",
+        "option": {
+          "a": "Jeroboam                            ",
+          "b": "Solomon.  ",
+          "c": "David",
+          "d": " Ahijah."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 674,
+        "question": "When Jesus said “apart from me you can do nothing”, he \tmeant that Christians",
+        "option": {
+          "a": "pray without ceasing",
+          "b": ". \nmust faithfully trust in Him always.",
+          "c": "cannot pass examinations if they did not pray.",
+          "d": "should expect God to do everything for them."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 784,
+        "question": "One of the following is not a quality of good discipleship_________",
+        "option": {
+          "a": "self-denial",
+          "b": "total commitment",
+          "c": "exuberance",
+          "d": "prompt response"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 957,
+        "question": "Hosea’s daughter was called ",
+        "option": {
+          "a": " Jezreel",
+          "b": "Not pitie ",
+          "c": "Not my people.   ",
+          "d": "Phinehas"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 643,
+        "question": "Paul in Thessalonians told believers that the coming of the Lord would be accompanied by",
+        "option": {
+          "a": "songs of praise",
+          "b": "the sound of the trumpet",
+          "c": "signs and wonders",
+          "d": "wailing and mourning"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 5,
+        "question": "The agony of Jesus in the Garden of Gethsemane is a ",
+        "option": {
+          "a": "sign of abandonment ",
+          "b": "manifestation of human weakness ",
+          "c": "punishment ",
+          "d": "preparation for his death"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 521,
+        "question": "David was successful as a leader in Israel because",
+        "option": {
+          "a": "he submitted to God’s guidance",
+          "b": "of his training as a solider",
+          "c": "of the love of his people",
+          "d": "of his life as a shepherd"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 976,
+        "question": "According to the First Council at Jerusalem, the following\n were binding on a Christian except \n",
+        "option": {
+          "a": "praying always in the temple. ",
+          "b": "not eating animals that have been strangled",
+          "c": "living a life of chastity",
+          "d": "avoiding food sacrificed to idols."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 910,
+        "question": "God promised to make the forehead of Ezekiel hard against those of the Israelites. This meant that God would ",
+        "option": {
+          "a": "strengthen and equip Ezekiel with courage",
+          "b": "protect and harden Ezekiel",
+          "c": "equip Ezekiel with oracles and power",
+          "d": "give Ezekiel new head and power to heal."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 8,
+        "question": "What did God create on the fifth day? ",
+        "option": {
+          "a": "the firmament  ",
+          "b": "the two great light ",
+          "c": "water under the heaven ",
+          "d": "living Creature"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 394,
+        "question": "In his letter to Philemon Paul did not ask him to",
+        "option": {
+          "a": "grant freedom to his slave Onesimus",
+          "b": "allow Onesimus become a servant of God",
+          "c": "forgive Onesimus for his earlier misbehaviour",
+          "d": "prepare a feast for him."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 345,
+        "question": "According to James, treatment of brethren at fellowship should not be based on",
+        "option": {
+          "a": "appearance",
+          "b": "sentiments",
+          "c": "gender",
+          "d": "age."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 449,
+        "question": "Pharaoh’s horsemen and his army overtook the fleeing Hebrews encamped by the sea at",
+        "option": {
+          "a": "Migdol.",
+          "b": "Etham.",
+          "c": "Phiahiroth.",
+          "d": "Meriba."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 38,
+        "question": "“Bring your necks under the yoke of the king of Babylon and serve him and his people and live” who gave this advice? ",
+        "option": {
+          "a": "Jeremiah ",
+          "b": "Isaiah ",
+          "c": "Ezekiel ",
+          "d": "Amos"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2007"
+      },
+      {
+        "id": 430,
+        "question": "According to Mark, the young man that the women saw in Jesus’ tomb told them to go with the disciples and wait for Him in",
+        "option": {
+          "a": "Bethlehem",
+          "b": "Jerusalem",
+          "c": "Bethany",
+          "d": "Galilee"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 450,
+        "question": "The episode of David and Bathsheba, Uriah’s wife was in \tviolation of God’s",
+        "option": {
+          "a": "sixth commandment.",
+          "b": "seventh commandment,",
+          "c": "eight commandment.",
+          "d": "ninth commandment."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 448,
+        "question": "In their dealings with God, Abraham and Sarah learnt the \tfollowing lessons except that God is",
+        "option": {
+          "a": "able to bless the righteous.",
+          "b": "faithful to His promise",
+          "c": "all powerful-nothing is too hard for Him.",
+          "d": "not in a hurry to carry out His promises."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 417,
+        "question": "Amos’ prophecies which were considered as a conspiracy against the northern kingdom were reported to the king by",
+        "option": {
+          "a": "Micaiah",
+          "b": "Amaziah",
+          "c": "Hilkiah",
+          "d": "Micah."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 206,
+        "question": "When God said to Solomon, “Ask what I shall give you”, he requested for",
+        "option": {
+          "a": "long life and prosperity",
+          "b": "power and assistance against his enemies",
+          "c": "peace and understanding to serve God",
+          "d": "wisdom and understanding to serve the people"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 135,
+        "question": "How many disciples of Jesus Christ were fishermen? ",
+        "option": {
+          "a": "two  ",
+          "b": "three  ",
+          "c": "four",
+          "d": "five"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 140,
+        "question": "Among the spiritual gifts, love is supreme because it ",
+        "option": {
+          "a": "facilitates development ",
+          "b": "gives room for friendship ",
+          "c": "has eternal value ",
+          "d": "promotes understanding"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 708,
+        "question": "Who among the following disciples of Jesus was a tax collector?",
+        "option": {
+          "a": "Levi",
+          "b": "Judas Iscariot",
+          "c": "John",
+          "d": "James"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 200,
+        "question": "Moses was nursed by",
+        "option": {
+          "a": "Pharaoh’s daughter",
+          "b": "Rachael",
+          "c": "his mother",
+          "d": "Rebecca"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 458,
+        "question": "When God ordered famine on Israel, Elijah was fed by the ravens at",
+        "option": {
+          "a": "Brook Cherith.",
+          "b": "River Jordan.",
+          "c": "River Kishon",
+          "d": "Mount Carmel."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 1076,
+        "question": "One remarkable thing about the feast of Pentecost for Christians was that it ",
+        "option": {
+          "a": "attracted many foreigners into Israel ",
+          "b": "enabled people to speak in tongues ",
+          "c": "marked the celebration of grain harvest ",
+          "d": "brought home many Jewish nationals"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 447,
+        "question": "At Shechem, God appeared to Abram and told him that",
+        "option": {
+          "a": "he should continue on his journey southward.",
+          "b": "he should leave his country and Kindred.",
+          "c": "the land would be given to his descendants.",
+          "d": "in the land he should build an altar."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 1063,
+        "question": "The indigenous official of King Darius were unhappy with Daniel because he ",
+        "option": {
+          "a": "often reported them to the King ",
+          "b": "was a Jewish exile         ",
+          "c": " had an excel lent spirit ",
+          "d": "refused to worship the golden image"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 136,
+        "question": "Who among the seven deacons was an evangelist who had four daughters who prophesied?  ",
+        "option": {
+          "a": "Stephen",
+          "b": "Philip ",
+          "c": "Barnabas   ",
+          "d": "Nicholas"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 112,
+        "question": "Jesus taught that one should make friends quickly with one’s ",
+        "option": {
+          "a": "enemy ",
+          "b": "neighbor ",
+          "c": "master ",
+          "d": "accuser"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 906,
+        "question": "Yet what they are building if a fox goes up on it he will breakdown their stone wall”. This statement by Tobias was ",
+        "option": {
+          "a": "taunt and ridicule the Jews",
+          "b": "stop and disgrace the Jews",
+          "c": "tease and punish Nehemiah.",
+          "d": "alert and strengthen Nehemiah"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 735,
+        "question": "St. James in the teaching on faith and work gave the analogy of ________",
+        "option": {
+          "a": "A man who looks himself in the mirror and appreciates God for that",
+          "b": "A hungry man who approached his fellow Christian for help",
+          "c": "A man of little faith encouraging others to work",
+          "d": "A poor man with wretched clothing approaching the rich for help"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 25,
+        "question": "The person who the Bible calls the son of consolation is ",
+        "option": {
+          "a": "Barsabas ",
+          "b": "Barabbas ",
+          "c": "Barnabas ",
+          "d": "Bathsheba"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2007"
+      },
+      {
+        "id": 565,
+        "question": "Isaiah said that when Israel spread forth their hands, God would hide his face because they were",
+        "option": {
+          "a": "making many prayers",
+          "b": "offering vain sacrifices.",
+          "c": "worshipping God with their hearts.",
+          "d": "observing elaborate feasts."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 451,
+        "question": "When the people of Israel received the encouraging report \tgiven by two of the twelve spies, they decided to",
+        "option": {
+          "a": "stone Moses for taking them out of Egypt.",
+          "b": "choose Caleb as their leader and go back to Egypt.",
+          "c": "stone the two spies who gave the report.",
+          "d": "raise an army to fight the Canaanites."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 51,
+        "question": "Name three places Christian religious people look up to find the truth about the nature of God",
+        "option": {
+          "a": "In the sacred scripture ",
+          "b": "In the religious leader ",
+          "c": "In the church ",
+          "d": "In their conscience."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 298,
+        "question": "Noah’s ark was sustained during the flood by its",
+        "option": {
+          "a": "resting on the highest mountains",
+          "b": "being rowed on the waters",
+          "c": "floating on the water",
+          "d": "being anchored safely"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 157,
+        "question": "One of the following was not among the decisions reached at the Council of Jerusalem concerning the Gentiles who became Christians:  ",
+        "option": {
+          "a": "That Gentiles should obtain from what has been sacrificed to idols  ",
+          "b": "The Gentiles should abstain from blood  ",
+          "c": "That Gentiles should abstain from what is strangled ",
+          "d": "That Gentiles should abstain from love of the world "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 120,
+        "question": "“Blessed be the Lord God of Israel is a hymn of praise by ",
+        "option": {
+          "a": "the virgin Mary at the Annunciation ",
+          "b": "Zachariah at the birth of John the Baptist ",
+          "c": "Simeon at the presentation of Jesus in the temple ",
+          "d": "Elizabeth at the visit of Mary"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 764,
+        "question": "Cleopas' heart burnt within him on the road to Emmaus when Jesus ________",
+        "option": {
+          "a": "Appeared to them",
+          "b": "Broke bread with them",
+          "c": "Taught them the scriptures",
+          "d": "Walked with them"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      }
+    ],
+    "2019": [
+      {
+        "id": 733,
+        "question": "Peter advised Christians to _______as they were sharing Christ's sufferings",
+        "option": {
+          "a": "Be Prayerful",
+          "b": "Rejoice",
+          "c": "Persevere",
+          "d": "Be Steadfast"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 775,
+        "question": "... updated Nehemiah about the state of Jerusalem while he was ...",
+        "option": {
+          "a": "Ezra, a captive in Babylon",
+          "b": "Ezekiah, an Emperor in Babylon",
+          "c": "Hanai, a captive in Babylon",
+          "d": "Zerubbabel, an Emperor in Babylon"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 721,
+        "question": "St Paul's condition for the attainment of justification is by ______?",
+        "option": {
+          "a": "Total obedience to the law",
+          "b": "Holiness in Christ Jesus",
+          "c": "Faith in the Resurrected Jesus",
+          "d": "Loving our Christian brethren"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 735,
+        "question": "St. James in the teaching on faith and work gave the analogy of ________",
+        "option": {
+          "a": "A man who looks himself in the mirror and appreciates God for that",
+          "b": "A hungry man who approached his fellow Christian for help",
+          "c": "A man of little faith encouraging others to work",
+          "d": "A poor man with wretched clothing approaching the rich for help"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 741,
+        "question": "\"I gave you cleanness of teeth in all your cities\". By this statement, God gave them ______",
+        "option": {
+          "a": "New set of teeth",
+          "b": "No food to eat",
+          "c": "No water to drink",
+          "d": "No teeth at all"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 739,
+        "question": "St. Paul showed commitment as a means upon which forgiveness can effectively thrive by_______",
+        "option": {
+          "a": "Appealing to Philemon to forgive Onesimus and accept him back as brother",
+          "b": "Asking that Philemon to Charge to his account whatever Onesimus owed",
+          "c": "Converting Onesimus",
+          "d": "Instructing Philemon to write off all the debts of Onesimus, if any compassionately"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 778,
+        "question": "The most significant lesson at the scene of the Israelites' blame of Moses in their struggle and escape from Egypt is that___________",
+        "option": {
+          "a": "God hardened the heart of Pharaoh to pursue the Israelites",
+          "b": "they would have perfered to stay back and die in Egypt",
+          "c": "Moses' courage and confidence in God saved the entire situation",
+          "d": "Moses' height of anger and intolerance was revealed"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 786,
+        "question": "The Last Supper refers the last meal Jesus had with His disciples immediately before His_____",
+        "option": {
+          "a": "arrest and crucification",
+          "b": "crucification and death",
+          "c": "arrest and death",
+          "d": "betrayal and arrest"
+        },
+        "section": "",
+        "image": "",
+        "answer": " d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 789,
+        "question": "St. Paul on 'Civic Responsibility' advised Christians not only to be law-abiding but also_________",
+        "option": {
+          "a": "to provide moral advice to those in authority",
+          "b": "do what is expected of them",
+          "c": "shun membership of unlawful societies",
+          "d": "resist any illegitimate government"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 732,
+        "question": "The core of St Paul's advice on dignity of Labour is that",
+        "option": {
+          "a": "Christians must work hard to actively support the Church and themselves",
+          "b": "The lazy people must be made to learn in the hardest way possible",
+          "c": "Everyone should actively contribute to social progress",
+          "d": "Christians must be productive"
+        },
+        "section": "",
+        "image": "",
+        "answer": " d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 769,
+        "question": "\"Do not be afraid; for I know what you seek, Jesus who was crucified...\" This statement was made__________",
+        "option": {
+          "a": "by Joseph of Arimathea",
+          "b": "to Mary Magdalene and Mary the mother of James",
+          "c": "to Mary Salome, Mary Magdalene and Mary the mother of James",
+          "d": "by Peter, James and John"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 697,
+        "question": "“The sword devours now one and now another.” This statement was made by David in reaction to the death of __________.",
+        "option": {
+          "a": "Saul",
+          "b": "Joab",
+          "c": "Ishbosheth",
+          "d": "Uriah"
+        },
+        "section": "",
+        "image": "",
+        "answer": " d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 731,
+        "question": "Summarily, St Paul in his teaching on 'New Life In Christ' advised Christains to ______",
+        "option": {
+          "a": "Endeavor to be baptized by immersion",
+          "b": "Pray for the Grace of God",
+          "c": "Forsake only adultery and murder",
+          "d": "Dwell richly in the word of God"
+        },
+        "section": "",
+        "image": "",
+        "answer": " d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 724,
+        "question": "One significance of St Paul's teaching on Resurrection is that__________",
+        "option": {
+          "a": "Christians must not underestimate the power of baptism by immersion",
+          "b": "As Christ rose and ascended into glory, so as also must uphold the observance of law",
+          "c": "The foundation of their hope of salvation is in Christ's resurrection",
+          "d": "The second coming of Christ is near"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 726,
+        "question": "Elijah fed on _____ after declaring drought upon the land of Israel",
+        "option": {
+          "a": "Bread, Fish and Oil",
+          "b": "Bread, Meat and Water",
+          "c": "Oath, Barley and Water",
+          "d": "Vine, Wheat and Water"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 707,
+        "question": "Teacher, what shall I do to inherit eternal life?” Who among the following tested Jesus with this question?",
+        "option": {
+          "a": "A Pharisee",
+          "b": "A lawyer",
+          "c": "A zealot",
+          "d": "A Sadducee"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 710,
+        "question": "Which of these is not in the list of the twelve apostles?",
+        "option": {
+          "a": "Thaddeus",
+          "b": "Matthew",
+          "c": "Mark",
+          "d": "Simon the Zealot"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 744,
+        "question": "\"It shall be neither mine nor yours; divide it\" what was to be divided?",
+        "option": {
+          "a": "Elijah's mantle",
+          "b": "Jesus Garment",
+          "c": "Live Baby",
+          "d": "Solomon's Kingdom"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 749,
+        "question": "One derivative lesson from the story of Gehazi'z greed is that_______",
+        "option": {
+          "a": "We can by ourselves, through materialism, cause the destruction of generations yet unborn",
+          "b": "Dishonesty should not have been a ground for cursing Gehazi with leprosy",
+          "c": "As servants of God we must endeavour not to readily demand gifts from those we help",
+          "d": "We should be wary of accepting gifts from the unrighteous"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 730,
+        "question": "St Paul, in 'Law and Grace', although man was condemned, he has been redeemed through the _____",
+        "option": {
+          "a": "Compliance to the laws of the God",
+          "b": "Righteousness of his deeds",
+          "c": "Grace of God",
+          "d": "Faith in Christ Jesus"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 766,
+        "question": "Only ...stated that the transfiguration took place eight days after Peter's confession of Jesus as the son of God.",
+        "option": {
+          "a": "John",
+          "b": "Matthew",
+          "c": "Mark",
+          "d": "Luke"
+        },
+        "section": "",
+        "image": "",
+        "answer": " d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 780,
+        "question": "The illustration of Satan, the adversary who prowls around seeking whom to devour, is particular to__________-",
+        "option": {
+          "a": "St. Peter's teaching on humility",
+          "b": "St. Paul's teaching on the second coming of Christ",
+          "c": "St. Peter's teaching on civic responsibility",
+          "d": "St. Paul's teaching on humility"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 768,
+        "question": "\"I am the resurrection and the life, he who believes in me, though he dies, yet shall he live\". Jesus directed this statement to",
+        "option": {
+          "a": "Peter",
+          "b": "Martha",
+          "c": "Mary",
+          "d": "Lazarus"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 771,
+        "question": "In the Gospel according to St. Matthew, Jesus sent His disciples to_______",
+        "option": {
+          "a": "the Gentiles",
+          "b": "the Samaritans",
+          "c": "the Jews",
+          "d": "the Greeks"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 776,
+        "question": "When Jesus healed the paralytic, the anger of the scribes was aroused by His_______",
+        "option": {
+          "a": "refusal to show them signs of His divinity",
+          "b": "nature of command to the paralytic",
+          "c": "claim to forgive sins",
+          "d": "healing of the man on a Sabbath"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 728,
+        "question": "Peter healed Aeneas who had been bedridden for ____ years?",
+        "option": {
+          "a": "Four",
+          "b": "Six",
+          "c": "Eight",
+          "d": "Twelve"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 757,
+        "question": "Moses named the place where the Israelites drank water from the rock \"Mesah and Meribah' particularly because---------",
+        "option": {
+          "a": "They wanted to put the lord to test",
+          "b": "They made him strike the rock angrily",
+          "c": "The people had enough water to drink",
+          "d": "Of their fault finding attitude"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 705,
+        "question": "For our prayers to manifest, we must be ________.",
+        "option": {
+          "a": "caring",
+          "b": "careful",
+          "c": "cheerful",
+          "d": "carefree"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 740,
+        "question": "The triumphal entry was in fulfilment of the prophecy of_______",
+        "option": {
+          "a": "Isaiah",
+          "b": "Amos",
+          "c": "Zechariah",
+          "d": "Elijah"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 709,
+        "question": "In St. Luke’s record, Jesus specially sent the seventy disciples on mission to _____________.",
+        "option": {
+          "a": "every town where he was to visit",
+          "b": "Gentile cities only",
+          "c": "Jewish cities only",
+          "d": "plant seeds in the vine yard"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 720,
+        "question": "Jesus healed the lame man who had been sick for thirty-eight years at?",
+        "option": {
+          "a": "Capernaum",
+          "b": "Samaria",
+          "c": "Galilee",
+          "d": "Betsheba"
+        },
+        "section": "",
+        "image": "",
+        "answer": " d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 772,
+        "question": "\"Who do men say that the Son of man is?\" Jesus asked this question",
+        "option": {
+          "a": "to show that popular opinion matters the most in His recognition as Messiah",
+          "b": "to indicate that the Jews and Pharisees need to reckon with His Messiahship",
+          "c": "at the scene of His Transfiguration",
+          "d": "in the context of the Great Confession"
+        },
+        "section": "",
+        "image": "",
+        "answer": " d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 747,
+        "question": "The core of Saul's disobedience was that___________",
+        "option": {
+          "a": "He didn't perform the task of smiting the Amalekites to the letter",
+          "b": "He preserved the booty for himself",
+          "c": "He freed the Kenites",
+          "d": "He refused to carry out God's assignment on eliminating the Amalekites"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 774,
+        "question": "Since fervent prayers of the righteous has great power in its effects, Christians according to St. James must________",
+        "option": {
+          "a": "confess and forsake their sins",
+          "b": "not ask wrongly",
+          "c": "be steadfast in prayer",
+          "d": "have faith while praying"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 718,
+        "question": "One of the most significant lessons from the emergence of Deborah as a leader is that_________",
+        "option": {
+          "a": "She not only prophesied but also advised Israel",
+          "b": "Gender difference isn't a limitation to leadership",
+          "c": "Honesty and Integrity are key to leadership",
+          "d": "One needs to summon courage as a leader to solve problems"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 743,
+        "question": "St. Paul had already boasted to the ______and for this reason he sent a reminder letter to the ______ on Christian giving",
+        "option": {
+          "a": "Macedonians, Corinthians",
+          "b": "Thessalonians, Church in Achaia",
+          "c": "Romans, Church in Antioch",
+          "d": "Philippians, Corinthians"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 713,
+        "question": "The main message of Hosea is that God desires ___________.",
+        "option": {
+          "a": "love and sacrifice",
+          "b": "sacrifice and thanksgiving",
+          "c": "steadfast love and not sacrifice",
+          "d": "sacrifice and worship"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 722,
+        "question": "The model example for wives in Christian families according to St Peter is _____",
+        "option": {
+          "a": "Ruth",
+          "b": "Deborah",
+          "c": "Sarah",
+          "d": "Rebecca"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 717,
+        "question": "God instructed Saul to utterly destroy Amalek because___________",
+        "option": {
+          "a": "He abhors Idolatory and all forms of Unrighteousness",
+          "b": "Its people opposed the Israelites on the way after departing Egypt",
+          "c": "Its people encouraged Israel to disobey God",
+          "d": "Samuel had prayed for it destruction"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 750,
+        "question": "Paul advised the young in his teaching on interpersonal relationship among Christains to ________",
+        "option": {
+          "a": "See themselves as strong and able-bodied servants of God",
+          "b": "Subject themselves to the elders",
+          "c": "Maintain good conduct among Non-Christians",
+          "d": "Oppose unjust suffering"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      }
+    ],
+    "2020": [
+      {
+        "id": 500,
+        "question": "Paul in Romans said that the righteousness of God has been manifested through faith in Jesus Christ for",
+        "option": {
+          "a": "the exaltation of the authority",
+          "b": "the cleansing of the sinners",
+          "c": "the dead in Christ",
+          "d": "all those who believe"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 255,
+        "question": "According to Matthew, the stone on the tomb of Jesus was removed by",
+        "option": {
+          "a": "an angel",
+          "b": "a Roman soldier",
+          "c": "Mary Magdalene",
+          "d": "Peter and John."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 760,
+        "question": "The intent of the their temptation of Christ was to_____________",
+        "option": {
+          "a": "Make him focus on wordly possessions",
+          "b": "Make him a political Messiah",
+          "c": "Make him seem like a Magician",
+          "d": "Make him see the riches of the world from a high mountain"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 925,
+        "question": "“...yet the most high does not dwell in houses made with hands..,” This defence of Stephen meant that God is",
+        "option": {
+          "a": "Omnipotent.",
+          "b": "Omnipresent.",
+          "c": "Alpha.",
+          "d": "Omega."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 869,
+        "question": "“For he was astonished, and all that were with him, at the catch of fish which they had taken”The people being referred to in the text were",
+        "option": {
+          "a": "Matthew, John and Andrew",
+          "b": "Matthias, John and Peter",
+          "c": "James, Peter and John",
+          "d": "Simon, Andrew and Thomas"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 917,
+        "question": "In his Transfiguration, Jesus took with him ",
+        "option": {
+          "a": "Peter, James and Andrew. ",
+          "b": "Andrew, Peter and John. ",
+          "c": "Matthew, James and Peter. ",
+          "d": "James, John and Peter"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 3,
+        "question": "Jesus’ new commandment according to the Gospel of Jesus of John is ",
+        "option": {
+          "a": "salvation ",
+          "b": "love ",
+          "c": "peace ",
+          "d": "spirit"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 269,
+        "question": "The disciple who replaced Judas Iscariot was",
+        "option": {
+          "a": "Justus",
+          "b": "Stephen",
+          "c": "Mathias",
+          "d": "Luke."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 174,
+        "question": "Israel went into Assyria captivity in",
+        "option": {
+          "a": "720BC  ",
+          "b": "730 AD   ",
+          "c": "750BC",
+          "d": "722 BC"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 454,
+        "question": "Eli, the priest in Shiloh, was condemned because he",
+        "option": {
+          "a": "allowed his children to deprive God of His share of sacrifice.",
+          "b": "allowed the Ark of God to be taken to the battle field",
+          "c": "did not take God’s message through Samuel seriously.",
+          "d": "officiated at the temple without the assistance of the prophet."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 973,
+        "question": "Pilate referred Jesus to Herod for trial because",
+        "option": {
+          "a": "Pilate and Herod were good friends",
+          "b": "Jesus did not cooperate with Pilate.",
+          "c": "Jesus lived in the jurisdiction of Herod.",
+          "d": "Pilate and Herod were enemies."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 916,
+        "question": "According to the Sermon on the Mount, God’s kingdom would be filled with those who were ",
+        "option": {
+          "a": "mournful. .  ",
+          "b": "meek",
+          "c": "pure in spirit.",
+          "d": "hungry and thirsty."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 395,
+        "question": "Peter enjoined humility because the humble shall",
+        "option": {
+          "a": "not be tempted",
+          "b": "be blessed",
+          "c": "receive God’s grace",
+          "d": "have long life."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 1025,
+        "question": "Paul was stoned and dragged out of the city by ",
+        "option": {
+          "a": "the Lyconians and the Ephesians. ",
+          "b": "enemies of the healed lame man. ",
+          "c": "Jews from Antioch and Iconium. ",
+          "d": "Jews in the Synagogue"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 59,
+        "question": "Amram and Jochebad gave birth to : ",
+        "option": {
+          "a": "Miriam ",
+          "b": "jedida ",
+          "c": "Jethro ",
+          "d": "Hur"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 263,
+        "question": "“Do you understand what you are reading?” Philip asked the Ethiopian eunuch the question above when he found him reading the book of",
+        "option": {
+          "a": "Hosea",
+          "b": "Ezekiel",
+          "c": "Jeremiah",
+          "d": "Isaiah."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 915,
+        "question": "Jesus’ call of the first four disciples to catch men rather than fish implies that they were to ",
+        "option": {
+          "a": "be trained to become Rabbis. ",
+          "b": "convert the Jews into Judaism. ",
+          "c": "propagate the teachings of Jesus. ",
+          "d": "win proselytes back to Jesus."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 553,
+        "question": "During the Ammonite war Uriah disobeyed King David by refusing to go to his house to sleep because",
+        "option": {
+          "a": "it was wrong to go home drunk.",
+          "b": "his wife would regard him as a coward.",
+          "c": "it would be unpatriotic to break military vow.",
+          "d": "he suspected that the king had lost interest in the battle."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 713,
+        "question": "The main message of Hosea is that God desires ___________.",
+        "option": {
+          "a": "love and sacrifice",
+          "b": "sacrifice and thanksgiving",
+          "c": "steadfast love and not sacrifice",
+          "d": "sacrifice and worship"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 1082,
+        "question": "Partially, according to James, is practised in the church by ",
+        "option": {
+          "a": "neglecting the poor        ",
+          "b": "misusing church funds ",
+          "c": "respecting the educated members ",
+          "d": "offering service to non - believers"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 453,
+        "question": "On matters of parental responsibility, Samuel could not be commended because he",
+        "option": {
+          "a": "made his children judges instead of priests.",
+          "b": "wanted his children to succeed him.",
+          "c": "did nothing to stop his children’s immoral behaviours.",
+          "d": "did not care what happened to Israel after his death."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 1055,
+        "question": "The main lesson to be learnt from Elijah’s victory at Mount   Carmel is",
+        "option": {
+          "a": "God empowers his prophets ",
+          "b": "the failure of false prophets ",
+          "c": "God’s supremacy over false gods ",
+          "d": "ability to bring fire from heaven"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 820,
+        "question": "At whose well did Jesus meet the Samaritan woman?  ",
+        "option": {
+          "a": "Abraham         ",
+          "b": "Isaac          ",
+          "c": "Jacob           ",
+          "d": "Joseph"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 327,
+        "question": "Jesus encouraged His followers to rejoice when they were \tpersecuted because",
+        "option": {
+          "a": "great would be their reward in heaven",
+          "b": "angels would come to their aid",
+          "c": "they would not lack anything good",
+          "d": "all their sins would be forgiven."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 154,
+        "question": "One of the following is not among the reasons why Jesus taught in Parables  ",
+        "option": {
+          "a": "to fulfill the prophecy in Psalm 78:2  ",
+          "b": "to create understanding  ",
+          "c": "to make people learn the unknown through the known  ",
+          "d": "to show the omniscient power of Jesus"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 830,
+        "question": "By saying that no human being will be justified in the sight of God by works: Paul meant that ",
+        "option": {
+          "a": "the mosaic law was useless in ensuring justification for man.  ",
+          "b": "the law had been weakened in human flesh.    ",
+          "c": "knowledge of sin came through the law",
+          "d": "Moses who gave the law was not justified by the law."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 665,
+        "question": "God’s constant love for unfaithful Israel is demonstrated in the book of",
+        "option": {
+          "a": "Amos",
+          "b": "Isaiah",
+          "c": "Hosea",
+          "d": "Ezekiel"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 986,
+        "question": "The primary motive for Christian giving is to",
+        "option": {
+          "a": "go to heaven when they die",
+          "b": "reciprocate God’s blessing.",
+          "c": "support the work of the church.",
+          "d": "provide for the servants of God"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 298,
+        "question": "Noah’s ark was sustained during the flood by its",
+        "option": {
+          "a": "resting on the highest mountains",
+          "b": "being rowed on the waters",
+          "c": "floating on the water",
+          "d": "being anchored safely"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 1046,
+        "question": "The names of the sons of Jacob listed in the book of Exodus excluded Joseph because ",
+        "option": {
+          "a": "Joseph was represented by his two sons ",
+          "b": "the Israelites thought Joseph had died ",
+          "c": "the list covered only those who came to Egypt with Jaco",
+          "d": "it was an oversight on the part of the writers"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 825,
+        "question": "After his conversion, Paul was introduced to the disciples in Jerusalem by ",
+        "option": {
+          "a": " Peter           ",
+          "b": "  Ananias",
+          "c": "Barnabas",
+          "d": "Philip"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 341,
+        "question": "In Corinthians, Paul stated that by one Spirit we were",
+        "option": {
+          "a": "free from bondage of sin",
+          "b": "united into one church",
+          "c": "committee to Christian service",
+          "d": "baptized into one body"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 579,
+        "question": "The conversion of the Ethiopian eunuch confirms the",
+        "option": {
+          "a": "universality of the gospel.",
+          "b": "work of the Apostles.",
+          "c": "work of Philip in Samaria",
+          "d": "the love of God for the eunuch."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 248,
+        "question": "According to Galatians, one of the benefits of being a joint heir with Christ is having His Spirit in",
+        "option": {
+          "a": "worship",
+          "b": "the heart",
+          "c": "the body",
+          "d": "prayers"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 870,
+        "question": "Jesus taught that Christians should forgive their neighbours’ sin",
+        "option": {
+          "a": "three time only",
+          "b": "seventy times seven times",
+          "c": "seventy-seven times seven times",
+          "d": "as many times as possible"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 181,
+        "question": "The book of ____ mostly emphasized social justice",
+        "option": {
+          "a": "Amos   ",
+          "b": "Ezekiel   ",
+          "c": "Hoshea",
+          "d": "Isaiah"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 446,
+        "question": "What in the creation account, gave man an edge over every other creature?",
+        "option": {
+          "a": "Other creatures were made for man",
+          "b": "Man alone was created in the Image of God",
+          "c": "Man had the rare privilege to dwell in Eden",
+          "d": "Satan acknowledged his privileged position"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 845,
+        "question": "God made Pharaoh to chase and bring the Israelites back to Egypt so that He would",
+        "option": {
+          "a": "show that Moses was his true servant",
+          "b": "destroy first born males of Egyptians",
+          "c": "get glory over Pharaoh and his hosts",
+          "d": "reveal his supernatural powers to the world"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 377,
+        "question": "The miracles of Jesus in St. John’s Gospel are referred to as signs’ of the",
+        "option": {
+          "a": "manifestations of Jesus as the Messiah",
+          "b": "consuming power of God’s glory",
+          "c": "judgment that will come upon unbelievers",
+          "d": "second coming of Jesus."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 365,
+        "question": "Jesus came to John at River Jordan to",
+        "option": {
+          "a": "proclaim himself as Messiah",
+          "b": "disclose himself to John",
+          "c": "call some of John’s disciples",
+          "d": "receive baptism like others."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      }
+    ],
+    "2021": [
+      {
+        "id": 110,
+        "question": "What is the meaning of Emmanuel? ",
+        "option": {
+          "a": "Son of Emmaus ",
+          "b": "God is our Redeemer ",
+          "c": "God with us ",
+          "d": "Saviour"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 16,
+        "question": "The mother of Esau is ",
+        "option": {
+          "a": "Ruth ",
+          "b": "Ester ",
+          "c": "Rebecca ",
+          "d": "Jezebel  "
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 788,
+        "question": "To St. James, a doer of the word of God must learn to also__________",
+        "option": {
+          "a": "persevere in times of tribulation",
+          "b": "combine his faith with work",
+          "c": "be a listener of the word of God",
+          "d": "control his tongue"
+        },
+        "section": "",
+        "image": "",
+        "answer": " d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 181,
+        "question": "The book of ____ mostly emphasized social justice",
+        "option": {
+          "a": "Amos   ",
+          "b": "Ezekiel   ",
+          "c": "Hoshea",
+          "d": "Isaiah"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 169,
+        "question": "In the Sermon on the Mount, Jesus taught his disciples that whenever they faced persecution, they should  ",
+        "option": {
+          "a": "be more serious with their drive for souls ",
+          "b": "be rejoiced and be exceedingly glad  ",
+          "c": "withdraw and  be less active  ",
+          "d": "resist persecution and fight for their rights  "
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 903,
+        "question": "The Israelites under Barak defeated the Canaanite troops led by ",
+        "option": {
+          "a": "Jael",
+          "b": "  Siser         ",
+          "c": " Abinoam",
+          "d": "Heber"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 1041,
+        "question": "On the fourth day, God created the sun, moon and stars for the following purposes except. ",
+        "option": {
+          "a": "to separate the day from the night. ",
+          "b": "for signs of seasons, days and years. ",
+          "c": "to give light upon the earth. ",
+          "d": "to dry up flood from the face of the earth"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 406,
+        "question": "‘...why then have you not kept watch over your lord the king?...” The question above by David was addressed to",
+        "option": {
+          "a": "Amasa",
+          "b": "Joab",
+          "c": "Abishai",
+          "d": "Abner."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 82,
+        "question": "Who is reputed for pulling down the altar of Baal at the risk of annoying his father? ",
+        "option": {
+          "a": "Joseph ",
+          "b": "Jesse ",
+          "c": "Gideon   ",
+          "d": "Samuel "
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 611,
+        "question": "Although Josiah removed the vessels of Baal and Asherah from the Temple, God did not turn from the fierceness of His \twrath because”",
+        "option": {
+          "a": "the people did not remove them completely",
+          "b": "Jehoahaz, Josiah’s son, had provoked Him",
+          "c": "Manasseh had provoked Him",
+          "d": "the people had opposed Josiah."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 569,
+        "question": "The \u003Cem\u003Elost sheep\u003C/em\u003E and the \u003Cem\u003Elost coin\u003C/em\u003E share the following except that",
+        "option": {
+          "a": "both of them are lost and need to be found",
+          "b": "it is their owners’ responsibility to look for them.",
+          "c": "the coin, may not know that it is lost.",
+          "d": "their owners rejoice when they are found."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 866,
+        "question": "Jesus’ baptism was significant because it",
+        "option": {
+          "a": "initiated him into Judaism",
+          "b": "cleansed Him from sin",
+          "c": "awakened the messianic spirit in Him",
+          "d": "marked the call into the messianic ministry"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 71,
+        "question": "Where did Paul cure a slave girl who had a spirit of divination? ",
+        "option": {
+          "a": "Philippi ",
+          "b": "Ephesus ",
+          "c": "Athens ",
+          "d": "Antioch"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 964,
+        "question": "According to Luke, Jesus’ birth in a manger was due to ",
+        "option": {
+          "a": "the choice of the parents. ",
+          "b": "lack of room in Joseph’s family house. ",
+          "c": "lack of place for them in the inn",
+          "d": "Mary’s labour being sudden."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 109,
+        "question": "That was the sin of David that involved Bathseba? ",
+        "option": {
+          "a": "Murder ",
+          "b": "adultery ",
+          "c": "dishonesty ",
+          "d": "arrogance"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 1051,
+        "question": "Solomon told Hiram, King of Tyre, that he had decided to build a temple for the Lord because ",
+        "option": {
+          "a": "the Lord had given him peace and all good things. ",
+          "b": "his father, David never intended to build one ",
+          "c": "he wanted to force Hiram to come to his aid ",
+          "d": "Hiram had entered into a marriage alliance with his father"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 52,
+        "question": "Explain why Jesus was identified as the lamb by John (Jn:1:29 ) ",
+        "option": {
+          "a": "lamb of God is a figurative language which describes Christ sacrificial mission in the word ",
+          "b": "he is being compared to the Passover Lamb that would atone for the sins of all world ",
+          "c": "Because the lamb is attentive to his owner ",
+          "d": "it shows patience, meekness, gentleness and innocence"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 605,
+        "question": "When Saul disobeyed God’s command, Samuel rebuked him by saying that",
+        "option": {
+          "a": "the sword would never depart from his house",
+          "b": "to obey was better than sacrifice",
+          "c": "he should fear the LORD and obey the people’s voice.",
+          "d": "though he was little, yet he was the head."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 833,
+        "question": "According to Peter, a Christian should exercise his freedom by ",
+        "option": {
+          "a": "doing what is right.         ",
+          "b": "claiming his freedom at all cost",
+          "c": "enduring pain while suffering. ",
+          "d": "using it as a pretext for evil"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 497,
+        "question": "“....... Behold, I will bring evil upon you; I will utterly sweep you away .....” Elijah pronounced destruction on Ahab with the statement above for his sin of",
+        "option": {
+          "a": "the killing of God’s prophets",
+          "b": "worship of other gods",
+          "c": "going to war against Ramoth-gilead",
+          "d": "greed, covetousness and murder"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 254,
+        "question": "In His sermon on the Mount, Jesus said that the poor in spirit are blessed for they would",
+        "option": {
+          "a": "be satisfied",
+          "b": "be comforted on the last day",
+          "c": "inherit the kingdom of heaven",
+          "d": "inherit the earth."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 461,
+        "question": "The punishment of Israel according to the vision of Jeremiah includes all the following except",
+        "option": {
+          "a": "occupation of the land by foreigners.",
+          "b": "restoration of their kings and priests.",
+          "c": "destruction of their flocks and herds.",
+          "d": "consumption of their harvest by their enemies."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 469,
+        "question": "After his baptism Jesus began to",
+        "option": {
+          "a": "proclaim the kingdom of God.",
+          "b": "baptize others.",
+          "c": "confront religious leaders.",
+          "d": "teach in parables."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 194,
+        "question": "In what way was Moses a prototype of Jesus Christ?",
+        "option": {
+          "a": "Moses was a great prophet who led Israel out of Egypt",
+          "b": "Moses did not die naturally",
+          "c": "Moses appeared to Jesus on Mount of Transfiguration",
+          "d": "Moses was persecuted by his people"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 1048,
+        "question": "The sons of Samuel misused their privileged positions by        ",
+        "option": {
+          "a": "not allowing the fats of animals to burn first to God ",
+          "b": "sleeping with women who came to sacrifice ",
+          "c": "bribery and false judgement ",
+          "d": "stealing from the offering"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 252,
+        "question": "In his teaching on partiality, James declares that mercy triumphs over",
+        "option": {
+          "a": "judgment",
+          "b": "righteousness",
+          "c": "grace",
+          "d": "faith."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 215,
+        "question": "“How is it that you, a Jew, ask a drink of me, a woman of \tSamaria?” The speaker was surprised because",
+        "option": {
+          "a": "Jesus was God and not human",
+          "b": "the Jews could only buy water from Samaria",
+          "c": "the Jews had no dealings with Samaria",
+          "d": "it was unlawful for a man to receive water from a woman"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 1064,
+        "question": "“I gave you cleanness of teeth in all your cities” This statement means God gave them",
+        "option": {
+          "a": "no water to drink ",
+          "b": "new set of teeth ",
+          "c": "no food to eat                       ",
+          "d": "no teeth at all"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 720,
+        "question": "Jesus healed the lame man who had been sick for thirty-eight years at?",
+        "option": {
+          "a": "Capernaum",
+          "b": "Samaria",
+          "c": "Galilee",
+          "d": "Betsheba"
+        },
+        "section": "",
+        "image": "",
+        "answer": " d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 15,
+        "question": "The renowned interpreters of the Mosaic Law in the time of Jesus were the ",
+        "option": {
+          "a": "Sadducees ",
+          "b": "Scribes ",
+          "c": "Herodians ",
+          "d": "Pharisees"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 1056,
+        "question": "When Elijah confronted Ahab over the Killing of Naboth, Ahab",
+        "option": {
+          "a": "rejected any responsibility for it ",
+          "b": "blamed Jezebel for the murder",
+          "c": "repented with sackcloth and fasting ",
+          "d": "reluctantly accepted responsibility for it"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 935,
+        "question": "According to Paul in second Thessalonians, one of the signs of the second coming would be ",
+        "option": {
+          "a": "revelation of the man of lawlessness. ",
+          "b": "an explosion of world population. ",
+          "c": "increasing rate of fake disciples. ",
+          "d": "flagrant violation of God’s law"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 1090,
+        "question": "Peter admonished church leaders to take care of the flock of Christ in order to",
+        "option": {
+          "a": "restrain men from degrading the church ",
+          "b": "obtain God’s crown of glory ",
+          "c": "build a vibrant church ",
+          "d": "ensure discipline in the church"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 304,
+        "question": "Laxity in disciplining children is dangerous to both the family and society as exemplified by",
+        "option": {
+          "a": "Jonathan",
+          "b": "Tamar",
+          "c": "Absalom",
+          "d": "Ahikam."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 967,
+        "question": "The initial evidence that the disciples had received the Holy Spirit was",
+        "option": {
+          "a": "performing miracles",
+          "b": "preaching to the people. ",
+          "c": "speaking in tongues. ",
+          "d": "praying together"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 278,
+        "question": "When God called Moses to deliver the Israelites, he resisted because he could not speak and he was told to",
+        "option": {
+          "a": "perform some signs with his rod",
+          "b": "wait for a sign from God",
+          "c": "go with Joshua who would speak for him",
+          "d": "go with Aaron who would speak for him"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 93,
+        "question": "In the parable of the sower, the seeds on the good ground represent those who ",
+        "option": {
+          "a": "Accept and live by the world of God ",
+          "b": "feed the poor ",
+          "c": "Have and love riches ",
+          "d": "Give alms in market places "
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 561,
+        "question": "Which of the following prophets taught that Yahweh was merciful?",
+        "option": {
+          "a": "Isaiah",
+          "b": "Hosea",
+          "c": "Amos",
+          "d": "Ezekiel"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 318,
+        "question": "According to Amos, God desires knowledge of Him rather than",
+        "option": {
+          "a": "fervent prayers",
+          "b": "dependency on the Law",
+          "c": "the multitude of prophecies",
+          "d": "burnt offerings"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 19,
+        "question": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29) What was his wish? ",
+        "option": {
+          "a": "he wanted to buried at Canaan in the cave at Ephron ",
+          "b": "he wanted to be buried at Jericho ",
+          "c": "he wanted to commune with his ancestors ",
+          "d": "he wanted to be closed to his fathers."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      }
+    ],
+    "2022": [
+      {
+        "id": 132,
+        "question": "“Talitha cumi”  means  ",
+        "option": {
+          "a": "Dorcas, Arise",
+          "b": "Little girl, I say to you, arise ",
+          "c": "Thy will be done",
+          "d": "Jesus is coming"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 654,
+        "question": "Who was the first king of Israel?",
+        "option": {
+          "a": "Kish",
+          "b": "David",
+          "c": "Solomon",
+          "d": "Saul"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 624,
+        "question": "After the healing of the demoniac in the country of the Gerasenes, the people begged Jesus to (Mark 5:15-19)",
+        "option": {
+          "a": "stay with them",
+          "b": "visit them always",
+          "c": "go away from them",
+          "d": "heal their sick."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 213,
+        "question": "The message of Amos was mainly about",
+        "option": {
+          "a": "the love of God",
+          "b": "man’s response to God’s love.",
+          "c": "the holiness of God",
+          "d": "social justice"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 762,
+        "question": "\"For the men in the ship knew that he was fleeing from the presence of the Lord\". The person referred to in this statement is________",
+        "option": {
+          "a": "Jonah",
+          "b": "Hosea",
+          "c": "Amos",
+          "d": "Elijah"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 479,
+        "question": "John’s summary of God’s love for the world is that He",
+        "option": {
+          "a": "sent his son to judge the world righteously.",
+          "b": "created man in his own image with authority.",
+          "c": "made light that the world might walk in it.",
+          "d": "gave his only son to save all believers."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 980,
+        "question": "Justification by faith according to Paul is",
+        "option": {
+          "a": "the state of being a blessed child of God",
+          "b": "acquitted by the one offended.",
+          "c": "acquitted from moral sin and satanic oppression",
+          "d": "the state of being acquitted and accepted by God"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 783,
+        "question": "The essence of St. Paul's teaching on Law and Grace is that___________",
+        "option": {
+          "a": "observance of the law is necessary for redemption in Christ",
+          "b": "what God truly rewards is the prayer for grace by Christians",
+          "c": "observance of the law only isn't a guarantee of salvation",
+          "d": "God's grace in Christians' lives shouldn't be a reason for continuing in sin"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 335,
+        "question": "Saul was convened so that he might",
+        "option": {
+          "a": "cause confusion among the Jews",
+          "b": "help Peter in his work",
+          "c": "not be killed for his sins",
+          "d": "spread the word to the Gentiles."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 312,
+        "question": "The workmen who repaired the house of the LORD during Josiah’s religious reforms were not made to account for the money given them because they",
+        "option": {
+          "a": "did not receive the money directly",
+          "b": "lacked accounting capabilities",
+          "c": "bribed the Temple officials",
+          "d": "were honest workmen."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 923,
+        "question": "On the day of Pentecost, the Apostles were filled with the Holy Spirit and they all",
+        "option": {
+          "a": "prophesied.",
+          "b": "          spoke in tongues.",
+          "c": "baptised the converts.      ",
+          "d": "preached to the multitudes"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 947,
+        "question": "The purpose of Joshua’s add ",
+        "option": {
+          "a": "show his love for Go",
+          "b": "establish a new covenant with God",
+          "c": "remind Israel of their unfaithfulness",
+          "d": "make Israel trust God."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 274,
+        "question": "“1 will not eat until I have told my errand” In the statement above, the errand of Abraham’s servant was to",
+        "option": {
+          "a": "find a wife for Isaac",
+          "b": "deliver the camels to Laban",
+          "c": "assess Isaac’s future wife",
+          "d": "deliver Isaac’s message to Laban"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 582,
+        "question": "The man who delivered judgment of the Jerusalem Council on the admission of Gentiles into the Church was",
+        "option": {
+          "a": "Peter.",
+          "b": "Paul.",
+          "c": "Barnabas.",
+          "d": "James."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 75,
+        "question": "In the case before Solomon over the deal and the living, child the mother of the dead child supported. ",
+        "option": {
+          "a": "Giving the living child to her opponent ",
+          "b": "Killing the living child ",
+          "c": "joint ownership of the living child ",
+          "d": "king Solomon having the living child"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 319,
+        "question": "In his vision, Isaiah’s guilt was taken away and his sin forgiven after",
+        "option": {
+          "a": "the angel of the LORD appeared to him",
+          "b": "his mouth was touched with a burning coal",
+          "c": "the seraphim had spoken to him",
+          "d": "he had agreed to serve God."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 744,
+        "question": "\"It shall be neither mine nor yours; divide it\" what was to be divided?",
+        "option": {
+          "a": "Elijah's mantle",
+          "b": "Jesus Garment",
+          "c": "Live Baby",
+          "d": "Solomon's Kingdom"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 48,
+        "question": "The person who the Bible calls the consolation is:  ",
+        "option": {
+          "a": "Barsabbas ",
+          "b": "Barabbas ",
+          "c": "Barnabs ",
+          "d": "Bathsheba"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 1087,
+        "question": "Peter described Christians as a chosen race of God because they",
+        "option": {
+          "a": "declared God’s wonderful deeds ",
+          "b": "had all become ordained men ",
+          "c": "had continued to give the usual lives ",
+          "d": "had displaced the Jews completely in God’s rating"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 599,
+        "question": "‘Who am I that I should go to Pharoah......’ When Moses resisted God’s call with the state¬ment above, it portrayed his",
+        "option": {
+          "a": "stubbornness",
+          "b": "incompetence",
+          "c": "lack of strength",
+          "d": "lack of eloquence"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 585,
+        "question": "By saying that no human being will be justified in the sight of God by works: Paul meant that",
+        "option": {
+          "a": "the mosaic law was useless in ensuring justification for man.",
+          "b": "the law had been weakened in human flesh.",
+          "c": "knowledge of sin came through the law.",
+          "d": "Moses who gave the law was not justified by the law."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 204,
+        "question": "Naboth would not give the vineyard to Ahab because it was",
+        "option": {
+          "a": "under cultivation",
+          "b": "inherited from his father",
+          "c": "better than Ahab’s offer",
+          "d": "undervalued by the king"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 247,
+        "question": "In Timothy, Paul urges Christians to pray for kings and those in authority for the achievement of",
+        "option": {
+          "a": "a successful Christian life",
+          "b": "godly and acceptable life",
+          "c": "peace and exaltation in life",
+          "d": "quiet and peaceable life."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 223,
+        "question": "According to Jesus, a good shepherd lays down his life for the sheep but a hireling",
+        "option": {
+          "a": "sells them off for personal profit",
+          "b": "abandons the sheep in the face of danger",
+          "c": "protects some of the sheep leaving others to danger",
+          "d": "asks for better pay before doing his work."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 183,
+        "question": "Moses spoke  to the Israelites to fear not, but be calm, confident and see the salvation of God at  ",
+        "option": {
+          "a": "Pi-Hahirotti   ",
+          "b": "Meribah   ",
+          "c": "Wilderness of Sinai ",
+          "d": "d.Elim"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 328,
+        "question": "‘Blessed are you, Simon Bar-Jona ! For flesh and blood has not revealed this to you...’ As exemplified by the statement above, for believers to be able to identify with Jesus, they must",
+        "option": {
+          "a": "offer their lives",
+          "b": "be led by the Spirit",
+          "c": "keep all the commandments",
+          "d": "vow not to deny Him."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 164,
+        "question": "The person who was invited to nurse Moses was ",
+        "option": {
+          "a": "Jochebed  ",
+          "b": "Puah  ",
+          "c": "Shiphrah  ",
+          "d": "Miriam "
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 531,
+        "question": "A key requirement for healing as exemplified by the disciple’s inability to heal the epileptic boy is",
+        "option": {
+          "a": "righteousness",
+          "b": "power",
+          "c": "humility",
+          "d": "Faith"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 579,
+        "question": "The conversion of the Ethiopian eunuch confirms the",
+        "option": {
+          "a": "universality of the gospel.",
+          "b": "work of the Apostles.",
+          "c": "work of Philip in Samaria",
+          "d": "the love of God for the eunuch."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 871,
+        "question": "In the garden of Gethsemane, Jesus",
+        "option": {
+          "a": "was arrested",
+          "b": "was crucified",
+          "c": "rebuked Judas Iscariot",
+          "d": "prayed for peace"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 706,
+        "question": "In the Gospel of Matthew, Jesus sent the twelve to ___________.",
+        "option": {
+          "a": "the Jews",
+          "b": "the Gentiles and Samaritans",
+          "c": "Tyre and Sidon",
+          "d": "the Region of Gadarenes"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 473,
+        "question": "“And if anyone will not receive you or listen to your words, shake off the dust from your feet as you leave that house.” This is a sign of",
+        "option": {
+          "a": "forgiveness",
+          "b": "rebuke",
+          "c": "acceptance",
+          "d": "condemnation."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 472,
+        "question": "Jesus teaches, “Let your light so shine before men...” By light Jesus refers to,",
+        "option": {
+          "a": "the Christian character and virtues in us.",
+          "b": "the bright lights at the altar in the church.",
+          "c": "the light that shows the right way.",
+          "d": "our knowledge of the scripture."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 1014,
+        "question": "“My son your sins are forgiven”. These were the words of  Jesus to the   ",
+        "option": {
+          "a": "demonia",
+          "b": "paralyti    ",
+          "c": "man born blind  ",
+          "d": "centurion’s servant"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 613,
+        "question": "After the dedication of the Temple, Ezra studied the law of the LORD in order to",
+        "option": {
+          "a": "defend the Jews against the Babylonians",
+          "b": "become the first judge in Jerusalem",
+          "c": "enhance his prophetic status",
+          "d": "teach His statutes and ordinances in Israel."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 639,
+        "question": "Paul in Corinthians advised that Christians should re-affirm their love for those who",
+        "option": {
+          "a": "are kind to them",
+          "b": "wrong them",
+          "c": "humble themselves",
+          "d": "are in authority."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 161,
+        "question": "“To obey is better than sacrifice” came from  ",
+        "option": {
+          "a": "Prophet Daniel  ",
+          "b": "Prophet Ezekiel  ",
+          "c": "Prophet Elijah  ",
+          "d": "Prophet Samuel "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 985,
+        "question": "A good citizen according to Peter is one ",
+        "option": {
+          "a": "obeys the law of the state and provides for the poor",
+          "b": "provides social services for the needy. ",
+          "c": "obeys the law of the state and fulfils his obligations. ",
+          "d": "helps to finance the government at all times."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 1025,
+        "question": "Paul was stoned and dragged out of the city by ",
+        "option": {
+          "a": "the Lyconians and the Ephesians. ",
+          "b": "enemies of the healed lame man. ",
+          "c": "Jews from Antioch and Iconium. ",
+          "d": "Jews in the Synagogue"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 375,
+        "question": "Which Jewish party was bitterly opposed to the disciples for preaching the resurrection of Jesus?",
+        "option": {
+          "a": "The Pharisees",
+          "b": "The Sadducees .",
+          "c": "The Zealots",
+          "d": "The Sanhedrin."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      }
+    ],
+    "2023": [
+      {
+        "id": 91,
+        "question": "What did God create on the 6th day ",
+        "option": {
+          "a": "The firmament ",
+          "b": "light ",
+          "c": "Dry land and sea ",
+          "d": "man and living creatures "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 550,
+        "question": "How old was Joshua before he died?",
+        "option": {
+          "a": "95 years",
+          "b": "98 years",
+          "c": "110 years",
+          "d": "111 years"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 924,
+        "question": "The Jewish religious sect which did not believe in resurrection were the",
+        "option": {
+          "a": "Pharisees. .    ",
+          "b": "  Zealots",
+          "c": "  Sadducees. ",
+          "d": " Essenes"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 227,
+        "question": "The experience which totally changed Paul’s focus in life was his",
+        "option": {
+          "a": "witnessing the martyrdom of Stephen",
+          "b": "determination to wipe out the church",
+          "c": "participation in the council of Jerusalem",
+          "d": "encounter with Jesus on the road to Damascus"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 796,
+        "question": "Why was Saul asked to destroy the Amalekites? ",
+        "option": {
+          "a": "They were worshipping false gods ",
+          "b": "They opposed the Israelites when they left Egypt ",
+          "c": "They did not assist the Israelites ",
+          "d": "God did not like the Amalekites"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 236,
+        "question": "In Romans, Paul admonished Christians, in their dealings with secular powers, to",
+        "option": {
+          "a": "reject all secular laws",
+          "b": "pray for the leaders",
+          "c": "refuse to pay tax to them",
+          "d": "respect the authorities"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 1046,
+        "question": "The names of the sons of Jacob listed in the book of Exodus excluded Joseph because ",
+        "option": {
+          "a": "Joseph was represented by his two sons ",
+          "b": "the Israelites thought Joseph had died ",
+          "c": "the list covered only those who came to Egypt with Jaco",
+          "d": "it was an oversight on the part of the writers"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 857,
+        "question": "Ahab revealed his disregard for the law when he",
+        "option": {
+          "a": "got married to Jezebel",
+          "b": "persecuted the prophets of lsrael",
+          "c": "appropriated the vineyard of Naboth",
+          "d": "refused to listen to Naboth"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 24,
+        "question": "He shall save his people from their sins. Who is being referred to here? ",
+        "option": {
+          "a": "John the Baptist ",
+          "b": "Elijah ",
+          "c": "Elisha ",
+          "d": "Jesus                              "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2007"
+      },
+      {
+        "id": 945,
+        "question": "The twelve s the type of the fertilifortification of the availability of grapes in the land.citiesty of the landpeople in the lanpies that were sent by Moses to the promised land were to confirm all the following except ",
+        "option": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 269,
+        "question": "The disciple who replaced Judas Iscariot was",
+        "option": {
+          "a": "Justus",
+          "b": "Stephen",
+          "c": "Mathias",
+          "d": "Luke."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 878,
+        "question": "The resurrection stroy encourage Christians to believe that the Lord they adore is",
+        "option": {
+          "a": "still alive today",
+          "b": "a miracle working God",
+          "c": "Lord over evils",
+          "d": "powerful and Just"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 1038,
+        "question": "The Galatians, were reminded by Paul that they were Abraham’s offspring and heirs according to ",
+        "option": {
+          "a": "promise. ",
+          "b": "   good works. ",
+          "c": "     law. ",
+          "d": "grace"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 1053,
+        "question": "Nathan announced all the following forms of punishment for David’s Sin except that ",
+        "option": {
+          "a": "God will raise up evil against his own house ",
+          "b": "his wives will be taken away from him ",
+          "c": "the sword will never depart from his house ",
+          "d": "his son Absalom will challenge him"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 225,
+        "question": "The final trial of Jesus was presided over by",
+        "option": {
+          "a": "Herod",
+          "b": "Caiaphas",
+          "c": "the High Priest",
+          "d": "Pilate"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 914,
+        "question": "Which of the following parables alludes to the existence of a mixture of good and bad people in the church? The",
+        "option": {
+          "a": "Wicked Tenants.",
+          "b": "Seed Growing Secretly.",
+          "c": "Wheat and Tares.",
+          "d": "Prodigal Son"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 758,
+        "question": "Abraham's faith was reckoned to him as righteousness'. This underscores St Paul's admonition that ______",
+        "option": {
+          "a": "Redemption in Christ is possible through observance of the law",
+          "b": "Faith without work is fruitless",
+          "c": "Justification is by faith and nor the law",
+          "d": "Obedience of the law is unnecessary as compared to God's grace"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 150,
+        "question": "Which of the following is not a natural miracle:  ",
+        "option": {
+          "a": "Stilling of the storm  ",
+          "b": "Walking on the sea  ",
+          "c": "Raising of Lazarus from the dead  ",
+          "d": "Feeding the five thousand"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 29,
+        "question": "Amram and Jochebad gave birth to : ",
+        "option": {
+          "a": "Mirian ",
+          "b": "Jedida ",
+          "c": "Jethro ",
+          "d": "Hur"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2007"
+      },
+      {
+        "id": 375,
+        "question": "Which Jewish party was bitterly opposed to the disciples for preaching the resurrection of Jesus?",
+        "option": {
+          "a": "The Pharisees",
+          "b": "The Sadducees .",
+          "c": "The Zealots",
+          "d": "The Sanhedrin."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 467,
+        "question": "The first batch of Jewish exiles to rebuild the temple was under the leadership of",
+        "option": {
+          "a": "Joshua.",
+          "b": "Hanani.",
+          "c": "Sheshbazzar.",
+          "d": "Zerubabel."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 718,
+        "question": "One of the most significant lessons from the emergence of Deborah as a leader is that_________",
+        "option": {
+          "a": "She not only prophesied but also advised Israel",
+          "b": "Gender difference isn't a limitation to leadership",
+          "c": "Honesty and Integrity are key to leadership",
+          "d": "One needs to summon courage as a leader to solve problems"
+        },
+        "section": "",
+        "image": "",
+        "answer": " b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 114,
+        "question": "If anyone would be first, he must be last of all and servant of all. What does this saying of Jesus teach? ",
+        "option": {
+          "a": "endurance ",
+          "b": "lack of ambition ",
+          "c": "humility ",
+          "d": "relaxation"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 487,
+        "question": "According to Peter, God set up the state for the purpose of",
+        "option": {
+          "a": "silencing the ignorance of foolish men.",
+          "b": "collecting appropriate taxes from its citizens",
+          "c": "carrying out appropriate sanctions for the guilty",
+          "d": "ensuring the protection of its citizens"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 49,
+        "question": "The last things which Zedekiah saw before his eyes were removed was the ",
+        "option": {
+          "a": "Egyptian army ",
+          "b": "Slaughter of his son ",
+          "c": "city of Jerusalem ",
+          "d": "feasting of hiss children of Israel"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 333,
+        "question": "In the early Church, believer devoted themselves to the",
+        "option": {
+          "a": "daily distribution of food",
+          "b": "apostles’ teaching and fellowship",
+          "c": "breaking of bread in the Temple",
+          "d": "performance of miracles"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 527,
+        "question": "How old was Abram when God appeared to him the second time?",
+        "option": {
+          "a": "105 years",
+          "b": "75 years",
+          "c": "99 years",
+          "d": "85 years"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 711,
+        "question": "I desire steadfast love and not sacrifice, the knowledge of God, rather than burnt offerings.” This statement was the central theme of the prophecy of _____________.",
+        "option": {
+          "a": "Elijah",
+          "b": "Ezekiel",
+          "c": "Hosea",
+          "d": "Isaiah"
+        },
+        "section": "",
+        "image": "",
+        "answer": " c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 427,
+        "question": "According to Peter during the great confession, people believed that Jesus was",
+        "option": {
+          "a": "the Messiah",
+          "b": "a priest",
+          "c": "the Son of God",
+          "d": "one of the prophets."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 502,
+        "question": "Before Moses brought the Israelites to meet God on Mount Sinai, he charged them to",
+        "option": {
+          "a": "touch the mountain at the sight of smoke",
+          "b": "ensure they eat very well",
+          "c": "wash the garments and be consecrated",
+          "d": "mate with their wives for three days"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 558,
+        "question": "Elijah destroyed the prophets of Baal",
+        "option": {
+          "a": "to oppose Baal worship.",
+          "b": "as an act of revenge.",
+          "c": "as an act of sacrifice.",
+          "d": "to shame Jezebel."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 223,
+        "question": "According to Jesus, a good shepherd lays down his life for the sheep but a hireling",
+        "option": {
+          "a": "sells them off for personal profit",
+          "b": "abandons the sheep in the face of danger",
+          "c": "protects some of the sheep leaving others to danger",
+          "d": "asks for better pay before doing his work."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 843,
+        "question": "Joseph was of a good behaviour because he",
+        "option": {
+          "a": "was loved and pampered by his father",
+          "b": "interacted well with his prision inmates",
+          "c": "rejected Potiphar’s wife proposal",
+          "d": "served diligently in Potiphar’s house"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 197,
+        "question": "At the time of creation, the river that flowed out of Eden to water the garden divided into",
+        "option": {
+          "a": "Pishon, Hauijah, Gihon and Tigris",
+          "b": "Tigris, Cush, Assune and Hauijah",
+          "c": "Pishon, Tigris, Gihon and Euphrates",
+          "d": "Euphrates, Gihon, Assyna and Tigris"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 677,
+        "question": "“Go up and join this chariot”.  This statement was made to",
+        "option": {
+          "a": "John.",
+          "b": "Paul.",
+          "c": "James.",
+          "d": "Philip."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 860,
+        "question": "Daniel  disobeyed King Darius by",
+        "option": {
+          "a": " refusing to honour the Persian gods",
+          "b": "refusing to be made president of the Satraps",
+          "c": "celebrating Jewish festival in a foreign land",
+          "d": "praying three times daily for thirty days"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 417,
+        "question": "Amos’ prophecies which were considered as a conspiracy against the northern kingdom were reported to the king by",
+        "option": {
+          "a": "Micaiah",
+          "b": "Amaziah",
+          "c": "Hilkiah",
+          "d": "Micah."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 193,
+        "question": "One of the following is not among the “I am” Sayings of Jesus  ",
+        "option": {
+          "a": "I am the bread of life",
+          "b": "I am the gate of life",
+          "c": "I am the good shepherd",
+          "d": "I am the way"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 802,
+        "question": "Solomon told Hiram, King of Tyre, that he had decided to ",
+        "option": {
+          "a": "the Lord had given him peace and all good things. ",
+          "b": "his father, David, never intended to build one",
+          "c": "C he wanted to force Hiram to come to his ai",
+          "d": "C he wanted to force Hiram to come to his ai"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 324,
+        "question": "The disciples became terrified when they saw Jesus walking on the sea because",
+        "option": {
+          "a": "they thought He would drown",
+          "b": "they thought He was a ghost",
+          "c": "they lacked faith in Him",
+          "d": "there was a great storm."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      }
+    ],
+    "2024": [
+      {
+        "id": 812,
+        "question": " Before their first encounter with Jesus, Peter and Andrew  were   ",
+        "option": {
+          "a": "preachers.     ",
+          "b": "tax collectors. ",
+          "c": "fishermen.    ",
+          "d": "tent makers."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 346,
+        "question": "Peter in his epistle, charged his fellow elders to",
+        "option": {
+          "a": "take care of their families",
+          "b": "be strong in their faith",
+          "c": "have compassion on the weak",
+          "d": "tend the flock of God."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 360,
+        "question": "The universal nature of God was demonstrated in the salvation of the people of",
+        "option": {
+          "a": "Joppa",
+          "b": "Tarshish",
+          "c": "Tekoa",
+          "d": "Nineveh."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 247,
+        "question": "In Timothy, Paul urges Christians to pray for kings and those in authority for the achievement of",
+        "option": {
+          "a": "a successful Christian life",
+          "b": "godly and acceptable life",
+          "c": "peace and exaltation in life",
+          "d": "quiet and peaceable life."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 352,
+        "question": "When Moses stayed away for too long on the mountain, the people of Israel",
+        "option": {
+          "a": "prayed and fasted",
+          "b": "embarked on farming",
+          "c": "returned to Egypt",
+          "d": "made and worshipped idol."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2008"
+      },
+      {
+        "id": 78,
+        "question": "In order that Benjamin might be brought to Egypt, Joseph detained ",
+        "option": {
+          "a": "Ruben ",
+          "b": "Levi ",
+          "c": "Jacob ",
+          "d": "Simoen "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 79,
+        "question": "Those inspired by God to lead the tribes of Israel in battle were the ",
+        "option": {
+          "a": "Judges  ",
+          "b": "Captains of Guard  ",
+          "c": "priest  ",
+          "d": "prophet  "
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 21,
+        "question": "The names of the two kings of Jericho destroyed by the Israelites during the conquest were ",
+        "option": {
+          "a": "Adonija and Haggith ",
+          "b": "Shion and Og ",
+          "c": "Zadok and Benaiah ",
+          "d": "Hiram and Jeroboam."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2006"
+      },
+      {
+        "id": 1063,
+        "question": "The indigenous official of King Darius were unhappy with Daniel because he ",
+        "option": {
+          "a": "often reported them to the King ",
+          "b": "was a Jewish exile         ",
+          "c": " had an excel lent spirit ",
+          "d": "refused to worship the golden image"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2015"
+      },
+      {
+        "id": 819,
+        "question": "Apart from the miracles at the wedding feast, another miracle of Jesus at Cana in Galilee was",
+        "option": {
+          "a": "feeding the four thousan    ",
+          "b": "healing the noble man’s son.     ",
+          "c": "healing of a man born blind",
+          "d": "D   healing a paralytic man."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 70,
+        "question": "Josiah’s reign was popular because of his ",
+        "option": {
+          "a": "Allies ",
+          "b": "victory ",
+          "c": "violence ",
+          "d": "reforms"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2008"
+      },
+      {
+        "id": 732,
+        "question": "The core of St Paul's advice on dignity of Labour is that",
+        "option": {
+          "a": "Christians must work hard to actively support the Church and themselves",
+          "b": "The lazy people must be made to learn in the hardest way possible",
+          "c": "Everyone should actively contribute to social progress",
+          "d": "Christians must be productive"
+        },
+        "section": "",
+        "image": "",
+        "answer": " d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 158,
+        "question": "“Thy glory, O Israel upon thy high places! How are the mighty fallen! Tell it not in the streets of Ashkelon… How  are the mighty fallen in the midst of the battle!” The above dirge was written by David when  ",
+        "option": {
+          "a": "He killed Goliath  ",
+          "b": "Uriah the Hittite died  ",
+          "c": "Saul and Jonathan died  ",
+          "d": "Abner was killed by Joab"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 235,
+        "question": "Paul said he was not fit to be called an apostle because he",
+        "option": {
+          "a": "was not called like the others",
+          "b": "was not a Jew",
+          "c": "persecuted the Early Church",
+          "d": "was only a distributor of letters"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 919,
+        "question": "The last words of Jesus on the cross was",
+        "option": {
+          "a": "my God, my God, why has Thou forsaken me. ",
+          "b": "father forgive them their transgression. ",
+          "c": "father into thy hand I commit my spirit. ",
+          "d": "God have mercy upon them"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 161,
+        "question": "“To obey is better than sacrifice” came from  ",
+        "option": {
+          "a": "Prophet Daniel  ",
+          "b": "Prophet Ezekiel  ",
+          "c": "Prophet Elijah  ",
+          "d": "Prophet Samuel "
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2012"
+      },
+      {
+        "id": 80,
+        "question": "God told Samuel that he, would punish Eli because he  ",
+        "option": {
+          "a": "did not correct his son’s sinful behavior ",
+          "b": "did not offer sacrifice as the: Law ",
+          "c": "did not warn the people of Israel to stop surfing ",
+          "d": "Warned his sons against rape and drunkenness"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2009"
+      },
+      {
+        "id": 529,
+        "question": "Paul in Romans advised believers to respect those in authority to avoid God’s wrath and also for the sake of",
+        "option": {
+          "a": "conscience",
+          "b": "Christ",
+          "c": "faith",
+          "d": "others"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 491,
+        "question": "According to Paul in Romans, if it is the adherents of the law who are to be the heirs of Abraham then faith in Jesus is",
+        "option": {
+          "a": "null and void.",
+          "b": "not attainable",
+          "c": ".     \t\t\t\nbeyond the reach of Gentiles",
+          "d": "transgression of the law."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2009"
+      },
+      {
+        "id": 824,
+        "question": "The conversion of  the Ethiopian eunuch confirms the ",
+        "option": {
+          "a": "universality of the gosple. ",
+          "b": "work of the Apostles",
+          "c": "work of  Philip in Samaria",
+          "d": "the love of God for the eunuch. "
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 639,
+        "question": "Paul in Corinthians advised that Christians should re-affirm their love for those who",
+        "option": {
+          "a": "are kind to them",
+          "b": "wrong them",
+          "c": "humble themselves",
+          "d": "are in authority."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 905,
+        "question": "Your love is like the morning cloud, like the dew that goes early”. What did Hosea mean by this statement? ",
+        "option": {
+          "a": "Israel’s relationship with God was shortlived ",
+          "b": "Israel did not truly love God as she should ",
+          "c": "Israel did had love for other gods ",
+          "d": "Israel had no love for God"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2013"
+      },
+      {
+        "id": 785,
+        "question": "At about the ... hour, Jesus cried with a loud voice \"Eli Eli lama sabach - thani\".",
+        "option": {
+          "a": "Ninth",
+          "b": "Eleventh",
+          "c": "Seventh",
+          "d": "Sixth"
+        },
+        "section": "",
+        "image": "",
+        "answer": " a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2019"
+      },
+      {
+        "id": 324,
+        "question": "The disciples became terrified when they saw Jesus walking on the sea because",
+        "option": {
+          "a": "they thought He would drown",
+          "b": "they thought He was a ghost",
+          "c": "they lacked faith in Him",
+          "d": "there was a great storm."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 1000,
+        "question": "Joel and Abijah were the sons of     ",
+        "option": {
+          "a": " Eli",
+          "b": "  Saul                ",
+          "c": "Samuel  ",
+          "d": "David"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2011"
+      },
+      {
+        "id": 35,
+        "question": "The prophet who was with the exiles of 597 BC in Babylon was ",
+        "option": {
+          "a": "Moses ",
+          "b": "Hosea ",
+          "c": "Micah ",
+          "d": "Ezekiel."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2007"
+      },
+      {
+        "id": 561,
+        "question": "Which of the following prophets taught that Yahweh was merciful?",
+        "option": {
+          "a": "Isaiah",
+          "b": "Hosea",
+          "c": "Amos",
+          "d": "Ezekiel"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2010"
+      },
+      {
+        "id": 408,
+        "question": "Saul relied on a medium because God did not answer him through",
+        "option": {
+          "a": "dreams, visions and prophets",
+          "b": "inspiration, tambourines and prophets",
+          "c": "dreams, urim and prophets",
+          "d": "lyre, urim and prophets."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 864,
+        "question": "Amos satirically invited the Jews to come to Bethel and Gilgal in order to",
+        "option": {
+          "a": "repent",
+          "b": "worship",
+          "c": "transgress",
+          "d": "pacify"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 444,
+        "question": "According to James, when we meet various trails in life, we should",
+        "option": {
+          "a": "bless God’s name",
+          "b": "call upon the name of the Lord",
+          "c": "count it all joy",
+          "d": "rejoice because the Lord is good."
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 180,
+        "question": "The son of Solomon who made unwise decisions was ….",
+        "option": {
+          "a": "Jeroboam      ",
+          "b": "Rechoboam",
+          "c": "Rehoboam    ",
+          "d": "Asa"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "post-utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 860,
+        "question": "Daniel  disobeyed King Darius by",
+        "option": {
+          "a": " refusing to honour the Persian gods",
+          "b": "refusing to be made president of the Satraps",
+          "c": "celebrating Jewish festival in a foreign land",
+          "d": "praying three times daily for thirty days"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2012"
+      },
+      {
+        "id": 218,
+        "question": "Instead of being unnecessarily anxious about life and the affairs of this world, Jesus taught us to",
+        "option": {
+          "a": "relax our minds and wait for the manna from above",
+          "b": "seek first the kingdom of God and its righteousness",
+          "c": "seek water baptism and qualify for divine healing",
+          "d": "repent of our sins and preach the gospel."
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "wassce",
+        "examyear": "2005"
+      },
+      {
+        "id": 617,
+        "question": "‘... But let justice roll down like waters, and righteousness like an overflowing stream.’ Amos’ statement above suggests that the society was terribly",
+        "option": {
+          "a": "vindictive",
+          "b": "abusive",
+          "c": "oppressive",
+          "d": "destructive"
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2010"
+      },
+      {
+        "id": 434,
+        "question": "“Lord, I have heard from many about this man, how much evil he has done to thy saints at Jerusalem...” Ananias’ response above to God’s request for him to meet Saul shows that he",
+        "option": {
+          "a": "felt that Saul should not be forgiven",
+          "b": "felt that Saul should be punished",
+          "c": "was not interested in meeting Saul",
+          "d": "was afraid to meet Saul."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 315,
+        "question": "Nebuchadnezzar ordered his subjects to worship the image he set up whenever they",
+        "option": {
+          "a": "heard his voice",
+          "b": "saw him stand before the image",
+          "c": "heard the sound of the horn",
+          "d": "were told to do so."
+        },
+        "section": "",
+        "image": "",
+        "answer": "c",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 421,
+        "question": "‘‘... and many will rejoice at his birth; for he will be great before the Lord...” In the statement above, the angel made this pronouncement because of",
+        "option": {
+          "a": "Elizabeth’s disbelief because of her bareness",
+          "b": "Mary’s holy nature",
+          "c": "Zachariah’s fervent prayers",
+          "d": "Joseph’s hesitation to marry Mary."
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2013"
+      },
+      {
+        "id": 534,
+        "question": "For obeying His word, God rewarded Shiphrah and Puah with",
+        "option": {
+          "a": "families",
+          "b": "positions",
+          "c": "servants",
+          "d": "wealth"
+        },
+        "section": "",
+        "image": "",
+        "answer": "a",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      },
+      {
+        "id": 300,
+        "question": "When asked to interpret Pharaoh’s dream, Joseph’s first response was",
+        "option": {
+          "a": "...God has revealed to Pharaoh what he is about to do.",
+          "b": "...It is not in me; God will give Pharaoh a favourable answer.",
+          "c": "...God will shortly bring it to pass.",
+          "d": "…let Pharaoh select a man discrete and wise"
+        },
+        "section": "",
+        "image": "",
+        "answer": "b",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2011"
+      },
+      {
+        "id": 532,
+        "question": "According to Paul in Philippians, Jesus demonstrated humility when He",
+        "option": {
+          "a": "had pity on the possessed man",
+          "b": "likened Himself to God",
+          "c": "forgave those who crucified Him",
+          "d": "took the form of man"
+        },
+        "section": "",
+        "image": "",
+        "answer": "d",
+        "solution": "",
+        "examtype": "utme",
+        "examyear": "2015"
+      }
+    ]
+  }
+}
