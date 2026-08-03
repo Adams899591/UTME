@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useContext } from 'react';
 import {
   Text,
   View,
@@ -11,8 +11,11 @@ import {
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
+import {UserContext} from '../../context/UserContext';
+
 
 export default function ProfileScreen() {
+  const { user, setUser } = useContext(UserContext);
   const router = useRouter();
   
   // State for preference toggles
@@ -63,17 +66,27 @@ export default function ProfileScreen() {
           </View>
 
           <Text className="text-xl font-bold text-gray-900 mb-1">
-            Student User
+            {user.name}
           </Text>
           <Text className="text-xs text-gray-500 font-medium mb-3">
-            student.exam@example.com
+            {user.email}
           </Text>
 
-          <View className="bg-green-100/60 px-3 py-1 rounded-full">
-            <Text className="text-xs font-semibold text-green-700 tracking-wide">
-              PRO ACCOUNT • CBT CANDIDATE
-            </Text>
-          </View>
+         {user.payment_status === 'paid' ? (
+            <View className="bg-green-100/60 px-3 py-1 rounded-full">
+              <Text className="text-xs font-semibold text-green-700 tracking-wide">
+                PRO ACCOUNT • CBT CANDIDATE
+              </Text>
+            </View>
+          ) : (
+            <View className="bg-amber-100/60 px-3 py-1 rounded-full">
+              <Text className="text-xs font-semibold text-amber-700 tracking-wide">
+                FREE ACCOUNT • UPGRADE
+              </Text>
+            </View>
+          )} 
+
+
         </View>
 
         {/* Quick Stats Grid */}

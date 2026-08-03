@@ -15,7 +15,7 @@ class Accounting extends Model
      *
      * @var list<string>
      */
-    protected $garded = [];
+    protected $guarded = [];
 
     // If 'option' is stored as a JSON array in the database, 
     // cast it automatically so Laravel handles it properly:

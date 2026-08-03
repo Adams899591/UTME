@@ -1,4 +1,4 @@
-import React, { useRef, useEffect } from 'react';
+import React, { useRef, useEffect, useContext } from 'react';
 import {
   Text,
   View,
@@ -12,10 +12,12 @@ import {
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
+import {UserContext} from '../../context/UserContext';
 
 const { width } = Dimensions.get('window');
 const CARD_WIDTH = width * 0.85; 
 const SNAP_OFFSET = CARD_WIDTH + 16; // Card width + margin offset
+
 
 // Quick action items configuration
 const QUICK_ACTIONS = [
@@ -37,6 +39,7 @@ const PROMO_CARDS = [
 ];
 
 export default function HomeScreen() {
+  const { user, setUser } = useContext(UserContext);
   const router = useRouter();
   const flatListRef = useRef(null);
   const currentIndexRef = useRef(0);
@@ -94,7 +97,7 @@ export default function HomeScreen() {
               Dashboard
             </Text>
             <Text className="text-2xl font-bold text-gray-900 tracking-tight">
-              Welcome back, Student! 👋
+             {user.name}! 👋
             </Text>
           </View>
           
