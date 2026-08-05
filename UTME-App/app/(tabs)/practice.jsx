@@ -5,16 +5,23 @@ import {
   ScrollView,
   TouchableOpacity,
   StatusBar,
+  ActivityIndicator,
 } from 'react-native';
 import axios from 'axios';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
 import { UserContext } from '../../context/UserContext';
+import { UsePracticeStore } from '../../zustand/StorePraticalQuestions';
 
 export default function CourseSelectionScreen({ onStartPractice }) {
   const { user, setUser } = useContext(UserContext);
   const router = useRouter();
+  const setPracticeData = UsePracticeStore((state) => state.setPracticeData);
+
+  // States for loading and error handling
+  const [isLoading, setIsLoading] = useState(false);
+  const [errorMessage, setErrorMessage] = useState('');
 
   const availableCourses = [
   { id: 'bio', name: 'Biology', icon: 'leaf-outline', description: 'Cellular biology, genetics, and ecology' },
@@ -34,47 +41,29 @@ export default function CourseSelectionScreen({ onStartPractice }) {
   { id: 'civic', name: 'Civic Education', icon: 'ribbon-outline', description: 'Citizenship, human rights, and national values' },
   { id: 'curr', name: 'Current Affairs', icon: 'newspaper-outline', description: 'National and international news, politics, and events' }
   ];
-
-
-  
   
   const [selectedCourses, setSelectedCourses] = useState([]); 
 
-  // const handleCourseSelection = (courseName) => {
+  // Function to handle course selection and deselection 
+  const handleCourseSelection = (courseName) => {
+    // Clear error message when user makes changes
+    if (errorMessage) setErrorMessage('');
 
-  //   if (selectedCourses.includes(courseName)) {
-  //     setSelectedCourses(selectedCourses.filter(c => c !== courseName));
-  //   } else {
-  //     if (selectedCourses.length < 4) {
-  //       setSelectedCourses([...selectedCourses, courseName]);
-  //     }
-  //   }
-  // };
-
-
-  // function to handle coures selection and deselection 
-    const handleCourseSelection = (courseName) => {
-
-      
-    if (selectedCourses.includes(courseName)) { // Check if the course is already selected
+    if (selectedCourses.includes(courseName)) {
       console.log("Deselecting course:", courseName);
       setSelectedCourses(selectedCourses.filter(c => c !== courseName));
-
-
-    } else {  // Check if the maximum limit of 4 courses has been reached
+    } else {
       if (selectedCourses.length < 4) {
-         console.log("Selecting course:", courseName);
+        console.log("Selecting course:", courseName);
         setSelectedCourses([...selectedCourses, courseName]);
       }
     }
   };
 
-
-
-  const handleSubmition =  async () => {
-      console.log(`submited: ${selectedCourses.join(', ')}`);
-      
-
+  // This function sends request to laravel backend to fetch practical questions
+  const fetchPraticalQuestions = async () => {
+    setErrorMessage('');
+    setIsLoading(true);
 
     try {
       const response = await axios.post(`${process.env.EXPO_PUBLIC_API_URL}/user/practice/${user.id}`, {
@@ -85,8 +74,8 @@ export default function CourseSelectionScreen({ onStartPractice }) {
 
       if (res.status === 'success') {
         console.log(JSON.stringify(res.data, null, 2));
-        
-        //  router.push('/screen/overview-screen');
+        setPracticeData(res.data, selectedCourses);
+        router.push('/screen/overview-screen');
       }
     } catch (error) { 
       if (error.request && !error.response) {
@@ -94,33 +83,17 @@ export default function CourseSelectionScreen({ onStartPractice }) {
           'Network Error: Could not connect to the server. Please check your internet connection.'
         );
       } else if (error.response) {
-        const apiError = error.response.data?.message || 'Invalid email or password.';
+        const apiError = error.response.data?.message || 'Invalid request configuration.';
         setErrorMessage(apiError);
       } else {
-        setErrorMessage('An unexpected error occurred during login.');
+        setErrorMessage('An unexpected error occurred during practice setup.');
       }
     } finally {
-      // setLoading(false);
+      setIsLoading(false);
     }
+  };
 
-
-
-
-
-
-
-
-
-    
-
-
-
-  }
-
-
-
-
-  const isButtonEnabled = selectedCourses.length > 0;
+  const isButtonEnabled = selectedCourses.length > 0 && !isLoading;
 
   return (
     <SafeAreaView className="flex-1 bg-white">
@@ -145,6 +118,16 @@ export default function CourseSelectionScreen({ onStartPractice }) {
             Choose up to 4 subjects you want to practice for your upcoming examination.
           </Text>
         </View>
+
+        {/* Error Message Banner Section */}
+        {errorMessage ? (
+          <View className="mb-4 bg-red-50 border border-red-200 rounded-xl p-3.5 flex-row items-center">
+            <Ionicons name="alert-circle-outline" size={20} color="#dc2626" style={{ marginRight: 8 }} />
+            <Text className="text-xs text-red-700 flex-1 font-medium leading-relaxed">
+              {errorMessage}
+            </Text>
+          </View>
+        ) : null}
 
         {/* Counter Badge */}
         <View className="mb-4 flex-row justify-between items-center">
@@ -226,28 +209,33 @@ export default function CourseSelectionScreen({ onStartPractice }) {
               if (onStartPractice) {
                 onStartPractice(selectedCourses);
               } else {
-                handleSubmition();
+                fetchPraticalQuestions();
               }
-            }}}
+            }
+          }}
           className={`w-full h-14 rounded-2xl flex-row justify-center items-center shadow-lg shadow-green-600/20 ${
             isButtonEnabled ? 'bg-green-600' : 'bg-gray-300'
           }`}
         >
-          <Ionicons 
-            name="play-circle-outline" 
-            size={20} 
-            color="#ffffff" 
-            style={{ marginRight: 8, opacity: isButtonEnabled ? 1 : 0.7 }} 
-          />
-          <Text className="text-base font-bold text-white">
-            {isButtonEnabled 
-              ? `Start Practice (${selectedCourses.length} Subject${selectedCourses.length > 1 ? 's' : ''})` 
-              : 'Select at least 1 course to start'}
-          </Text>
+          {isLoading ? (
+            <ActivityIndicator size="small" color="#ffffff" />
+          ) : (
+            <>
+              <Ionicons 
+                name="play-circle-outline" 
+                size={20} 
+                color="#ffffff" 
+                style={{ marginRight: 8, opacity: isButtonEnabled ? 1 : 0.7 }} 
+              />
+              <Text className="text-base font-bold text-white">
+                {selectedCourses.length > 0
+                  ? `Start Practice (${selectedCourses.length} Subject${selectedCourses.length > 1 ? 's' : ''})` 
+                  : 'Select at least 1 course to start'}
+              </Text>
+            </>
+          )}
         </TouchableOpacity>
       </View>
     </SafeAreaView>
   );
 }
-
-
