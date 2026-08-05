@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useContext, useState } from 'react';
 import {
   Text,
   View,
@@ -6,11 +6,14 @@ import {
   TouchableOpacity,
   StatusBar,
 } from 'react-native';
+import axios from 'axios';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
+import { UserContext } from '../../context/UserContext';
 
 export default function CourseSelectionScreen({ onStartPractice }) {
+  const { user, setUser } = useContext(UserContext);
   const router = useRouter();
 
   const availableCourses = [
@@ -31,18 +34,91 @@ export default function CourseSelectionScreen({ onStartPractice }) {
   { id: 'civic', name: 'Civic Education', icon: 'ribbon-outline', description: 'Citizenship, human rights, and national values' },
   { id: 'curr', name: 'Current Affairs', icon: 'newspaper-outline', description: 'National and international news, politics, and events' }
   ];
+
+
+  
   
   const [selectedCourses, setSelectedCourses] = useState([]); 
 
-  const handleCourseSelection = (courseName) => {
-    if (selectedCourses.includes(courseName)) {
+  // const handleCourseSelection = (courseName) => {
+
+  //   if (selectedCourses.includes(courseName)) {
+  //     setSelectedCourses(selectedCourses.filter(c => c !== courseName));
+  //   } else {
+  //     if (selectedCourses.length < 4) {
+  //       setSelectedCourses([...selectedCourses, courseName]);
+  //     }
+  //   }
+  // };
+
+
+  // function to handle coures selection and deselection 
+    const handleCourseSelection = (courseName) => {
+
+      
+    if (selectedCourses.includes(courseName)) { // Check if the course is already selected
+      console.log("Deselecting course:", courseName);
       setSelectedCourses(selectedCourses.filter(c => c !== courseName));
-    } else {
+
+
+    } else {  // Check if the maximum limit of 4 courses has been reached
       if (selectedCourses.length < 4) {
+         console.log("Selecting course:", courseName);
         setSelectedCourses([...selectedCourses, courseName]);
       }
     }
   };
+
+
+
+  const handleSubmition =  async () => {
+      console.log(`submited: ${selectedCourses.join(', ')}`);
+      
+
+
+    try {
+      const response = await axios.post(`${process.env.EXPO_PUBLIC_API_URL}/user/practice/${user.id}`, {
+        selectedCourses: selectedCourses
+      });
+
+      const res = response.data;
+
+      if (res.status === 'success') {
+        console.log(JSON.stringify(res.data, null, 2));
+        
+        //  router.push('/screen/overview-screen');
+      }
+    } catch (error) { 
+      if (error.request && !error.response) {
+        setErrorMessage(
+          'Network Error: Could not connect to the server. Please check your internet connection.'
+        );
+      } else if (error.response) {
+        const apiError = error.response.data?.message || 'Invalid email or password.';
+        setErrorMessage(apiError);
+      } else {
+        setErrorMessage('An unexpected error occurred during login.');
+      }
+    } finally {
+      // setLoading(false);
+    }
+
+
+
+
+
+
+
+
+
+    
+
+
+
+  }
+
+
+
 
   const isButtonEnabled = selectedCourses.length > 0;
 
@@ -150,10 +226,9 @@ export default function CourseSelectionScreen({ onStartPractice }) {
               if (onStartPractice) {
                 onStartPractice(selectedCourses);
               } else {
-                router.push('/screen/overview-screen');
+                handleSubmition();
               }
-            }
-          }}
+            }}}
           className={`w-full h-14 rounded-2xl flex-row justify-center items-center shadow-lg shadow-green-600/20 ${
             isButtonEnabled ? 'bg-green-600' : 'bg-gray-300'
           }`}
