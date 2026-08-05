@@ -191,13 +191,14 @@ export default function CBTResultScreen() {
   // Pull practice questions, current courses, and user answers from Zustand
   const { practiceQuestions, currentCourses, userAnswers } = UsePracticeStore();
 
+ 
+
   // Calculate scores and subject breakdown dynamically
   const examResult = useMemo(() => {
     let totalScore = 0;
     let totalQuestionsCount = 0;
     const subjectsMap = {};
 
-    // Initialize subject containers
     currentCourses.forEach((course) => {
       subjectsMap[course] = {
         name: course,
@@ -207,26 +208,25 @@ export default function CBTResultScreen() {
       };
     });
 
-    // Loop through each course and grade the user's answers
     currentCourses.forEach((course) => {
       const courseQuestions = practiceQuestions[course] || [];
       subjectsMap[course].total = courseQuestions.length;
       totalQuestionsCount += courseQuestions.length;
 
       courseQuestions.forEach((q) => {
-        const userAnswer = userAnswers[q.id]; // e.g. 'a', 'b', 'c', or 'd'
+        const userAnswer = userAnswers[q.id]; // e.g., 'a', 'b', 'c', 'd' from Zustand
         
-        // Handle different ways Laravel might name the correct answer property
-        const correctAnswer = (q.correctAnswer || q.correct || '').trim().toLowerCase();
+        // FIX: Your Laravel API uses "answer" (e.g., "b")
+        const correctAnswer = (q.answer || q.correctAnswer || q.correct || '').trim().toLowerCase();
         const formattedUserAnswer = (userAnswer || '').trim().toLowerCase();
 
+        // Compare user's picked option against Laravel's "answer" key
         if (formattedUserAnswer && formattedUserAnswer === correctAnswer) {
           totalScore += 1;
           subjectsMap[course].score += 1;
         }
       });
 
-      // Calculate percentage for this subject
       const subTotal = subjectsMap[course].total;
       subjectsMap[course].percentage = subTotal > 0 
         ? Math.round((subjectsMap[course].score / subTotal) * 100) 
@@ -241,10 +241,13 @@ export default function CBTResultScreen() {
       totalScore,
       maxScore: totalQuestionsCount,
       percentage: totalPercentage,
-      passed: totalPercentage >= 50, // Pass mark set to 50%
+      passed: totalPercentage >= 50,
       subjects: Object.values(subjectsMap),
     };
   }, [practiceQuestions, currentCourses, userAnswers]);
+
+
+
 
   return (
     <SafeAreaView className="flex-1 bg-gray-50">
@@ -344,6 +347,18 @@ export default function CBTResultScreen() {
 
         {/* Action Buttons */}
         <View>
+
+          <TouchableOpacity
+            activeOpacity={0.8}
+            onPress={() => router.push('/screen/review-answers-screen')}
+            className="w-full h-14 rounded-2xl bg-white border border-gray-200 flex-row justify-center items-center shadow-sm mb-3"
+          >
+            <Ionicons name="eye-outline" size={18} color="#374151" style={{ marginRight: 8 }} />
+            <Text className="text-sm font-bold text-gray-700">
+              Review Detailed Answers
+            </Text>
+          </TouchableOpacity>
+
           <TouchableOpacity
             activeOpacity={0.8}
             onPress={() => router.replace('/home')}
