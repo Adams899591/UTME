@@ -1,124 +1,5 @@
 <?php
 
-// namespace App\Http\Controllers\User;
-
-// use App\Http\Controllers\Controller;
-// use App\Models\User;
-// use Illuminate\Http\Request;
-// use Illuminate\Support\Facades\Log;
-
-// class PracticeController extends Controller
-// {
-    
-//    function fetchedPracticeCources(Request $request, $userId){
-
-//         // Log::info($request->selectedCourses);
-
-
-//         $user = User::find($userId);
-//         if (!$user) {
-//             return response()->json(['status' => 'error', 'message' => 'User not found'], 401);
-//         }
-
-//         if (!is_array($request->selectedCourses)) {
-//             return response()->json(['status' => 'error', 'message' => 'Invalid selectedCourses format'], 400);
-//         }
-
-
-//         // if ($user->payment_status != "paid") {
-           
-//         // }
-
-        
-//        foreach ($request->selectedCourses as $course) {
-//            Log::info("Selected Course: " . $course);
-//        }
-
-
-
-
-
-
-
-//    }
-// }
-
-
-
-
-
-
-// namespace App\Http\Controllers\User;
-
-// use App\Http\Controllers\Controller;
-// use App\Models\User;
-// use Illuminate\Http\Request;
-// use Illuminate\Support\Facades\DB;
-// use Illuminate\Support\Facades\Log;
-
-// class PracticeController extends Controller
-// {
-//     public function fetchedPracticeCources(Request $request, $userId)
-//     {
-//         $user = User::find($userId);
-//         if (!$user) {
-//             return response()->json(['status' => 'error', 'message' => 'User not found'], 401);
-//         }
-
-//         if (!is_array($request->selectedCourses)) {
-//             return response()->json(['status' => 'error', 'message' => 'Invalid selectedCourses format'], 400);
-//         }
-
-//         $allQuestions = [];
-
-//         foreach ($request->selectedCourses as $course) {
-//             Log::info("Selected Course: " . $course);
-
-//             // 1. Map the course name to the correct database table
-//             $tableName = $this->getTableNameForCourse($course);
-
-//             if (!$tableName) {
-//                 // Skip or log if an unknown course is passed
-//                 continue;
-//             }
-
-//             // 2. Fetch 20 questions from the respective table
-//             // UseinRandomOrder() can be omitted if you want the first 20 sequentially
-//             $questions = DB::table($tableName)
-//                 ->inRandomOrder() 
-//                 ->limit(20)
-//                 ->get();
-
-//             // 3. Store them grouped by course name
-//             $allQuestions[$course] = $questions;
-//         }
-
-//         // Return the combined questions back to the client
-//         return response()->json([
-//             'status' => 'success',
-//             'data' => $allQuestions
-//         ], 200);
-//     }
-
-//     /**
-//      * Helper function to map course names to their respective tables.
-//      */
-//     private function getTableNameForCourse($course)
-//     {
-//         return match (strtolower(trim($course))) {
-//             'biology' => 'biology_questions',
-//             'chemistry' => 'chemistry_questions',
-//             'physics' => 'physics_questions',
-//             'english language' => 'english_questions',
-//             'government' => 'government_questions',
-//             default => null, // Fallback if table doesn't exist
-//         };
-//     }
-// }
-
-
-
-
 namespace App\Http\Controllers\User;
 
 use App\Http\Controllers\Controller;
@@ -176,8 +57,8 @@ class PracticeController extends Controller
             // 3. Store them grouped by course name
             $allQuestions[$course] = $questions;
             
-            Log::info("000000000000000000000000000");
-            Log::info($allQuestions[$course]);
+            // Log::info("000000000000000000000000000");
+            // Log::info($allQuestions[$course]);
         }
 
         return response()->json([
