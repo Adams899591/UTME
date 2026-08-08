@@ -90,7 +90,7 @@ export default function ProfileScreen() {
         </View>
 
         {/* Quick Stats Grid */}
-        <View className="flex-row justify-between mb-8">
+        {/* <View className="flex-row justify-between mb-8">
           <View className="w-[31%] bg-gray-50 border border-gray-100 rounded-2xl p-4 items-center shadow-sm">
             <Text className="text-lg font-bold text-gray-900 mb-0.5">48</Text>
             <Text className="text-[10px] uppercase font-semibold text-gray-400">Tests Done</Text>
@@ -103,16 +103,16 @@ export default function ProfileScreen() {
             <Text className="text-lg font-bold text-gray-900 mb-0.5">14 Days</Text>
             <Text className="text-[10px] uppercase font-semibold text-gray-400">Streak</Text>
           </View>
-        </View>
+        </View> */}
 
         {/* Preferences & Notifications */}
-        <View className="mb-6">
+        {/* <View className="mb-6">
           <Text className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-3">
             Preferences
           </Text>
 
           <View className="bg-gray-50 border border-gray-100 rounded-2xl overflow-hidden shadow-sm">
-            {/* Notifications Toggle */}
+            Notifications Toggle
             <View className="flex-row items-center justify-between p-4">
               <View className="flex-row items-center">
                 <View className="w-9 h-9 rounded-xl bg-green-50 justify-center items-center mr-3">
@@ -128,7 +128,7 @@ export default function ProfileScreen() {
               />
             </View>
           </View>
-        </View>
+        </View> */}
 
         {/* Support & About List */}
         <View className="mb-8">
@@ -139,7 +139,7 @@ export default function ProfileScreen() {
           <View className="bg-gray-50 border border-gray-100 rounded-2xl overflow-hidden shadow-sm">
             
             {/* Help & FAQs */}
-            <TouchableOpacity 
+            {/* <TouchableOpacity 
               activeOpacity={0.7}
               onPress={() => router.push('/help')}
               className="flex-row items-center justify-between p-4 border-b border-gray-100"
@@ -151,7 +151,7 @@ export default function ProfileScreen() {
                 <Text className="text-sm font-semibold text-gray-800">Help Center</Text>
               </View>
               <Ionicons name="chevron-forward" size={18} color="#9ca3af" />
-            </TouchableOpacity>
+            </TouchableOpacity> */}
 
             {/* Privacy Policy */}
             <TouchableOpacity 

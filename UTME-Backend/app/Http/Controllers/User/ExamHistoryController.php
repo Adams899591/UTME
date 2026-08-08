@@ -17,7 +17,7 @@ class ExamHistoryController extends Controller
             return response()->json(['status' => 'error', 'message' => 'User not found'], 401);
         }
 
-        $userHistory = ExamHistory::where('user_id', $userId)->get();
+        $userHistory = ExamHistory::where('user_id', $userId)->latest()->get();
        
             return response()->json([
                 'status' => 'success', 

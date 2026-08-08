@@ -37,21 +37,21 @@ class DatabaseSeeder extends Seeder
 
         $this->call([
             ChemistrySeeder::class, // Add your seeder here
-            AccountingSeeder::class,
-            BiologySeeder::class,
-            CivilEducationSeeder::class,
-            CommerceSeeder::class,
-            CRKSeeder::class,
-            CurrentAffairSeeder::class,
-            EconomicSeeder::class,
-            EnglishSeeder::class,
-            EnglishLitSeeder::class,
-            GeographySeeder::class,
-            GovernmentSeeder::class,
-            HistorySeeder::class,
-            IRKSeeder::class,
-            MathematicsSeeder::class,
-            PhysicsSeeder::class,
+            // AccountingSeeder::class,
+            // BiologySeeder::class,
+            // CivilEducationSeeder::class,
+            // CommerceSeeder::class,
+            // CRKSeeder::class,
+            // CurrentAffairSeeder::class,
+            // EconomicSeeder::class,
+            // EnglishSeeder::class,
+            // EnglishLitSeeder::class,
+            // GeographySeeder::class,
+            // GovernmentSeeder::class,
+            // HistorySeeder::class,
+            // IRKSeeder::class,
+            // MathematicsSeeder::class,
+            // PhysicsSeeder::class,
         ]);
 
 

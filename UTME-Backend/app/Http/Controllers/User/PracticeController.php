@@ -49,10 +49,20 @@ class PracticeController extends Controller
                 continue;
             }
 
-            // 2. Fetch 20 random records using the Eloquent Model
-            $questions = $modelClass::inRandomOrder()
-                ->limit(2)
-                ->get();
+            if ($user->payment_status == "paid") {  
+                // 2. Fetch 20 random records using the Eloquent Model
+                $questions = $modelClass::inRandomOrder()
+                    ->limit(20)
+                    ->get();
+            }else {
+                // Fetch the first 10 questions sequentially using the Eloquent Model
+                $questions = $modelClass::orderBy('id', 'desc')
+                    ->limit(10)
+                    ->get();
+            }
+
+
+
 
             // 3. Store them grouped by course name
             $allQuestions[$course] = $questions;

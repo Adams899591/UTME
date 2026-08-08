@@ -19,10 +19,10 @@ export default function PaymentScreen() {
 
   // Bank & Account Details
   const bankName = 'OPay Digital Services';
-  const accountNumber = '79018827571';
-  const accountName = 'CBT Exam Prep Official';
+  const accountNumber = '9138011971';
+  const accountName = 'Usman Adams';
   const amount = '₦2,500';
-  const whatsappNumber = '+23479018827571'; // WhatsApp contact format
+  const whatsappNumber = '+2349018827571'; // WhatsApp contact format
 
   const handleCopyAccount = () => {
     Clipboard.setString(accountNumber);

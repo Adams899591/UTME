@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useContext } from 'react';
 import {
   Text,
   View,
@@ -6,45 +6,95 @@ import {
   TouchableOpacity,
   StatusBar,
   Dimensions,
+  ActivityIndicator,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
 import { BarChart } from 'react-native-gifted-charts';
+import axios from 'axios';
+import { UserContext } from '../../context/UserContext';
 
 export default function AnalysisScreen() {
   const router = useRouter();
-    // TOGGLE STATE: Change this to true to see the unlocked history view, or false to see the paywall banner
-    const [isSubscribed, setIsSubscribed] = useState(true);
+  const { user } = useContext(UserContext);
 
-  // Screen width calculation for responsive chart sizing
+  const [isSubscribed, setIsSubscribed] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
+
+  const [totalExams, setTotalExams] = useState(0);
+  const [passedExams, setPassedExams] = useState(0);
+  const [failedExams, setFailedExams] = useState(0);
+
   const screenWidth = Dimensions.get('window').width;
 
-  // Data for the Bar Chart
-  // value: height of the bar, frontColor: bar color, label: text under the bar
+  useEffect(() => {
+    if (user?.payment_status === 'paid') {
+      setIsSubscribed(true);
+    } else {
+      setIsSubscribed(false);
+    }
+  }, [user]);
+
+  useEffect(() => {
+    const fetchAnalysis = async () => {
+      if (!user?.id) {
+        setIsLoading(false);
+        return;
+      }
+      
+      try {
+        const response = await axios.post(`${process.env.EXPO_PUBLIC_API_URL}/user/alalysis/${user.id}`);
+        const res = response.data;
+
+        if (res.status === 'success') {
+          setTotalExams(res.totalExam); 
+          setPassedExams(res.passedExam);
+          setFailedExams(res.failedExam);
+        }
+      } catch (error) {
+        console.error('Error fetching analysis history:', error);
+      } finally {
+        setIsLoading(false);
+      }
+    };   
+
+    fetchAnalysis();
+  }, [user]);
+
+  // EARLY RETURN FOR LOADING: This returns standalone without executing the rest of the UI tree
+  if (isLoading) {
+    return (
+      <SafeAreaView className="flex-1 bg-gray-50 justify-center items-center">
+        <ActivityIndicator size="large" color="#2563eb" />
+        <Text className="text-xs text-gray-500 mt-3 font-medium">Loading your performance analytics...</Text>
+      </SafeAreaView>
+    );
+  }
+
   const barData = [
     {
-      value: 14,
-      label: 'Passed Courses',
-      frontColor: '#16a34a', // Green
+      value: totalExams,
+      label: 'total Exams',
+      frontColor: '#16a34a',
       topLabelComponent: () => (
-        <Text style={{ color: '#16a34a', fontSize: 12, fontWeight: 'bold', marginBottom: 4 }}>14</Text>
+        <Text style={{ color: '#16a34a', fontSize: 12, fontWeight: 'bold', marginBottom: 4 }}>{totalExams}</Text>
       ),
     },
     {
-      value: 22,
+      value: passedExams,
       label: 'Passed Exams',
-      frontColor: '#2563eb', // Blue
+      frontColor: '#2563eb',
       topLabelComponent: () => (
-        <Text style={{ color: '#2563eb', fontSize: 12, fontWeight: 'bold', marginBottom: 4 }}>22</Text>
+        <Text style={{ color: '#2563eb', fontSize: 12, fontWeight: 'bold', marginBottom: 4 }}>{passedExams}</Text>
       ),
     },
     {
-      value: 6,
+      value: failedExams,
       label: 'Failed Exams',
-      frontColor: '#dc2626', // Red
+      frontColor: '#dc2626',
       topLabelComponent: () => (
-        <Text style={{ color: '#dc2626', fontSize: 12, fontWeight: 'bold', marginBottom: 4 }}>6</Text>
+        <Text style={{ color: '#dc2626', fontSize: 12, fontWeight: 'bold', marginBottom: 4 }}>{failedExams}</Text>
       ),
     },
   ];
@@ -57,7 +107,7 @@ export default function AnalysisScreen() {
       <View className="px-6 py-4 flex-row justify-between items-center bg-white border-b border-gray-100">
         <View className="flex-row items-center">
           <TouchableOpacity 
-            onPress={() => router.back()}
+            onPress={() => router.canGoBack() && router.back()}
             className="w-9 h-9 rounded-xl bg-gray-100 justify-center items-center mr-3"
           >
             <Ionicons name="arrow-back" size={20} color="#374151" />
@@ -70,20 +120,12 @@ export default function AnalysisScreen() {
         </View>
       </View>
 
-
-
-      {/* Main Content Area */}
       <ScrollView 
         className="flex-1 px-6 pt-6" 
         showsVerticalScrollIndicator={false}
         contentContainerStyle={{ paddingBottom: 40 }}
       >
-
-
-
-        {/* CONDITIONAL RENDERING BASED ON SUBSCRIPTION STATE */}
         {!isSubscribed ? (
-          /* PAYWALL BANNER (Shown when user has NOT paid) */
           <View className="bg-amber-50 border border-amber-200 rounded-3xl p-5 mb-6 shadow-sm">
             <View className="flex-row items-start mb-3">
               <View className="w-10 h-10 rounded-xl bg-amber-100 justify-center items-center mr-3.5">
@@ -95,7 +137,7 @@ export default function AnalysisScreen() {
                 </Text>
                 <Text className="text-xs leading-relaxed text-amber-800">
                    You need to upgrade to the paid plan to access in-depth performance analysis, charts, and detailed statistics on your passed and failed exams.     
-               </Text>
+                </Text>
               </View>
             </View>
 
@@ -110,96 +152,86 @@ export default function AnalysisScreen() {
               </Text>
             </TouchableOpacity>
           </View>
-      ):(
-        /* UNLOCKED HISTORY LIST (Shown when user IS subscribed) */
-        <>
-
-          {/* Top Summary Cards Grid */}
-          <View className="flex-row justify-between mb-6">
-            {/* Passed Courses Card */}
-            <View className="flex-1 bg-white p-4 rounded-3xl border border-gray-200 mr-2 shadow-sm">
-              <View className="w-8 h-8 rounded-xl bg-green-50 justify-center items-center mb-2 border border-green-100">
-                <Ionicons name="book-outline" size={16} color="#16a34a" />
+        ) : (
+          <>
+            <View className="flex-row justify-between mb-6">
+              <View className="flex-1 bg-white p-4 rounded-3xl border border-gray-200 mr-2 shadow-sm">
+                <View className="w-8 h-8 rounded-xl bg-green-50 justify-center items-center mb-2 border border-green-100">
+                  <Ionicons name="book-outline" size={16} color="#16a34a" />
+                </View>
+                <Text className="text-2xl font-extrabold text-gray-900">{totalExams}</Text>
+                <Text className="text-[11px] font-semibold text-gray-400 uppercase tracking-wider">Passed Courses</Text>
               </View>
-              <Text className="text-2xl font-extrabold text-gray-900">14</Text>
-              <Text className="text-[11px] font-semibold text-gray-400 uppercase tracking-wider">Passed Courses</Text>
-            </View>
 
-            {/* Passed Sessions Card */}
-            <View className="flex-1 bg-white p-4 rounded-3xl border border-gray-200 mx-1 shadow-sm">
-              <View className="w-8 h-8 rounded-xl bg-blue-50 justify-center items-center mb-2 border border-blue-100">
-                <Ionicons name="checkmark-circle-outline" size={16} color="#2563eb" />
+              <View className="flex-1 bg-white p-4 rounded-3xl border border-gray-200 mx-1 shadow-sm">
+                <View className="w-8 h-8 rounded-xl bg-blue-50 justify-center items-center mb-2 border border-blue-100">
+                  <Ionicons name="checkmark-circle-outline" size={16} color="#2563eb" />
+                </View>
+                <Text className="text-2xl font-extrabold text-gray-900">{passedExams}</Text>
+                <Text className="text-[11px] font-semibold text-gray-400 uppercase tracking-wider">Passed Exams</Text>
               </View>
-              <Text className="text-2xl font-extrabold text-gray-900">22</Text>
-              <Text className="text-[11px] font-semibold text-gray-400 uppercase tracking-wider">Passed Exams</Text>
-            </View>
 
-            {/* Failed Sessions Card */}
-            <View className="flex-1 bg-white p-4 rounded-3xl border border-gray-200 ml-2 shadow-sm">
-              <View className="w-8 h-8 rounded-xl bg-red-50 justify-center items-center mb-2 border border-red-100">
-                <Ionicons name="close-circle-outline" size={16} color="#dc2626" />
+              <View className="flex-1 bg-white p-4 rounded-3xl border border-gray-200 ml-2 shadow-sm">
+                <View className="w-8 h-8 rounded-xl bg-red-50 justify-center items-center mb-2 border border-red-100">
+                  <Ionicons name="close-circle-outline" size={16} color="#dc2626" />
+                </View>
+                <Text className="text-2xl font-extrabold text-gray-900">{failedExams}</Text>
+                <Text className="text-[11px] font-semibold text-gray-400 uppercase tracking-wider">Failed Exams</Text>
               </View>
-              <Text className="text-2xl font-extrabold text-gray-900">6</Text>
-              <Text className="text-[11px] font-semibold text-gray-400 uppercase tracking-wider">Failed Exams</Text>
-            </View>
-          </View>
-
-          {/* BARCHART CONTAINER CARD */}
-          <View className="bg-white rounded-3xl p-5 mb-6 border border-gray-200 shadow-sm">
-            <View className="mb-6">
-              <Text className="text-base font-bold text-gray-900 mb-1">
-                Overview Statistics Bar Chart
-              </Text>
-              <Text className="text-xs text-gray-500">
-                Visual comparison between total passed courses, passed test attempts, and failed logs.
-              </Text>
             </View>
 
-            {/* Bar Chart Component */}
-            <View className="items-center py-2">
-              <BarChart
-                data={barData}
-                barWidth={45}
-                noOfSections={4}
-                spacing={35}
-                roundedTop
-                roundedBottom={false}
-                hideRules={false}
-                xAxisThickness={1}
-                yAxisThickness={1}
-                yAxisTextStyle={{ color: '#6b7280', fontSize: 10 }}
-                xAxisLabelTextStyle={{ color: '#374151', fontSize: 10, fontWeight: '600' }}
-                stepValue={6}
-                maxValue={24}
-                initialSpacing={20}
-                isAnimated
-              />
-            </View>
-          </View>
-
-          {/* Detailed Insights Breakdown Box */}
-          <View className="bg-amber-50 border border-amber-200 rounded-3xl p-5 shadow-sm">
-            <View className="flex-row items-start">
-              <View className="w-8 h-8 rounded-xl bg-amber-100 justify-center items-center mr-3 mt-0.5">
-                <Ionicons name="analytics-outline" size={18} color="#d97706" />
-              </View>
-              <View className="flex-1">
-                <Text className="text-sm font-bold text-amber-900 mb-1">
-                  Performance Summary Tip
+            <View className="bg-white rounded-3xl p-5 mb-6 border border-gray-200 shadow-sm">
+              <View className="mb-6">
+                <Text className="text-base font-bold text-gray-900 mb-1">
+                  Overview Statistics Bar Chart
                 </Text>
-                <Text className="text-xs leading-relaxed text-amber-800">
-                  You have an overall pass rate of approximately 78.5% across all recorded CBT tests. Keep practicing your weak subjects to improve further!
+                <Text className="text-xs text-gray-500">
+                  Visual comparison between total passed courses, passed test attempts, and failed logs.
                 </Text>
               </View>
-            </View>
-          </View>
 
-        </>
-      )}
+              {/* Added horizontal ScrollView wrapper to prevent layout overflow */}
+              <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ paddingHorizontal: 4 }}>
+                <View className="items-center py-2">
+                  <BarChart
+                    data={barData}
+                    barWidth={45}
+                    noOfSections={4}
+                    spacing={35}
+                    roundedTop
+                    roundedBottom={false}
+                    hideRules={false}
+                    xAxisThickness={1}
+                    yAxisThickness={1}
+                    yAxisTextStyle={{ color: '#6b7280', fontSize: 10 }}
+                    xAxisLabelTextStyle={{ color: '#374151', fontSize: 10, fontWeight: '600' }}
+                    stepValue={6}
+                    maxValue={Math.max(30, totalExams, passedExams, failedExams) + 6}
+                    initialSpacing={20}
+                    isAnimated
+                  />
+                </View>
+              </ScrollView>
+            </View>
+
+            <View className="bg-amber-50 border border-amber-200 rounded-3xl p-5 shadow-sm">
+              <View className="flex-row items-start">
+                <View className="w-8 h-8 rounded-xl bg-amber-100 justify-center items-center mr-3 mt-0.5">
+                  <Ionicons name="analytics-outline" size={18} color="#d97706" />
+                </View>
+                <View className="flex-1">
+                  <Text className="text-sm font-bold text-amber-900 mb-1">
+                    Performance Summary Tip
+                  </Text>
+                  <Text className="text-xs leading-relaxed text-amber-800">
+                    Keep practicing your weak subjects to improve your overall pass rate across all recorded CBT tests further!
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </>
+        )}
       </ScrollView>
-
-
-
     </SafeAreaView>
   );
 }

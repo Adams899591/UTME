@@ -6,6 +6,7 @@ import {
   TouchableOpacity,
   StatusBar,
   Image,
+  ActivityIndicator,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
@@ -13,15 +14,37 @@ import { useRouter } from 'expo-router';
 import { UsePracticeStore } from '../../zustand/StorePraticalQuestions'; // Adjust path if needed
 import { UserContext } from '../../context/UserContext';
 import axios from 'axios';
+import RenderHtml from 'react-native-render-html';
+import { useWindowDimensions } from 'react-native';
 
 export default function CBTExamScreen() {
-    const { user, setUser } = useContext(UserContext);
+  const { user, setUser } = useContext(UserContext);
+  const [isSubscribed, setIsSubscribed] = useState(false);
   const router = useRouter();
-  
+  const { width } = useWindowDimensions();
   // Pull data and actions from Zustand store
-  // const { practiceQuestions, currentCourses, userAnswers, setUserAnswer } = UsePracticeStore();
-  // Change this line (around line 14):
   const { practiceQuestions, currentCourses, userAnswers, setUserAnswer, startTime } = UsePracticeStore();
+
+  const [isSubmitting, setIsSubmitting] = useState(false);
+
+  useEffect(() => {
+    if (user?.payment_status === 'paid') {
+      setIsSubscribed(true);
+    } else {
+      setIsSubscribed(false);
+    }
+  }, [user]);
+
+
+  // Helper function to unescape unicode characters and format HTML tags safely
+  const cleanHtmlContent = (htmlString) => {
+    if (!htmlString) return '';
+    return htmlString
+      .replace(/\\u003C/g, '<')
+      .replace(/\\u003E/g, '>')
+      .replace(/\\u0026/g, '&')
+      .replace(/\\n/g, '<br/>');
+  };
 
   // 1. Flatten questions from the grouped Zustand object into a single array for pagination
   const questions = React.useMemo(() => {
@@ -40,6 +63,63 @@ export default function CBTExamScreen() {
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [timeLeft, setTimeLeft] = useState(questions.length * 60); // 1 minute per question dynamically
+
+  // Core submission function that can be triggered by user action or auto-timeout
+  const submitExam = async () => {
+    if (isSubmitting) return; // Prevent duplicate submissions
+    setIsSubmitting(true);
+    console.log("Submitting exam and navigating to results...");
+    try {
+      // Calculate duration and compile exam data payload for Laravel
+      const timeSpentSeconds = startTime ? Math.floor((Date.now() - startTime) / 1000) : 0;
+      
+      // Compute metrics required for Laravel history log
+      let totalScore = 0;
+      let totalQuestionsCount = questions.length;
+      const subjectsMap = {};
+
+      currentCourses.forEach((course) => {
+        subjectsMap[course] = { name: course, score: 0, total: 0 };
+      });
+
+      questions.forEach((q) => {
+        if (!subjectsMap[q.subject]) {
+          subjectsMap[q.subject] = { name: q.subject, score: 0, total: 0 };
+        }
+        subjectsMap[q.subject].total += 1;
+
+        const userAnswer = userAnswers[q.id];
+        const correctAnswer = (q.answer || q.correctAnswer || q.correct || '').trim().toLowerCase();
+        const formattedUserAnswer = (userAnswer || '').trim().toLowerCase();
+
+        if (formattedUserAnswer && formattedUserAnswer === correctAnswer) {
+          totalScore += 1;
+          subjectsMap[q.subject].score += 1;
+        }
+      });
+
+      const totalPercentage = totalQuestionsCount > 0 ? Math.round((totalScore / totalQuestionsCount) * 100) : 0;
+ 
+      if (isSubscribed) {  // only send response to laravel only if the user has paid
+
+          await axios.post(`${process.env.EXPO_PUBLIC_API_URL}/user/save-exam-history/${user.id}`, {
+            totalScore: totalScore,
+            maxScore: totalQuestionsCount,
+            percentage: totalPercentage,
+            passed: totalPercentage >= 50,
+            timeSpentSeconds,
+            subjects: Object.values(subjectsMap),
+            userAnswers: userAnswers,
+          });
+
+      }
+      
+      router.replace('/screen/result-screen');
+    } catch (error) {
+      console.log("Submission error:", error);
+      setIsSubmitting(false);
+    }
+  };
 
   // Safety check if questions array is empty
   if (questions.length === 0) {
@@ -72,10 +152,17 @@ export default function CBTExamScreen() {
       }))
     : [];
 
-  // Countdown Timer Effect
+  // Countdown Timer Effect & Auto-Submit on Timeout
   useEffect(() => {
     const timer = setInterval(() => {
-      setTimeLeft((prev) => (prev > 0 ? prev - 1 : 0));
+      setTimeLeft((prev) => {
+        if (prev <= 1) {
+          clearInterval(timer);
+          submitExam();
+          return 0;
+        }
+        return prev - 1;
+      });
     }, 1000);
     return () => clearInterval(timer);
   }, []);
@@ -91,68 +178,22 @@ export default function CBTExamScreen() {
     setUserAnswer(currentQuestion.id, optionKey);
   };
 
- 
-
   const handleNext = async () => {
     if (currentIndex < questions.length - 1) {
       setCurrentIndex(currentIndex + 1);
     } else {
-      console.log("Submitting exam and navigating to results...");
-      try {
-        // Calculate duration and compile exam data payload for Laravel
-        const timeSpentSeconds = startTime ? Math.floor((Date.now() - startTime) / 1000) : 0;
-        
-        // Compute metrics required for Laravel history log
-        let totalScore = 0;
-        let totalQuestionsCount = questions.length;
-        const subjectsMap = {};
-
-        currentCourses.forEach((course) => {
-          subjectsMap[course] = { name: course, score: 0, total: 0 };
-        });
-
-        questions.forEach((q) => {
-          if (!subjectsMap[q.subject]) {
-            subjectsMap[q.subject] = { name: q.subject, score: 0, total: 0 };
-          }
-          subjectsMap[q.subject].total += 1;
-
-          const userAnswer = userAnswers[q.id];
-          const correctAnswer = (q.answer || q.correctAnswer || q.correct || '').trim().toLowerCase();
-          const formattedUserAnswer = (userAnswer || '').trim().toLowerCase();
-
-          if (formattedUserAnswer && formattedUserAnswer === correctAnswer) {
-            totalScore += 1;
-            subjectsMap[q.subject].score += 1;
-          }
-        });
-
-        const totalPercentage = totalQuestionsCount > 0 ? Math.round((totalScore / totalQuestionsCount) * 100) : 0;
-
-        // const userId = 1; // Replace with your authenticated user ID source
-        await axios.post(`${process.env.EXPO_PUBLIC_API_URL}/user/save-exam-history/${user.id}`, {
-          totalScore: totalScore,
-          maxScore: totalQuestionsCount,
-          percentage: totalPercentage,
-          passed: totalPercentage >= 50,
-          timeSpentSeconds,
-          subjects: Object.values(subjectsMap),
-          userAnswers: userAnswers,
-        });
-        
-        router.replace('/screen/result-screen');
-      } catch (error) {
-        console.log("Submission error:", error);
-      }
+      await submitExam();
     }
   };
-
 
   const handlePrevious = () => {
     if (currentIndex > 0) {
       setCurrentIndex(currentIndex - 1);
     }
   };
+
+  // Check if timer is below 5 minutes (300 seconds)
+  const isTimeLow = timeLeft < 300;
 
   return (
     <SafeAreaView className="flex-1 bg-white">
@@ -166,10 +207,19 @@ export default function CBTExamScreen() {
           </Text>
         </View>
 
-        {/* Timer Counter */}
-        <View className="flex-row items-center bg-gray-50 px-3 py-1.5 rounded-xl border border-gray-200">
-          <Ionicons name="time-outline" size={16} color="#16a34a" style={{ marginRight: 6 }} />
-          <Text className="text-xs font-bold text-gray-800 tracking-wider">
+        {/* Timer Counter (Turns red when under 5 minutes) */}
+        <View className={`flex-row items-center px-3 py-1.5 rounded-xl border ${
+          isTimeLow ? 'bg-red-50 border-red-200' : 'bg-gray-50 border-gray-200'
+        }`}>
+          <Ionicons 
+            name="time-outline" 
+            size={16} 
+            color={isTimeLow ? "#dc2626" : "#16a34a"} 
+            style={{ marginRight: 6 }} 
+          />
+          <Text className={`text-xs font-bold tracking-wider ${
+            isTimeLow ? 'text-red-600' : 'text-gray-800'
+          }`}>
             {formatTime(timeLeft)}
           </Text>
         </View>
@@ -197,16 +247,36 @@ export default function CBTExamScreen() {
           ) : null}
         </View>
 
-        {/* Question Text */}
-        <Text className="text-lg font-bold text-gray-900 leading-relaxed mb-4">
-          {currentQuestion.question}
-        </Text>
+        {/* Question Text (Rendered cleanly with HTML & Bold Support) */}
+        <View className="mb-4">
+          <RenderHtml
+            contentWidth={width}
+            source={{ html: cleanHtmlContent(currentQuestion.question) }}
+            tagsStyles={{
+              body: {
+                fontSize: 18,
+                color: '#111827',
+                lineHeight: 28,
+              },
+              b: {
+                fontWeight: 'bold',
+                color: '#111827',
+              },
+              strong: {
+                fontWeight: 'bold',
+                color: '#111827',
+              }
+            }}
+          />
+        </View>
 
-        {/* Conditional Question Image */}
+        {/* Conditional Question Image (Cleaned for malformed HTTPS URLs) */}
         {currentQuestion.image ? (
           <View className="mb-6 rounded-2xl overflow-hidden border border-gray-200 bg-gray-50">
             <Image 
-              source={{ uri: currentQuestion.image }} 
+              source={{ 
+                uri: currentQuestion.image.replace('https=>//', 'https://').replace('http=>//', 'http://') 
+              }} 
               className="w-full h-48"
               resizeMode="contain"
             />
@@ -272,7 +342,7 @@ export default function CBTExamScreen() {
       <View className="absolute bottom-0 left-0 right-0 bg-white border-t border-gray-100 px-6 py-4 flex-row justify-between items-center z-50">
         <TouchableOpacity
           activeOpacity={currentIndex > 0 ? 0.8 : 1}
-          disabled={currentIndex === 0}
+          disabled={currentIndex === 0 || isSubmitting}
           onPress={handlePrevious}
           className={`px-5 h-12 rounded-2xl flex-row items-center border border-gray-200 ${
             currentIndex === 0 ? 'bg-gray-100' : 'bg-white'
@@ -286,19 +356,34 @@ export default function CBTExamScreen() {
 
         <TouchableOpacity
           activeOpacity={0.8}
+          disabled={isSubmitting}
           onPress={handleNext}
           className="flex-1 ml-4 h-12 rounded-2xl bg-green-600 flex-row justify-center items-center"
         >
-          <Text className="text-sm font-bold text-white mr-2">
-            {currentIndex === questions.length - 1 ? 'Submit Exam' : 'Next Question'}
-          </Text>
-          <Ionicons 
-            name={currentIndex === questions.length - 1 ? 'checkmark-circle-outline' : 'arrow-forward-outline'} 
-            size={18} 
-            color="#ffffff" 
-          />
+          {isSubmitting ? (
+            <ActivityIndicator size="small" color="#ffffff" />
+          ) : (
+            <>
+              <Text className="text-sm font-bold text-white mr-2">
+                {currentIndex === questions.length - 1 ? 'Submit Exam' : 'Next Question'}
+              </Text>
+              <Ionicons 
+                name={currentIndex === questions.length - 1 ? 'checkmark-circle-outline' : 'arrow-forward-outline'} 
+                size={18} 
+                color="#ffffff" 
+              />
+            </>
+          )}
         </TouchableOpacity>
       </View>
     </SafeAreaView>
   );
 }
+
+
+
+
+
+
+
+

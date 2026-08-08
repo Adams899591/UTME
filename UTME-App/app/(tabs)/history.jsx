@@ -17,9 +17,17 @@ export default function CBTHistoryScreen() {
   const { user } = useContext(UserContext);
   const router = useRouter();
 
-  const [isSubscribed] = useState(true);
+  const [isSubscribed, setIsSubscribed] = useState(false);
   const [examHistoryList, setExamHistoryList] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
+
+  useEffect(() => {
+    if (user?.payment_status === 'paid') {
+      setIsSubscribed(true);
+    } else {
+      setIsSubscribed(false);
+    }
+  }, [user]);
 
   // Helper function to format seconds into mm:ss or readable format
   const formatDuration = (seconds) => {
@@ -61,6 +69,16 @@ export default function CBTHistoryScreen() {
     fetchExamHistory();
   }, []);
 
+  // EARLY RETURN FOR LOADING: This runs completely on its own before rendering the screen layout
+  if (isLoading) {
+    return (
+      <SafeAreaView className="flex-1 bg-gray-50 justify-center items-center">
+        <ActivityIndicator size="large" color="#16a34a" />
+        <Text className="text-xs text-gray-500 mt-3 font-medium">Loading exam history...</Text>
+      </SafeAreaView>
+    );
+  }
+
   return (  
     <SafeAreaView className="flex-1 bg-gray-50">
       <StatusBar barStyle="dark-content" backgroundColor="#f9fafb" />
@@ -90,14 +108,34 @@ export default function CBTHistoryScreen() {
         showsVerticalScrollIndicator={false}
         contentContainerStyle={{ paddingBottom: 40 }}
       >
-        {isLoading ? (
-          <View className="py-20 items-center justify-center">
-            <ActivityIndicator size="large" color="#16a34a" />
-          </View>
-        ) : !isSubscribed ? (
-          <View className="bg-amber-50 border border-amber-200 rounded-3xl p-5 mb-6 shadow-sm">
-            {/* Paywall content remains unchanged */}
-          </View>
+        {!isSubscribed ? (
+         <View className="bg-amber-50 border border-amber-200 rounded-3xl p-5 mb-6 shadow-sm">
+             <View className="flex-row items-start mb-3">
+               <View className="w-10 h-10 rounded-xl bg-amber-100 justify-center items-center mr-3.5">
+                 <Ionicons name="lock-closed-outline" size={20} color="#d97706" />
+               </View>
+               <View className="flex-1">
+                 <Text className="text-base font-bold text-amber-900 mb-1">
+                   Unlock Full Exam History
+                 </Text>
+                 <Text className="text-xs leading-relaxed text-amber-800">
+                  You need to upgrade to the paid plan to track, view, and analyze your full exam history and past course attempts.
+                 </Text>
+               </View>
+             </View>
+ 
+             <TouchableOpacity 
+               activeOpacity={0.8}
+               onPress={() => router.push('/(tabs)/subscription')}
+               className="w-full h-12 rounded-2xl bg-amber-600 flex-row justify-center items-center mt-2 shadow-sm"
+             >
+               <Ionicons name="star-outline" size={16} color="#ffffff" style={{ marginRight: 6 }} />
+               <Text className="text-xs font-bold text-white uppercase tracking-wider">
+                 Upgrade to Premium Plan
+               </Text>
+             </TouchableOpacity>
+           </View>
+       
         ) : (
           <>
             <View className="mb-4">
