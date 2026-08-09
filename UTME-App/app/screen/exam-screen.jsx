@@ -8,7 +8,8 @@ import {
   Image,
   ActivityIndicator,
 } from 'react-native';
-import { SafeAreaView } from 'react-native-safe-area-context';
+// import { SafeAreaView } from 'react-native-safe-area-context';
+import { SafeAreaView, useSafeAreaInsets } from "react-native-safe-area-context";
 import { Ionicons } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
 import { UsePracticeStore } from '../../zustand/StorePraticalQuestions'; // Adjust path if needed
@@ -19,6 +20,7 @@ import { useWindowDimensions } from 'react-native';
 
 export default function CBTExamScreen() {
   const { user, setUser } = useContext(UserContext);
+   const insets = useSafeAreaInsets();
   const [isSubscribed, setIsSubscribed] = useState(false);
   const router = useRouter();
   const { width } = useWindowDimensions();
@@ -339,7 +341,9 @@ export default function CBTExamScreen() {
       </ScrollView>
 
       {/* Floating Bottom Navigation Bar */}
-      <View className="absolute bottom-0 left-0 right-0 bg-white border-t border-gray-100 px-6 py-4 flex-row justify-between items-center z-50">
+      <View 
+        style={{ paddingBottom: Math.max(insets.bottom, 16) }}
+       className="absolute bottom-0 left-0 right-0 bg-white border-t border-gray-100 px-6 py-4 flex-row justify-between items-center z-50">
         <TouchableOpacity
           activeOpacity={currentIndex > 0 ? 0.8 : 1}
           disabled={currentIndex === 0 || isSubmitting}

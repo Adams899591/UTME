@@ -6,13 +6,15 @@ import {
   TouchableOpacity,
   StatusBar,
 } from 'react-native';
-import { SafeAreaView } from 'react-native-safe-area-context';
+// import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
+import { SafeAreaView, useSafeAreaInsets } from "react-native-safe-area-context";
 import { UsePracticeStore } from '../../zustand/StorePraticalQuestions'; // Adjust path if needed
 
 export default function CBTOverviewScreen() {
   const router = useRouter();
+  const insets = useSafeAreaInsets();
 
   // Pull currentCourses and practiceQuestions directly from Zustand store!
   const { currentCourses, practiceQuestions } = UsePracticeStore();
@@ -170,18 +172,21 @@ export default function CBTOverviewScreen() {
       </ScrollView>
 
       {/* Bottom Fixed Action Button */}
-      <View className="absolute bottom-0 left-0 right-0 bg-white border-t border-gray-100 px-6 py-4">
-        <TouchableOpacity
-          activeOpacity={0.8}
-          onPress={() => router.push("/screen/exam-screen")}
-          className="w-full h-14 bg-green-600 rounded-2xl flex-row justify-center items-center shadow-lg shadow-green-600/20"
-        >
-          <Ionicons name="play" size={18} color="#ffffff" style={{ marginRight: 8 }} />
-          <Text className="text-base font-bold text-white">
-            Start CBT Simulation Now
-          </Text>
-        </TouchableOpacity>
-      </View>
+      <View 
+      style={{ paddingBottom: Math.max(insets.bottom, 16) }}
+      className="absolute bottom-0 left-0 right-0 bg-white border-t border-gray-100 px-6 pt-4"
+    >
+      <TouchableOpacity
+        activeOpacity={0.8}
+        onPress={() => router.push("/screen/exam-screen")}
+        className="w-full h-14 bg-green-600 rounded-2xl flex-row justify-center items-center shadow-lg shadow-green-600/20"
+      >
+        <Ionicons name="play" size={18} color="#ffffff" style={{ marginRight: 8 }} />
+        <Text className="text-base font-bold text-white">
+          Start CBT Simulation Now
+        </Text>
+      </TouchableOpacity>
+    </View>
     </SafeAreaView>
   );
 }

@@ -15296,5 +15296,5 @@ class ChemistrySeeder extends Seeder
 
 
 
-    };
+    }
 }

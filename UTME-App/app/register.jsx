@@ -1,4 +1,4 @@
-import React, { useContext, useState } from 'react';
+import React, { useContext, useEffect, useState } from 'react';
 import {
   Text,
   View,
@@ -11,6 +11,7 @@ import {
   SafeAreaView,
   ScrollView,
   StatusBar,
+    Keyboard,
 } from 'react-native';
 import { useRouter } from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -31,6 +32,28 @@ export default function SignUpScreen() {
 
   const [errorMessage, setErrorMessage] = useState('');
   const [successMessage, setSuccessMessage] = useState('');
+
+  const [isKeyboardVisible, setKeyboardVisible] = useState(false);
+
+   // this help us to keep track of the user keyboard if it is active or not  
+   useEffect(() => {
+      // Show events differ slightly between iOS and Android for best responsiveness
+      const showEvent = Platform.OS === 'ios' ? 'keyboardWillShow' : 'keyboardDidShow';
+      const hideEvent = Platform.OS === 'ios' ? 'keyboardWillHide' : 'keyboardDidHide';
+  
+      const showSubscription = Keyboard.addListener(showEvent, () => {
+        setKeyboardVisible(true);
+      });
+      const hideSubscription = Keyboard.addListener(hideEvent, () => {
+        setKeyboardVisible(false);
+      });
+  
+      // Clean up listeners on unmount
+      return () => {
+        showSubscription.remove();
+        hideSubscription.remove();
+      };
+    }, []);
 
   // Form validation: true only when all fields have content
   const isFormValid =
@@ -131,7 +154,8 @@ export default function SignUpScreen() {
             alignItems: 'center',
             padding: 24,
             paddingTop: 32,
-            paddingBottom: 60,
+            // paddingBottom: 60 + insets.bottom,
+            paddingBottom: 60 + insets.bottom + (isKeyboardVisible ? 200 : 0),
           }}
           showsVerticalScrollIndicator={false}
           keyboardShouldPersistTaps="handled"
@@ -271,3 +295,13 @@ export default function SignUpScreen() {
     </SafeAreaView>
   );
 }
+
+
+
+
+
+
+
+
+
+

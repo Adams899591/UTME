@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "UTME + WACE Questions & Answers",
-    "slug": "utme-wace-questions-answers",
+    "name": "UTME + WAEC Questions & Answers",
+    "slug": "utme-waec-questions-answers",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "utme-wace-questions-answers",
+    "scheme": "utme-waec-questions-answers",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -19,7 +19,8 @@
         "monochromeImage": "./assets/images/icon.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.dev.adams.utmewaecquestionsanswers"
     },
     "web": {
       "output": "static",
@@ -46,6 +47,18 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "cf305a3b-ee25-464d-93f8-40b7745ac95a"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/cf305a3b-ee25-464d-93f8-40b7745ac95a"
     }
   }
 }
